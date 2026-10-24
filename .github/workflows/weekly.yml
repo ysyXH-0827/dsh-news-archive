@@ -1,8 +1,8 @@
 name: weekly
 
 # 每周一 00:20（北京时间 = 周日 16:20 UTC）把上周的归档拼成一份周报素材：
-#   digest/weekly-<今天>.md
-# 同样跑在 GitHub 上，用户不用开机；内容只是脚本级汇总（无模型），
+#   reports/week-<日期>.json + digest/weekly-<日期>.md
+# 跑在 GitHub 上，用户不用开机；内容只是脚本级汇总（无模型），
 # 需要成稿时再让 DSH 读这份 Markdown 或本地 archive-pull 后的 JSON。
 on:
   schedule:
@@ -36,7 +36,7 @@ jobs:
         run: |
           DAY="$(TZ=Asia/Shanghai date +%F)"
           node node_modules/dsh-search-contrl/scripts/archive-merge.mjs \
-            --date="$DAY" --days=7 --out="reports/week-${DAY}.json" 2>>merge.log
+            --date="$DAY" --days=7 --dir=archive --out="reports/week-${DAY}.json" 2>>merge.log
           node node_modules/dsh-search-contrl/scripts/archive-digest.mjs \
             --file="reports/week-${DAY}.json" --window=all --max=10 \
             --out="digest/weekly-${DAY}.md"
