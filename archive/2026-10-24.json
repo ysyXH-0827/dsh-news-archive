@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T12:12:17.197Z",
+ "generatedAt": "2026-10-24T12:30:35.300Z",
  "targetDate": "2026-10-24",
  "uniqueItems": [
   {
@@ -243,38 +243,6 @@
    "at": "2026-10-24 00:35"
   },
   {
-   "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-   "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "欢迎来到「大逆向时代」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 10:10:44 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 18:10"
-  },
-  {
-   "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
-   "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "来了来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 03:25:33 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 11:25"
-  },
-  {
-   "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-   "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 02:07:19 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 10:07"
-  },
-  {
-   "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-   "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 00:26:49 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 08:26"
-  },
-  {
    "title": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
    "url": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
    "desc": "EGO Power’s commercial group showed up at this week’s EQUIP Expo with a trio of new zero-turn riding mowers, a commercial-grade 780 CFM leaf blower , and a heavy-duty 16.5″ trimmer built for the 56V P",
@@ -329,6 +297,150 @@
    "atRaw": "Fri, 23 Oct 2026 16:56:23 +0000",
    "source": "electrek",
    "at": "2026-10-24 00:56"
+  },
+  {
+   "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
+   "url": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
+   "desc": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant.",
+   "atRaw": "Sat, 24 Oct 2026 12:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 20:00"
+  },
+  {
+   "title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon",
+   "url": "https://insideevs.com/features/813134/insideevs-podcast-bmw-ix5-gm-tesla/",
+   "desc": "On the Plugged-In Podcast, Tim drives the BMW iX5, Mack tests Geely EVs, and we react to GM's big tech plans and the Tesla Roadster.",
+   "atRaw": "Fri, 23 Oct 2026 21:39:28 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 05:39"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "desc": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
+   "atRaw": "Fri, 23 Oct 2026 17:13:54 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 01:13"
+  },
+  {
+   "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+   "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "欢迎来到「大逆向时代」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 10:10:44 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 18:10"
+  },
+  {
+   "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+   "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "来了来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 03:25:33 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 11:25"
+  },
+  {
+   "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+   "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 02:07:19 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 10:07"
+  },
+  {
+   "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+   "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 00:26:49 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 08:26"
+  },
+  {
+   "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+   "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 24 Oct 2026 13:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 21:00"
+  },
+  {
+   "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+   "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 24 Oct 2026 10:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 18:00"
+  },
+  {
+   "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+   "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 19:40:29 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 03:40"
+  },
+  {
+   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:54:19 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:54"
+  },
+  {
+   "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
+   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:53:09 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:53"
+  },
+  {
+   "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+   "url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:48:25 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:48"
+  },
+  {
+   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
+   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:40:09 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:40"
+  },
+  {
+   "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
+   "url": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:35:04 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:35"
+  },
+  {
+   "title": "全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图",
+   "url": "https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:13:58 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:13"
+  },
+  {
+   "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
+   "url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 16:27:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 00:27"
+  },
+  {
+   "title": "在硅谷，遇见个人计算机历史",
+   "url": "https://sspai.com/post/116128",
+   "desc": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Sat, 24 Oct 2026 16:26:02 +0800",
+   "source": "sspai",
+   "at": "2026-10-24 16:26"
   },
   {
    "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
@@ -515,28 +627,36 @@
    "at": "2026-10-24 13:02"
   },
   {
-   "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
-   "url": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
-   "desc": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant.",
-   "atRaw": "Sat, 24 Oct 2026 12:00:00 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 20:00"
+   "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
+   "url": "https://www.ithome.com/1/017/498.htm",
+   "desc": "<p data-vmark=\"612c\">IT之家 10 月 24 日消息，小米 REDMI 显示器 G25 300Hz 2027 已经上架京东并开售，售价显示为 799 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56jjIdC\" target=\"_blank\" data-wapurl=\"https://u.jd.co",
+   "atRaw": "Sat, 24 Oct 2026 12:30:11 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:30"
   },
   {
-   "title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon",
-   "url": "https://insideevs.com/features/813134/insideevs-podcast-bmw-ix5-gm-tesla/",
-   "desc": "On the Plugged-In Podcast, Tim drives the BMW iX5, Mack tests Geely EVs, and we react to GM's big tech plans and the Tesla Roadster.",
-   "atRaw": "Fri, 23 Oct 2026 21:39:28 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 05:39"
+   "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
+   "url": "https://www.ithome.com/1/017/497.htm",
+   "desc": "<p data-vmark=\"3df6\">IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OfLbtU\" target=\"_blank\" data-wapurl=\"htt",
+   "atRaw": "Sat, 24 Oct 2026 12:23:19 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:23"
   },
   {
-   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-   "desc": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
-   "atRaw": "Fri, 23 Oct 2026 17:13:54 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 01:13"
+   "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
+   "url": "https://www.ithome.com/1/017/496.htm",
+   "desc": "<p data-vmark=\"8211\">IT之家 10 月 24 日消息，达音科现已在京东上架 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，定价为 999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gjxBY0\" target=\"_blank\" data-wapurl=\"https://u.jd.",
+   "atRaw": "Sat, 24 Oct 2026 12:20:24 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:20"
+  },
+  {
+   "title": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程",
+   "url": "https://www.ithome.com/1/017/495.htm",
+   "desc": "<p data-vmark=\"99ae\">IT之家 10 月 24 日消息，暮色四合，天幕上一朵巨大的“夜光水母”缓缓舒展。10 月 23 日傍晚，山西、北京、山东、河北等地的不少人在夜空中看到了这一幕：橘红色尾焰划过之后，一条泛着淡白柔光的尾迹在高空铺开，边缘绵长弥散，形似水母的触须。相关画面很快在社交平台刷屏。</p><p style=\"text-align: center;\" data-vm",
+   "atRaw": "Sat, 24 Oct 2026 12:18:32 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:18"
   },
   {
    "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
@@ -986,126 +1106,6 @@
    "at": "2026-10-24 14:59"
   },
   {
-   "title": "中端大战将启：曝 OPPO Reno 17、vivo S70、荣耀 700、华为 nova 17 系列手机将于 11 月集中发布",
-   "url": "https://www.ithome.com/1/017/389.htm",
-   "desc": "<p data-vmark=\"4a5e\">IT之家 10 月 24 日消息，博主 @数码闲聊站 今日发文，曝光了 11 月的新机，包括：<strong>OPPO Reno 17 系列、vivo S70 系列、荣耀 700 系列和华为 nova 17 系列</strong>。</p><p style=\"text-align: center;\" data-vmark=\"a077\"><img src=\"",
-   "atRaw": "Sat, 24 Oct 2026 06:58:28 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:58"
-  },
-  {
-   "title": "全国民航明起执行冬春航季航班计划，34 家航司拟新开 288 条国内航线",
-   "url": "https://www.ithome.com/1/017/388.htm",
-   "desc": "<p data-vmark=\"28d6\">IT之家 10 月 24 日消息，据央视新闻报道，2026 年 10 月 25 日（明天）至 2027 年 3 月 27 日，全国民航正式执行 <strong>2026/2027 年冬春航季航班计划</strong>。新航季共有 216 家国内外航空公司计划每周安排客货运航班 11.6 万班。</p><p data-vmark=\"8265\">国内航班方面，",
-   "atRaw": "Sat, 24 Oct 2026 06:54:47 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:54"
-  },
-  {
-   "title": "“9 个 5”中国联通手机号无人出价流拍后将再度二拍：起拍价 23.1 万元，涉 130 万元借款纠纷",
-   "url": "https://www.ithome.com/1/017/387.htm",
-   "desc": "<p data-vmark=\"8aa6\">IT之家 10 月 24 日消息，阿里资产平台显示，一个包含“9 个 5”的联通靓号“15555455555”将进行二拍，开拍时间为 11 月 3 日 10:00，起拍价 23.10 万元，加价幅度 1000 元。</p><p style=\"text-align: center;\" data-vmark=\"2ba9\"><img src=\"https://i",
-   "atRaw": "Sat, 24 Oct 2026 06:53:33 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:53"
-  },
-  {
-   "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
-   "url": "https://www.ithome.com/1/017/385.htm",
-   "desc": "<p data-vmark=\"0baa\">IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员<strong>通过办公电脑直接访问 ChatGPT 和 Claude</strong>，要求员工改用微软 Copilot 等获得批准的 AI 服务。</p><p data-vmark=\"184e\">内部资",
-   "atRaw": "Sat, 24 Oct 2026 06:45:40 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:45"
-  },
-  {
-   "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
-   "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Sat, 24 Oct 2026 13:00:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 21:00"
-  },
-  {
-   "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
-   "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Sat, 24 Oct 2026 10:00:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 18:00"
-  },
-  {
-   "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
-   "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 19:40:29 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 03:40"
-  },
-  {
-   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
-   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:54:19 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:54"
-  },
-  {
-   "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
-   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:53:09 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:53"
-  },
-  {
-   "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
-   "url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:48:25 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:48"
-  },
-  {
-   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
-   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:40:09 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:40"
-  },
-  {
-   "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
-   "url": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:35:04 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:35"
-  },
-  {
-   "title": "全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图",
-   "url": "https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:13:58 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:13"
-  },
-  {
-   "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
-   "url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 16:27:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 00:27"
-  },
-  {
-   "title": "在硅谷，遇见个人计算机历史",
-   "url": "https://sspai.com/post/116128",
-   "desc": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Sat, 24 Oct 2026 16:26:02 +0800",
-   "source": "sspai",
-   "at": "2026-10-24 16:26"
-  },
-  {
    "title": "祭出 Kosmo，禾赛要成为机器人的博世？",
    "url": "https://www.tmtpost.com/8179870.html",
    "desc": "做时间的朋友。",
@@ -1304,17 +1304,6 @@
    "atRaw": "Sat, 24 Oct 2026 10:44:00 +0800",
    "source": "leiphone",
    "at": "2026-10-24 10:44"
-  },
-  {
-   "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
-   "url": "http://www.geekpark.net/news/372858",
-   "desc": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhon",
-   "atRaw": "Sat, 24 Oct 2026 08:34:27 +0800",
-   "source": "geekpark",
-   "at": "2026-10-24 08:34",
-   "alsoIn": [
-    "国内 AI"
-   ]
   }
  ],
  "allItems": [
@@ -1717,166 +1706,6 @@
    "atRaw": "Thu, 22 Oct 2026 19:59:37 +0000",
    "source": "ars",
    "at": "2026-10-23 03:59"
-  },
-  {
-   "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-   "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "欢迎来到「大逆向时代」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 10:10:44 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 18:10"
-  },
-  {
-   "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
-   "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "来了来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 03:25:33 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 11:25"
-  },
-  {
-   "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-   "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 02:07:19 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 10:07"
-  },
-  {
-   "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-   "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Sat, 24 Oct 2026 00:26:49 +0000",
-   "source": "ifanr",
-   "at": "2026-10-24 08:26"
-  },
-  {
-   "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
-   "url": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "微信终于适配 iPhone Duo ！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Fri, 23 Oct 2026 09:52:47 +0000",
-   "source": "ifanr",
-   "at": "2026-10-23 17:52"
-  },
-  {
-   "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
-   "url": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Fri, 23 Oct 2026 00:00:25 +0000",
-   "source": "ifanr",
-   "at": "2026-10-23 08:00"
-  },
-  {
-   "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
-   "url": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Thu, 22 Oct 2026 11:15:20 +0000",
-   "source": "ifanr",
-   "at": "2026-10-22 19:15"
-  },
-  {
-   "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
-   "url": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "仰望正在打造属于自己的「古斯特」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Thu, 22 Oct 2026 08:37:53 +0000",
-   "source": "ifanr",
-   "at": "2026-10-22 16:37"
-  },
-  {
-   "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
-   "url": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "网站被攻破后，数据、密码和令牌都可能受到影响 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Thu, 22 Oct 2026 05:58:07 +0000",
-   "source": "ifanr",
-   "at": "2026-10-22 13:58"
-  },
-  {
-   "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
-   "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Thu, 22 Oct 2026 00:45:50 +0000",
-   "source": "ifanr",
-   "at": "2026-10-22 08:45"
-  },
-  {
-   "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
-   "url": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Thu, 22 Oct 2026 00:21:11 +0000",
-   "source": "ifanr",
-   "at": "2026-10-22 08:21"
-  },
-  {
-   "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
-   "url": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "这还是海鸥吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 15:22:35 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 23:22"
-  },
-  {
-   "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
-   "url": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "电池只是理想掏出来的其中一块拼图。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 15:20:40 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 23:20"
-  },
-  {
-   "title": "首发 &#124; 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
-   "url": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "只能说真的很爽 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 12:08:10 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 20:08"
-  },
-  {
-   "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
-   "url": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "小米汽车的新尝试。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 06:56:32 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 14:56"
-  },
-  {
-   "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
-   "url": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 03:50:42 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 11:50"
-  },
-  {
-   "title": "三十而立，奇瑞不想只做一家汽车公司",
-   "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 01:31:11 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 09:31"
-  },
-  {
-   "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
-   "url": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯 · Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提 · 9 月 BBA 主力车型无一零售破万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Wed, 21 Oct 2026 00:21:51 +0000",
-   "source": "ifanr",
-   "at": "2026-10-21 08:21"
-  },
-  {
-   "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
-   "url": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "规则归交互系统，画面归模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Tue, 20 Oct 2026 14:13:34 +0000",
-   "source": "ifanr",
-   "at": "2026-10-20 22:13"
-  },
-  {
-   "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
-   "url": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "desc": "MemT 1.0 开源，给出「记忆原生」新解法 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "atRaw": "Tue, 20 Oct 2026 03:57:44 +0000",
-   "source": "ifanr",
-   "at": "2026-10-20 11:57"
   },
   {
    "title": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
@@ -2679,6 +2508,726 @@
    "at": "2026-10-16 09:00"
   },
   {
+   "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
+   "url": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
+   "desc": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant.",
+   "atRaw": "Sat, 24 Oct 2026 12:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 20:00"
+  },
+  {
+   "title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon",
+   "url": "https://insideevs.com/features/813134/insideevs-podcast-bmw-ix5-gm-tesla/",
+   "desc": "On the Plugged-In Podcast, Tim drives the BMW iX5, Mack tests Geely EVs, and we react to GM's big tech plans and the Tesla Roadster.",
+   "atRaw": "Fri, 23 Oct 2026 21:39:28 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 05:39"
+  },
+  {
+   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
+   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
+   "desc": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
+   "atRaw": "Fri, 23 Oct 2026 17:13:54 +0000",
+   "source": "insideevs",
+   "at": "2026-10-24 01:13"
+  },
+  {
+   "title": "Why Did The Electric Range Rover Take So Long? A Lot Of Reasons",
+   "url": "https://insideevs.com/features/813093/why-did-the-electric-range-rover-take-so-long/",
+   "desc": "Getting its first EV right wasn't easy, but it was important.",
+   "atRaw": "Fri, 23 Oct 2026 15:13:55 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 23:13"
+  },
+  {
+   "title": "2026 Lexus ES 350e Review: Why This Is Toyota’s Best EV Yet",
+   "url": "https://insideevs.com/reviews/812812/2026-lexus-es-350e-electric-review/",
+   "desc": "The plug-in ES is refined, comfortable, and takes the stress out of long roadtrips.",
+   "atRaw": "Fri, 23 Oct 2026 14:49:53 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 22:49"
+  },
+  {
+   "title": "Kia Plans To Take On Affordable Chinese EVs In Canada With Its Sub-$40K EV3",
+   "url": "https://insideevs.com/news/812978/kia-ev3-chinese-evs-canada/",
+   "desc": "Will a sub $40,000 electric hatchback be able to compete with Chinese offerings?",
+   "atRaw": "Fri, 23 Oct 2026 14:19:38 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 22:19"
+  },
+  {
+   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
+   "url": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
+   "desc": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
+   "atRaw": "Thu, 22 Oct 2026 20:35:10 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 04:35"
+  },
+  {
+   "title": "Want The Best Range Rover? Get The Electric One: First Drive",
+   "url": "https://insideevs.com/reviews/812974/range-rover-electric-first-drive/",
+   "desc": "The electric model is powerful, elegant, and capable. And it doesn't even cost more than the gas model.",
+   "atRaw": "Thu, 22 Oct 2026 19:08:45 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 03:08"
+  },
+  {
+   "title": "I Drove The Electric BMW X5. It Makes The Gas Version A Tough Sell.",
+   "url": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027/",
+   "desc": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers into an EV.",
+   "atRaw": "Thu, 22 Oct 2026 19:01:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 03:01"
+  },
+  {
+   "title": "The Ferrari Luce Officially Starts At $560,800",
+   "url": "https://insideevs.com/news/812962/ferrari-luce-official-pricing-revealed/",
+   "desc": "The first-ever electric Ferrari makes a Rolls-Royce Cullinan look like a bargain.",
+   "atRaw": "Thu, 22 Oct 2026 17:44:31 +0000",
+   "source": "insideevs",
+   "at": "2026-10-23 01:44"
+  },
+  {
+   "title": "The 2027 Ford Mustang Mach-E Has More Range As Standard",
+   "url": "https://insideevs.com/news/812887/2027-ford-mustang-mach-e-trail-battery-range/",
+   "desc": "The extended-range battery is now fitted at no extra cost across the lineup. Plus, there’s a new Trail trim with lifted suspension.",
+   "atRaw": "Thu, 22 Oct 2026 13:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 21:00"
+  },
+  {
+   "title": "BMW’s Electric M3 Had To First Win Over One Of Its Own",
+   "url": "https://insideevs.com/news/812906/bmw-m3-documentary-track-testing/",
+   "desc": "Winning over a skeptical test driver takes more than horsepower.",
+   "atRaw": "Thu, 22 Oct 2026 12:49:54 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 20:49"
+  },
+  {
+   "title": "Seattle Is Installing Hundreds Of Curbside EV Chargers",
+   "url": "https://insideevs.com/news/812869/seattle-curbside-ev-chargers-2030/",
+   "desc": "Residents will decide where the Level 2 chargers will be installed, and the city will prioritize areas with apartment buildings.",
+   "atRaw": "Thu, 22 Oct 2026 07:58:05 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 15:58"
+  },
+  {
+   "title": "Spotify’s First Native In-Car App Is Hitting Audi EVs First",
+   "url": "https://insideevs.com/news/812853/spotify-new-in-car-app-audi/",
+   "desc": "Built without Google’s design restrictions, the new app will go live on the Audi A6 e-tron and Q6 e-tron around the world.",
+   "atRaw": "Thu, 22 Oct 2026 06:56:45 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 14:56"
+  },
+  {
+   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
+   "url": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
+   "desc": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
+   "atRaw": "Wed, 21 Oct 2026 23:39:41 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 07:39"
+  },
+  {
+   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
+   "url": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
+   "desc": "But the vast majority of Cybercabs will be owned by Tesla, CEO Elon Musk says.",
+   "atRaw": "Wed, 21 Oct 2026 22:17:21 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 06:17"
+  },
+  {
+   "title": "The Midterms Won't Mean Much For EV Policy, Analysts Say",
+   "url": "https://insideevs.com/news/812832/midterm-elections-ev-sales/",
+   "desc": "Even if Democrats flip congress, they won't be able to make meaningful change.",
+   "atRaw": "Wed, 21 Oct 2026 21:31:54 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 05:31"
+  },
+  {
+   "title": "General Motors Isn't 'Walking Away' From EVs, Top Exec Says",
+   "url": "https://insideevs.com/news/812806/gm-not-walking-away-evs/",
+   "desc": "A fourth-gen EV platform powered by LMR cells is coming soon.",
+   "atRaw": "Wed, 21 Oct 2026 18:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 02:00"
+  },
+  {
+   "title": "GM Is Adding Its Own Version Of Tesla's Sentry Mode To Cars",
+   "url": "https://insideevs.com/news/812803/gm-sentry-mode-coming-soon/",
+   "desc": "GM's new OnStar Connected Cameras sound like a page out of Tesla's tech-focused playbook.",
+   "atRaw": "Wed, 21 Oct 2026 18:57:51 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 02:57"
+  },
+  {
+   "title": "Rivian Was The Second Best-Selling EV Brand In Q3 2026, But Still Far Behind Tesla",
+   "url": "https://insideevs.com/news/812808/rivian-r2-q3-sales/",
+   "desc": "Move over Chevy, there's a new second-place in town.",
+   "atRaw": "Wed, 21 Oct 2026 18:48:28 +0000",
+   "source": "insideevs",
+   "at": "2026-10-22 02:48"
+  },
+  {
+   "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+   "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "欢迎来到「大逆向时代」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 10:10:44 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 18:10"
+  },
+  {
+   "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+   "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "来了来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 03:25:33 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 11:25"
+  },
+  {
+   "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+   "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "大而美的 Kimi 回来了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 02:07:19 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 10:07"
+  },
+  {
+   "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+   "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 24 Oct 2026 00:26:49 +0000",
+   "source": "ifanr",
+   "at": "2026-10-24 08:26"
+  },
+  {
+   "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+   "url": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "微信终于适配 iPhone Duo ！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 23 Oct 2026 09:52:47 +0000",
+   "source": "ifanr",
+   "at": "2026-10-23 17:52"
+  },
+  {
+   "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+   "url": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 23 Oct 2026 00:00:25 +0000",
+   "source": "ifanr",
+   "at": "2026-10-23 08:00"
+  },
+  {
+   "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+   "url": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "大的还在后面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 22 Oct 2026 11:15:20 +0000",
+   "source": "ifanr",
+   "at": "2026-10-22 19:15"
+  },
+  {
+   "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
+   "url": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "仰望正在打造属于自己的「古斯特」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 22 Oct 2026 08:37:53 +0000",
+   "source": "ifanr",
+   "at": "2026-10-22 16:37"
+  },
+  {
+   "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+   "url": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "网站被攻破后，数据、密码和令牌都可能受到影响 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 22 Oct 2026 05:58:07 +0000",
+   "source": "ifanr",
+   "at": "2026-10-22 13:58"
+  },
+  {
+   "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+   "url": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 22 Oct 2026 00:45:50 +0000",
+   "source": "ifanr",
+   "at": "2026-10-22 08:45"
+  },
+  {
+   "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+   "url": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码 · 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND · Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 22 Oct 2026 00:21:11 +0000",
+   "source": "ifanr",
+   "at": "2026-10-22 08:21"
+  },
+  {
+   "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
+   "url": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "这还是海鸥吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 15:22:35 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 23:22"
+  },
+  {
+   "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
+   "url": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "电池只是理想掏出来的其中一块拼图。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 15:20:40 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 23:20"
+  },
+  {
+   "title": "首发 &#124; 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
+   "url": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "只能说真的很爽 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 12:08:10 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 20:08"
+  },
+  {
+   "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
+   "url": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "小米汽车的新尝试。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 06:56:32 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 14:56"
+  },
+  {
+   "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
+   "url": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 03:50:42 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 11:50"
+  },
+  {
+   "title": "三十而立，奇瑞不想只做一家汽车公司",
+   "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 01:31:11 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 09:31"
+  },
+  {
+   "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
+   "url": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯 · Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提 · 9 月 BBA 主力车型无一零售破万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 21 Oct 2026 00:21:51 +0000",
+   "source": "ifanr",
+   "at": "2026-10-21 08:21"
+  },
+  {
+   "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
+   "url": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "规则归交互系统，画面归模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Tue, 20 Oct 2026 14:13:34 +0000",
+   "source": "ifanr",
+   "at": "2026-10-20 22:13"
+  },
+  {
+   "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+   "url": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "MemT 1.0 开源，给出「记忆原生」新解法 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Tue, 20 Oct 2026 03:57:44 +0000",
+   "source": "ifanr",
+   "at": "2026-10-20 11:57"
+  },
+  {
+   "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+   "url": "https://www.solidot.org/story?sid=85697",
+   "desc": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个",
+   "atRaw": "Fri, 23 Oct 2026 20:01:50 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 20:01"
+  },
+  {
+   "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+   "url": "https://www.solidot.org/story?sid=85696",
+   "desc": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户",
+   "atRaw": "Fri, 23 Oct 2026 19:07:11 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 19:07"
+  },
+  {
+   "title": "宫本茂成为首位获得日本文化勋章的游戏从业者",
+   "url": "https://www.solidot.org/story?sid=85695",
+   "desc": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心",
+   "atRaw": "Fri, 23 Oct 2026 18:03:59 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 18:03"
+  },
+  {
+   "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
+   "url": "https://www.solidot.org/story?sid=85694",
+   "desc": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍",
+   "atRaw": "Fri, 23 Oct 2026 17:32:18 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 17:32"
+  },
+  {
+   "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
+   "url": "https://www.solidot.org/story?sid=85693",
+   "desc": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 ",
+   "atRaw": "Fri, 23 Oct 2026 16:48:00 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 16:48"
+  },
+  {
+   "title": "浏览器 Arc 将于 12 月关闭",
+   "url": "https://www.solidot.org/story?sid=85692",
+   "desc": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建新的 Arc 账号，11 月 23 日起停用部分功能，12 月 22 日无法启动",
+   "atRaw": "Fri, 23 Oct 2026 15:25:16 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 15:25"
+  },
+  {
+   "title": "Switch 2 越狱能运行自制程序",
+   "url": "https://www.solidot.org/story?sid=85691",
+   "desc": "研究员 Sammy Hajhamid 利用软件漏洞在 Switch 2 上实现越狱，而且能运行自制程序。越狱利用了一个专门运行在任天堂硬件上的编程环境和解释器 SmileBasic 4。Hajhamid 使用 OpenAI 的 Codex 对 SmileBasic 的语言解释器进行探测，花了两周时间发现了一个 32 位整数溢出漏洞，利用该漏洞能对部分系统内存进行读写操作。他在此基础上从 Switc",
+   "atRaw": "Fri, 23 Oct 2026 15:11:05 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 15:11"
+  },
+  {
+   "title": "KeePassXC 2.8.0 释出",
+   "url": "https://www.solidot.org/story?sid=85690",
+   "desc": "开源密码管理器项目 KeePassXC 释出了 v2.8.0。KeePassXC 代表 KeePass Cross-Platform Community Edition，是 KeePassX 的一个分支，而 KeePassX 则是基于 Qt 构建的 KeePass 克隆版本，但已停止维护。KeePassXC 2.8.0 带来了用户期待的新功能，大量 bug 修复和安全修正。主要特性包括：Qt 的版",
+   "atRaw": "Fri, 23 Oct 2026 14:05:58 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 14:05"
+  },
+  {
+   "title": "eMudhra 退出全球 CA 业务",
+   "url": "https://www.solidot.org/story?sid=85689",
+   "desc": "在曝出惊人丑闻之后，印度公司 eMudhra 宣布退出全球 CA 业务，将专注于核心企业解决方案和信任服务而非 SSL/TLS 相关业务。它是印度唯一一个被主流浏览器信任的 Root CA 机构。截至 2026 年，公司已发行逾 6000 万张证书。此前 eMudhra 的八个中间证书的私钥泄漏，而这些私钥被发现是极其简单的数字如 4。该公司在声明中称这些简单密钥是“多重人为错误”导致的。相关密钥",
+   "atRaw": "Fri, 23 Oct 2026 11:32:21 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:32"
+  },
+  {
+   "title": "趋势科技在公开的内核邮件列表上披露内核漏洞",
+   "url": "https://www.solidot.org/story?sid=85688",
+   "desc": "趋势科技的安全团队 Zero Day Initiative 向人人可访问的内核邮件列表上递交了一系列新发现的内核漏洞。按照惯例，漏洞应该递交到不对外公开的安全邮件列表。递交的部分漏洞没有补丁，部分漏洞已有补丁在测试，这些漏洞的 CVSS 风险评分最高为 9.0。稳定版内核维护者 Greg Kroah-Hartman 批评安全研究人员将漏洞报告递交到公共的邮件列表。而在 AI 辅助漏洞发现时代，此类",
+   "atRaw": "Fri, 23 Oct 2026 11:30:41 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:30"
+  },
+  {
+   "title": "科学家揭示低温延缓衰老的机制",
+   "url": "https://www.solidot.org/story?sid=85687",
+   "desc": "适度低温已被证明能有效延长动物寿命，延缓与衰老相关的机能衰退。但低温延缓衰老的分子机制是什么？研究人员利用秀丽隐杆线虫（Caenorhabditis elegans ）发现，低温会触发代谢物 dihydrobiopterin (BH2)的大量产生，其中肌肉充当了中央工厂的作用，负责合成 BH2，BH2 随后输送至身体其它组织，诱导氨基酸酪氨酸（tyrosine）的合成，它有助于维持蛋白质稳态，在衰",
+   "atRaw": "Fri, 23 Oct 2026 11:29:40 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:29"
+  },
+  {
+   "title": "逾半数美国人认为 AI 对社会有害",
+   "url": "https://www.solidot.org/story?sid=85686",
+   "desc": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认为它对社会极其有益，17% 的人认为它对社会极其有害。与年长者相比，年轻的美国人更有可能认为 AI 对社会有害：在 30 岁以下的美国人中，65% 的人持此观点；在 30-39 岁的群体中，这一比例为 59%。而在 40 岁及以上的美国人中",
+   "atRaw": "Fri, 23 Oct 2026 11:28:59 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:28"
+  },
+  {
+   "title": "研究识别出第一位企业心理病态者",
+   "url": "https://www.solidot.org/story?sid=85685",
+   "desc": "一项新研究指出，有毒企业领导人身上所见的性格特征可追溯到一位 400 年前的荷兰东印度公司的企业官员。该公司的商户部经理 Jeronimus Cornelisz 可能是最早有文献记录的企业心理病态者。研究发现，他表现出了与企业心理病态者相关的全部 10 项核心特征。这些特征包括：利用个人魅力博取信任；在身边聚集忠诚的追随者；清除潜在的挑战者；在竞争对手之间制造分裂；营造恐惧氛围；出问题时推卸责任；",
+   "atRaw": "Fri, 23 Oct 2026 11:26:49 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:26"
+  },
+  {
+   "title": "毅力号行使距离超机遇号刷新历史记录",
+   "url": "https://www.solidot.org/story?sid=85684",
+   "desc": "毅力号火星车创下新的世界纪录——它在地外天体表面的行驶里程，超过了此前所有探测器。10月11日，它的里程表读数达到28.10英里（45.22公里），超越了此前由机遇号保持的28.06英里（45.16公里）纪录。机遇号于2004至2018年间在火星开展探测。机遇号耗费近15年才跑完该里程，而毅力号仅用时5年半。这一里程碑事件发生在它的第2006个火星日。毅力号能长途行进，一大核心原因是搭载了先进的自",
+   "atRaw": "Fri, 23 Oct 2026 11:25:21 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:25"
+  },
+  {
+   "title": "因加州考虑征收亿万富翁税扎克伯格有意离开",
+   "url": "https://www.solidot.org/story?sid=85683",
+   "desc": "Meta 周三警告，如果加州通过亿万富翁税，公司 CEO 扎克伯格（Mark Zuckerberg）可能会离开加州迁往他处。扎克伯格已向公司特别委员会告知了这一可能性。据 Meta 在监管文件中披露的计划，为了让扎克伯格未来八年继续留在加州领导公司，公司将设立一类新股票，允许他出售在 Meta 中最多一半的经济权益，同时保留投票控制权。亿万富翁税提案已列入加州 11 月的选票，提议对亿万富翁的资产",
+   "atRaw": "Fri, 23 Oct 2026 11:23:55 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:23"
+  },
+  {
+   "title": "OpenClaw 作者称他上个月花掉了千万美元的 Tokens",
+   "url": "https://www.solidot.org/story?sid=85682",
+   "desc": "周三旧金山举行的 Cloudflare Connect 2026 大会上，OpenAI 技术部成员、OpenClaw 作者 Peter Steinberger 在与 Cloudflare CTO Dane Knecht 对话时透露，上个月运行 AI 工作负载消耗了价值约 1000 万美元的 Token。当然这笔支出不用他自己掏钱，他花的是投资人的钱。Steinberger 称自己拥有几乎无限的 T",
+   "atRaw": "Fri, 23 Oct 2026 11:22:08 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:22"
+  },
+  {
+   "title": "美光桃园厂员工罢工一天",
+   "url": "https://www.solidot.org/story?sid=85681",
+   "desc": "美光在台有两座工厂，其中桃园厂工会与资方就员工利润分红未能达成共识，星期四（10月22日）发动24小时罢工；台中厂工会于周三签署劳资协议，但未公布具体内容。桃园厂工会星期四上午9时起，在厂区门口展开为期24小时的罢工行动，预计持续至星期五（23日）上午9时。美光桃园厂约有3000名员工，其中约2400人为工会会员；台中厂则有约1万2300名员工，工会会员约1万1000人。桃园厂工会的主要诉求是，要",
+   "atRaw": "Fri, 23 Oct 2026 11:02:58 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:02"
+  },
+  {
+   "title": "EA 关闭 BioWare 工作室，取消《质量效应》新作开发",
+   "url": "https://www.solidot.org/story?sid=85680",
+   "desc": "EA 裁员约 400 人，关闭 BioWare 工作室，取消《质量效应》新作开发。BioWare 工作室成立于 1995 年，创始人是医生，2007 年出售给 EA，创始人在 2012 年左右退出。该工作室的游戏包括了《博德之门》、《无冬之夜》、《星战旧共和国武士》、《翡翠帝国》、《龙腾世纪》和《质量效应》系列，以及《圣歌》。其中旨在获得持续收入的服务型游戏《圣歌》饱受批评，游戏于 2021 年停",
+   "atRaw": "Fri, 23 Oct 2026 11:02:00 +0800",
+   "source": "solidot",
+   "at": "2026-10-23 11:02"
+  },
+  {
+   "title": "坏苹果效应：人们会效仿他人的违规行为",
+   "url": "https://www.solidot.org/story?sid=85679",
+   "desc": "俗话说，一颗烂苹果，能毁掉一整桶好苹果。发表在《Proceedings of the Royal Society B》期刊上的一项研究再次为坏苹果效应提供了证据。这项研究旨在探讨个人如何在社会情境中做出是否违规的决策。研究人员说，很多人可能以为自己的决策是完全自主做出的，但事实上在很多情况下，我们的行为深受他人的影响。研究人员在美国招募了 750 名参与者进行了一项在线实验，共和党人和民主党人的比",
+   "atRaw": "Thu, 22 Oct 2026 00:41:02 +0800",
+   "source": "solidot",
+   "at": "2026-10-22 00:41"
+  },
+  {
+   "title": "鸟类是地球最重要的养分搬运者之一",
+   "url": "https://www.solidot.org/story?sid=85678",
+   "desc": "鸟类在塑造地球化学环境上的作用被低估了，它们是地球最重要的养分搬运者之一。研究人员揭示了鸟类如何通过自身的排泄物和身躯，将养分在陆地、湖泊和海洋之间搬运。这一过程深深影响着从土壤和水体的化学性质，到动植物的生长。飞行能力让鸟类能跨越广阔的距离，甚至逾越海洋和山脉等天然屏障。鸟类在处理和循环养分上也极其高效。鸟类的食物摄入率比体型相当的哺乳动物高出约 30%。因此鸟类始终处于进食状态——它们大量摄取",
+   "atRaw": "Wed, 21 Oct 2026 23:25:51 +0800",
+   "source": "solidot",
+   "at": "2026-10-21 23:25"
+  },
+  {
+   "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
+   "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 24 Oct 2026 13:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 21:00"
+  },
+  {
+   "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
+   "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 24 Oct 2026 10:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 18:00"
+  },
+  {
+   "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
+   "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 19:40:29 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 03:40"
+  },
+  {
+   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
+   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:54:19 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:54"
+  },
+  {
+   "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
+   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:53:09 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:53"
+  },
+  {
+   "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
+   "url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:48:25 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:48"
+  },
+  {
+   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
+   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:40:09 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:40"
+  },
+  {
+   "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
+   "url": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:35:04 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:35"
+  },
+  {
+   "title": "全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图",
+   "url": "https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 17:13:58 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 01:13"
+  },
+  {
+   "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
+   "url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 16:27:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-24 00:27"
+  },
+  {
+   "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
+   "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 15:45:32 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 23:45"
+  },
+  {
+   "title": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
+   "url": "https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 15:11:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 23:11"
+  },
+  {
+   "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
+   "url": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 13:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 21:00"
+  },
+  {
+   "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
+   "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 12:12:40 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 20:12"
+  },
+  {
+   "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+   "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 12:03:49 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 20:03"
+  },
+  {
+   "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+   "url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 11:39:27 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 19:39"
+  },
+  {
+   "title": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+   "url": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 11:15:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 19:15"
+  },
+  {
+   "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
+   "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 09:05:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 17:05"
+  },
+  {
+   "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
+   "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 23 Oct 2026 08:46:30 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 16:46"
+  },
+  {
+   "title": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+   "url": "https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Thu, 22 Oct 2026 19:16:58 GMT",
+   "source": "infoq",
+   "at": "2026-10-23 03:16"
+  },
+  {
+   "title": "在硅谷，遇见个人计算机历史",
+   "url": "https://sspai.com/post/116128",
+   "desc": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Sat, 24 Oct 2026 16:26:02 +0800",
+   "source": "sspai",
+   "at": "2026-10-24 16:26"
+  },
+  {
+   "title": "本周看什么 | 最近值得一看的 12 部作品",
+   "url": "https://sspai.com/post/117169",
+   "desc": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=&#34;https://sspai.com/post/117169&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 23 Oct 2026 18:09:01 +0800",
+   "source": "sspai",
+   "at": "2026-10-23 18:09"
+  },
+  {
+   "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+   "url": "https://sspai.com/post/116398",
+   "desc": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=&#34;https://sspai.com/post/116398&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 23 Oct 2026 15:00:00 +0800",
+   "source": "sspai",
+   "at": "2026-10-23 15:00"
+  },
+  {
+   "title": "破与立：设计视角下的 iPhone Duo",
+   "url": "https://sspai.com/post/116979",
+   "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/116979&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 23 Oct 2026 11:07:19 +0800",
+   "source": "sspai",
+   "at": "2026-10-23 11:07"
+  },
+  {
+   "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+   "url": "https://sspai.com/post/117104",
+   "desc": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...<a href=&#34;https://sspai.com/post/117104&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 23 Oct 2026 08:20:32 +0800",
+   "source": "sspai",
+   "at": "2026-10-23 08:20"
+  },
+  {
+   "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+   "url": "https://sspai.com/post/115437",
+   "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115437&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 22 Oct 2026 17:10:03 +0800",
+   "source": "sspai",
+   "at": "2026-10-22 17:10"
+  },
+  {
+   "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+   "url": "https://sspai.com/post/116923",
+   "desc": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=&#34;https://sspai.com/post/116923&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 22 Oct 2026 15:00:00 +0800",
+   "source": "sspai",
+   "at": "2026-10-22 15:00"
+  },
+  {
+   "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+   "url": "https://sspai.com/post/115090",
+   "desc": "药物不能解决所有问题，这是是我学到的重要一课。<a href=&#34;https://sspai.com/post/115090&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 22 Oct 2026 11:36:57 +0800",
+   "source": "sspai",
+   "at": "2026-10-22 11:36"
+  },
+  {
+   "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+   "url": "https://sspai.com/post/116953",
+   "desc": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=&#34;https://sspai.com/post/116953&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 22 Oct 2026 08:29:05 +0800",
+   "source": "sspai",
+   "at": "2026-10-22 08:29"
+  },
+  {
+   "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+   "url": "https://sspai.com/post/116820",
+   "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/116820&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Wed, 21 Oct 2026 17:00:00 +0800",
+   "source": "sspai",
+   "at": "2026-10-21 17:00"
+  },
+  {
    "title": "拿到2亿美金融资，Today AI回答了Personal AI的十个核心问题",
    "url": "https://36kr.com/p/4039749830120583?f=rss",
    "desc": "文｜邓咏仪 编辑｜张雨忻 近一个月，包括Muse、Instinct在内的Personal AI产品引起全球轰动，成为最受关注的AI创业赛道。其中，Muse上线22天就突破500万次下载——ChatGPT当年花了56天才达到这一数字——难得地为AI应用赛道争了一口气。 一家AI公司Today AI也许比Muse探索得更早。 创始人齐俊元曾创办Teambition，之后在阿里、字节等大厂负责过各类产品",
@@ -2919,164 +3468,36 @@
    "at": "2026-10-24 13:02"
   },
   {
-   "title": "GM's Future Cars Will Be Very Different. Here's Everything We Learned",
-   "url": "https://insideevs.com/news/813137/general-motors-ev-ai-battery-strategy/",
-   "desc": "Here's everything you need to know about General Motors' big tech event this week, from LMR batteries to a new AI assistant.",
-   "atRaw": "Sat, 24 Oct 2026 12:00:00 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 20:00"
+   "title": "小米推出 24.5 英寸 REDMI 显示器 G25 2027：1080p 300Hz，799 元",
+   "url": "https://www.ithome.com/1/017/498.htm",
+   "desc": "<p data-vmark=\"612c\">IT之家 10 月 24 日消息，小米 REDMI 显示器 G25 300Hz 2027 已经上架京东并开售，售价显示为 799 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/56jjIdC\" target=\"_blank\" data-wapurl=\"https://u.jd.co",
+   "atRaw": "Sat, 24 Oct 2026 12:30:11 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:30"
   },
   {
-   "title": "BMW iX5 First Drive, GM's Big Tech Plans, And Tesla Cybercab Deliveries Are Coming Soon",
-   "url": "https://insideevs.com/features/813134/insideevs-podcast-bmw-ix5-gm-tesla/",
-   "desc": "On the Plugged-In Podcast, Tim drives the BMW iX5, Mack tests Geely EVs, and we react to GM's big tech plans and the Tesla Roadster.",
-   "atRaw": "Fri, 23 Oct 2026 21:39:28 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 05:39"
+   "title": "小米米家钛保温杯茶水分离版 500ml 发售：使用纯钛材质，219 元",
+   "url": "https://www.ithome.com/1/017/497.htm",
+   "desc": "<p data-vmark=\"3df6\">IT之家 10 月 24 日消息，小米米家钛保温杯茶水分离版 500ml 现已在京东发售，新品主打茶水分离设计，可选月光银、深空灰两种配色，定价 219 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5OfLbtU\" target=\"_blank\" data-wapurl=\"htt",
+   "atRaw": "Sat, 24 Oct 2026 12:23:19 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:23"
   },
   {
-   "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
-   "url": "https://insideevs.com/news/813113/tesla-cybertruck-australia-canceled/",
-   "desc": "The company has been taking deposits for seven years. But it just told reservation holders that plans have changed.",
-   "atRaw": "Fri, 23 Oct 2026 17:13:54 +0000",
-   "source": "insideevs",
-   "at": "2026-10-24 01:13"
+   "title": "达音科推出 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，999 元",
+   "url": "https://www.ithome.com/1/017/496.htm",
+   "desc": "<p data-vmark=\"8211\">IT之家 10 月 24 日消息，达音科现已在京东上架 PRS 5“1 圈 3 铁 1 平板五单元”Hi-Fi 耳机，定价为 999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/5gjxBY0\" target=\"_blank\" data-wapurl=\"https://u.jd.",
+   "atRaw": "Sat, 24 Oct 2026 12:20:24 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:20"
   },
   {
-   "title": "Why Did The Electric Range Rover Take So Long? A Lot Of Reasons",
-   "url": "https://insideevs.com/features/813093/why-did-the-electric-range-rover-take-so-long/",
-   "desc": "Getting its first EV right wasn't easy, but it was important.",
-   "atRaw": "Fri, 23 Oct 2026 15:13:55 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 23:13"
-  },
-  {
-   "title": "2026 Lexus ES 350e Review: Why This Is Toyota’s Best EV Yet",
-   "url": "https://insideevs.com/reviews/812812/2026-lexus-es-350e-electric-review/",
-   "desc": "The plug-in ES is refined, comfortable, and takes the stress out of long roadtrips.",
-   "atRaw": "Fri, 23 Oct 2026 14:49:53 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 22:49"
-  },
-  {
-   "title": "Kia Plans To Take On Affordable Chinese EVs In Canada With Its Sub-$40K EV3",
-   "url": "https://insideevs.com/news/812978/kia-ev3-chinese-evs-canada/",
-   "desc": "Will a sub $40,000 electric hatchback be able to compete with Chinese offerings?",
-   "atRaw": "Fri, 23 Oct 2026 14:19:38 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 22:19"
-  },
-  {
-   "title": "‘Propulsion-Agnostic’: GM Wants To Bring Tesla-Style Software Features To Its Gas SUVs, Too",
-   "url": "https://insideevs.com/features/812982/gm-software-platform-powertrain-agnostic/",
-   "desc": "Its next-generation EVs will offer security camera functionality and autonomous driving. But its gas SUVs won’t get left behind.",
-   "atRaw": "Thu, 22 Oct 2026 20:35:10 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 04:35"
-  },
-  {
-   "title": "Want The Best Range Rover? Get The Electric One: First Drive",
-   "url": "https://insideevs.com/reviews/812974/range-rover-electric-first-drive/",
-   "desc": "The electric model is powerful, elegant, and capable. And it doesn't even cost more than the gas model.",
-   "atRaw": "Thu, 22 Oct 2026 19:08:45 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 03:08"
-  },
-  {
-   "title": "I Drove The Electric BMW X5. It Makes The Gas Version A Tough Sell.",
-   "url": "https://insideevs.com/reviews/812963/bmw-ix5-electric-x5-first-drive-review-2027/",
-   "desc": "For the first time ever, the X5 is going electric. I drove the iX5 to see if it's compelling enough to get BMW buyers into an EV.",
-   "atRaw": "Thu, 22 Oct 2026 19:01:00 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 03:01"
-  },
-  {
-   "title": "The Ferrari Luce Officially Starts At $560,800",
-   "url": "https://insideevs.com/news/812962/ferrari-luce-official-pricing-revealed/",
-   "desc": "The first-ever electric Ferrari makes a Rolls-Royce Cullinan look like a bargain.",
-   "atRaw": "Thu, 22 Oct 2026 17:44:31 +0000",
-   "source": "insideevs",
-   "at": "2026-10-23 01:44"
-  },
-  {
-   "title": "The 2027 Ford Mustang Mach-E Has More Range As Standard",
-   "url": "https://insideevs.com/news/812887/2027-ford-mustang-mach-e-trail-battery-range/",
-   "desc": "The extended-range battery is now fitted at no extra cost across the lineup. Plus, there’s a new Trail trim with lifted suspension.",
-   "atRaw": "Thu, 22 Oct 2026 13:00:00 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 21:00"
-  },
-  {
-   "title": "BMW’s Electric M3 Had To First Win Over One Of Its Own",
-   "url": "https://insideevs.com/news/812906/bmw-m3-documentary-track-testing/",
-   "desc": "Winning over a skeptical test driver takes more than horsepower.",
-   "atRaw": "Thu, 22 Oct 2026 12:49:54 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 20:49"
-  },
-  {
-   "title": "Seattle Is Installing Hundreds Of Curbside EV Chargers",
-   "url": "https://insideevs.com/news/812869/seattle-curbside-ev-chargers-2030/",
-   "desc": "Residents will decide where the Level 2 chargers will be installed, and the city will prioritize areas with apartment buildings.",
-   "atRaw": "Thu, 22 Oct 2026 07:58:05 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 15:58"
-  },
-  {
-   "title": "Spotify’s First Native In-Car App Is Hitting Audi EVs First",
-   "url": "https://insideevs.com/news/812853/spotify-new-in-car-app-audi/",
-   "desc": "Built without Google’s design restrictions, the new app will go live on the Audi A6 e-tron and Q6 e-tron around the world.",
-   "atRaw": "Thu, 22 Oct 2026 06:56:45 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 14:56"
-  },
-  {
-   "title": "Tesla Says 75% Of New Car Buyers Subscribe To FSD In North America",
-   "url": "https://insideevs.com/news/812833/tesla-backlog-fsd-driver-sales/",
-   "desc": "Tesla's newest subscription numbers show that 75% of buyers subscribe to Tesla's $99 per month autonomy software.",
-   "atRaw": "Wed, 21 Oct 2026 23:39:41 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 07:39"
-  },
-  {
-   "title": "'End Of The Year': Tesla Says Cybercab Customer Deliveries Will Begin Soon",
-   "url": "https://insideevs.com/news/812834/tesla-cybercab-customer-deliveries/",
-   "desc": "But the vast majority of Cybercabs will be owned by Tesla, CEO Elon Musk says.",
-   "atRaw": "Wed, 21 Oct 2026 22:17:21 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 06:17"
-  },
-  {
-   "title": "The Midterms Won't Mean Much For EV Policy, Analysts Say",
-   "url": "https://insideevs.com/news/812832/midterm-elections-ev-sales/",
-   "desc": "Even if Democrats flip congress, they won't be able to make meaningful change.",
-   "atRaw": "Wed, 21 Oct 2026 21:31:54 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 05:31"
-  },
-  {
-   "title": "General Motors Isn't 'Walking Away' From EVs, Top Exec Says",
-   "url": "https://insideevs.com/news/812806/gm-not-walking-away-evs/",
-   "desc": "A fourth-gen EV platform powered by LMR cells is coming soon.",
-   "atRaw": "Wed, 21 Oct 2026 18:00:00 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 02:00"
-  },
-  {
-   "title": "GM Is Adding Its Own Version Of Tesla's Sentry Mode To Cars",
-   "url": "https://insideevs.com/news/812803/gm-sentry-mode-coming-soon/",
-   "desc": "GM's new OnStar Connected Cameras sound like a page out of Tesla's tech-focused playbook.",
-   "atRaw": "Wed, 21 Oct 2026 18:57:51 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 02:57"
-  },
-  {
-   "title": "Rivian Was The Second Best-Selling EV Brand In Q3 2026, But Still Far Behind Tesla",
-   "url": "https://insideevs.com/news/812808/rivian-r2-q3-sales/",
-   "desc": "Move over Chevy, there's a new second-place in town.",
-   "atRaw": "Wed, 21 Oct 2026 18:48:28 +0000",
-   "source": "insideevs",
-   "at": "2026-10-22 02:48"
+   "title": "卫星发射升空出现“火箭云”奇观，揭秘宇宙级浪漫形成过程",
+   "url": "https://www.ithome.com/1/017/495.htm",
+   "desc": "<p data-vmark=\"99ae\">IT之家 10 月 24 日消息，暮色四合，天幕上一朵巨大的“夜光水母”缓缓舒展。10 月 23 日傍晚，山西、北京、山东、河北等地的不少人在夜空中看到了这一幕：橘红色尾焰划过之后，一条泛着淡白柔光的尾迹在高空铺开，边缘绵长弥散，形似水母的触须。相关画面很快在社交平台刷屏。</p><p style=\"text-align: center;\" data-vm",
+   "atRaw": "Sat, 24 Oct 2026 12:18:32 GMT",
+   "source": "ithome",
+   "at": "2026-10-24 20:18"
   },
   {
    "title": "中国信通院：截至 8 月，国内约 1500 万辆乘用车具备领航驾驶辅助（NOA）功能",
@@ -3542,278 +3963,6 @@
    "at": "2026-10-24 14:59"
   },
   {
-   "title": "中端大战将启：曝 OPPO Reno 17、vivo S70、荣耀 700、华为 nova 17 系列手机将于 11 月集中发布",
-   "url": "https://www.ithome.com/1/017/389.htm",
-   "desc": "<p data-vmark=\"4a5e\">IT之家 10 月 24 日消息，博主 @数码闲聊站 今日发文，曝光了 11 月的新机，包括：<strong>OPPO Reno 17 系列、vivo S70 系列、荣耀 700 系列和华为 nova 17 系列</strong>。</p><p style=\"text-align: center;\" data-vmark=\"a077\"><img src=\"",
-   "atRaw": "Sat, 24 Oct 2026 06:58:28 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:58"
-  },
-  {
-   "title": "全国民航明起执行冬春航季航班计划，34 家航司拟新开 288 条国内航线",
-   "url": "https://www.ithome.com/1/017/388.htm",
-   "desc": "<p data-vmark=\"28d6\">IT之家 10 月 24 日消息，据央视新闻报道，2026 年 10 月 25 日（明天）至 2027 年 3 月 27 日，全国民航正式执行 <strong>2026/2027 年冬春航季航班计划</strong>。新航季共有 216 家国内外航空公司计划每周安排客货运航班 11.6 万班。</p><p data-vmark=\"8265\">国内航班方面，",
-   "atRaw": "Sat, 24 Oct 2026 06:54:47 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:54"
-  },
-  {
-   "title": "“9 个 5”中国联通手机号无人出价流拍后将再度二拍：起拍价 23.1 万元，涉 130 万元借款纠纷",
-   "url": "https://www.ithome.com/1/017/387.htm",
-   "desc": "<p data-vmark=\"8aa6\">IT之家 10 月 24 日消息，阿里资产平台显示，一个包含“9 个 5”的联通靓号“15555455555”将进行二拍，开拍时间为 11 月 3 日 10:00，起拍价 23.10 万元，加价幅度 1000 元。</p><p style=\"text-align: center;\" data-vmark=\"2ba9\"><img src=\"https://i",
-   "atRaw": "Sat, 24 Oct 2026 06:53:33 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:53"
-  },
-  {
-   "title": "瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude",
-   "url": "https://www.ithome.com/1/017/385.htm",
-   "desc": "<p data-vmark=\"0baa\">IT之家 10 月 24 日消息，当地时间 23 日，据瑞典国家公共广播公司 Sveriges Radio 报道，瑞典政府办公厅将从下周一起禁止工作人员<strong>通过办公电脑直接访问 ChatGPT 和 Claude</strong>，要求员工改用微软 Copilot 等获得批准的 AI 服务。</p><p data-vmark=\"184e\">内部资",
-   "atRaw": "Sat, 24 Oct 2026 06:45:40 GMT",
-   "source": "ithome",
-   "at": "2026-10-24 14:45"
-  },
-  {
-   "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
-   "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Sat, 24 Oct 2026 13:00:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 21:00"
-  },
-  {
-   "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
-   "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Sat, 24 Oct 2026 10:00:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 18:00"
-  },
-  {
-   "title": "智源众智 FlagOS 2.2 让前沿模型与多元算力协同演进",
-   "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 19:40:29 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 03:40"
-  },
-  {
-   "title": "刘铁岩、诺奖、图灵奖得主等嘉宾共话AI的下一个十年：Transformer一统天下之后，AI的下一张王牌是什么？",
-   "url": "https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/UmD4aAerZEts8sZ5t791?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:54:19 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:54"
-  },
-  {
-   "title": "AI Agent 正在改写 CPU 的价值：当 Token 变成行动，算力竞争不再只是拼 GPU",
-   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:53:09 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:53"
-  },
-  {
-   "title": "PostgreSQL 19 发不出来？AI“找茬”太快，人类修Bug的速度跟不上了",
-   "url": "https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Q6mgHWCSqV6KeZzee3NT?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:48:25 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:48"
-  },
-  {
-   "title": "“让Token不空转”，讯飞如何把Agent推进企业核心流程",
-   "url": "https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Lo9TLlRdvy4II38yaex0?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:40:09 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:40"
-  },
-  {
-   "title": "奥特曼最新 45 分钟访谈：一年不写代码、压力大到不想起床，还嫌 ChatGPT 太谄媚",
-   "url": "https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/sI3z2UMCrB5PPVDWTsLo?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:35:04 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:35"
-  },
-  {
-   "title": "全球学术期刊评价迎来新变化：从单一指标走向多元标准，中国评价体系加入国际版图",
-   "url": "https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/9m3Pkeggp2BPUKiF1fmE?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 17:13:58 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 01:13"
-  },
-  {
-   "title": "AI 赋能开发，Spotify 月代码变更量翻倍",
-   "url": "https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/rVqEbaXeaJ91UWlQF4F9?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 16:27:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-24 00:27"
-  },
-  {
-   "title": "千问蒋冠军：Personal Agent技术框架，需要模型、记忆与生态协同推进",
-   "url": "https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/6EJRFIef67xr3x6vyCJa?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 15:45:32 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 23:45"
-  },
-  {
-   "title": "GitLab 19.4 发布，新增目标驱动型智能体，强化成本控制",
-   "url": "https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/c6KGCCmGuad5wbAcCG61?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 15:11:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 23:11"
-  },
-  {
-   "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
-   "url": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 13:00:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 21:00"
-  },
-  {
-   "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
-   "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 12:12:40 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 20:12"
-  },
-  {
-   "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
-   "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 12:03:49 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 20:03"
-  },
-  {
-   "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
-   "url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 11:39:27 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 19:39"
-  },
-  {
-   "title": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
-   "url": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 11:15:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 19:15"
-  },
-  {
-   "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
-   "url": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 09:05:00 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 17:05"
-  },
-  {
-   "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
-   "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Fri, 23 Oct 2026 08:46:30 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 16:46"
-  },
-  {
-   "title": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
-   "url": "https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&utm_medium=article",
-   "desc": "<div align='right'><a href='https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
-   "atRaw": "Thu, 22 Oct 2026 19:16:58 GMT",
-   "source": "infoq",
-   "at": "2026-10-23 03:16"
-  },
-  {
-   "title": "在硅谷，遇见个人计算机历史",
-   "url": "https://sspai.com/post/116128",
-   "desc": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=&#34;https://sspai.com/post/116128&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Sat, 24 Oct 2026 16:26:02 +0800",
-   "source": "sspai",
-   "at": "2026-10-24 16:26"
-  },
-  {
-   "title": "本周看什么 | 最近值得一看的 12 部作品",
-   "url": "https://sspai.com/post/117169",
-   "desc": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=&#34;https://sspai.com/post/117169&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Fri, 23 Oct 2026 18:09:01 +0800",
-   "source": "sspai",
-   "at": "2026-10-23 18:09"
-  },
-  {
-   "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
-   "url": "https://sspai.com/post/116398",
-   "desc": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=&#34;https://sspai.com/post/116398&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Fri, 23 Oct 2026 15:00:00 +0800",
-   "source": "sspai",
-   "at": "2026-10-23 15:00"
-  },
-  {
-   "title": "破与立：设计视角下的 iPhone Duo",
-   "url": "https://sspai.com/post/116979",
-   "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/116979&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Fri, 23 Oct 2026 11:07:19 +0800",
-   "source": "sspai",
-   "at": "2026-10-23 11:07"
-  },
-  {
-   "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-   "url": "https://sspai.com/post/117104",
-   "desc": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...<a href=&#34;https://sspai.com/post/117104&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Fri, 23 Oct 2026 08:20:32 +0800",
-   "source": "sspai",
-   "at": "2026-10-23 08:20"
-  },
-  {
-   "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-   "url": "https://sspai.com/post/115437",
-   "desc": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=&#34;https://sspai.com/post/115437&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Thu, 22 Oct 2026 17:10:03 +0800",
-   "source": "sspai",
-   "at": "2026-10-22 17:10"
-  },
-  {
-   "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-   "url": "https://sspai.com/post/116923",
-   "desc": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=&#34;https://sspai.com/post/116923&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Thu, 22 Oct 2026 15:00:00 +0800",
-   "source": "sspai",
-   "at": "2026-10-22 15:00"
-  },
-  {
-   "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-   "url": "https://sspai.com/post/115090",
-   "desc": "药物不能解决所有问题，这是是我学到的重要一课。<a href=&#34;https://sspai.com/post/115090&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Thu, 22 Oct 2026 11:36:57 +0800",
-   "source": "sspai",
-   "at": "2026-10-22 11:36"
-  },
-  {
-   "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-   "url": "https://sspai.com/post/116953",
-   "desc": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=&#34;https://sspai.com/post/116953&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Thu, 22 Oct 2026 08:29:05 +0800",
-   "source": "sspai",
-   "at": "2026-10-22 08:29"
-  },
-  {
-   "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-   "url": "https://sspai.com/post/116820",
-   "desc": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=&#34;https://sspai.com/post/116820&#34; target=&#34;_blank&#34;>查看全文</a>",
-   "atRaw": "Wed, 21 Oct 2026 17:00:00 +0800",
-   "source": "sspai",
-   "at": "2026-10-21 17:00"
-  },
-  {
    "title": "祭出 Kosmo，禾赛要成为机器人的博世？",
    "url": "https://www.tmtpost.com/8179870.html",
    "desc": "做时间的朋友。",
@@ -3964,166 +4113,6 @@
    "atRaw": "Sat, 24 Oct 2026 16:32:39 +0800",
    "source": "tmtpost",
    "at": "2026-10-24 16:32"
-  },
-  {
-   "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
-   "url": "https://www.solidot.org/story?sid=85697",
-   "desc": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个",
-   "atRaw": "Fri, 23 Oct 2026 20:01:50 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 20:01"
-  },
-  {
-   "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
-   "url": "https://www.solidot.org/story?sid=85696",
-   "desc": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户",
-   "atRaw": "Fri, 23 Oct 2026 19:07:11 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 19:07"
-  },
-  {
-   "title": "宫本茂成为首位获得日本文化勋章的游戏从业者",
-   "url": "https://www.solidot.org/story?sid=85695",
-   "desc": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心",
-   "atRaw": "Fri, 23 Oct 2026 18:03:59 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 18:03"
-  },
-  {
-   "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
-   "url": "https://www.solidot.org/story?sid=85694",
-   "desc": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍",
-   "atRaw": "Fri, 23 Oct 2026 17:32:18 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 17:32"
-  },
-  {
-   "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
-   "url": "https://www.solidot.org/story?sid=85693",
-   "desc": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 ",
-   "atRaw": "Fri, 23 Oct 2026 16:48:00 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 16:48"
-  },
-  {
-   "title": "浏览器 Arc 将于 12 月关闭",
-   "url": "https://www.solidot.org/story?sid=85692",
-   "desc": "The Browser Company 宣布其浏览器 Arc 将于 12 月 22 日关闭，用户将无法再能启动应用。Arc 基于 Chromium，于 2023 年释出了 1.0 版本，但 2024 年就停止了开发，2025 年 5 月宣布它正在开发 AI 驱动的浏览器 Dia。Arc 从 10 月 22 日起无法创建新的 Arc 账号，11 月 23 日起停用部分功能，12 月 22 日无法启动",
-   "atRaw": "Fri, 23 Oct 2026 15:25:16 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 15:25"
-  },
-  {
-   "title": "Switch 2 越狱能运行自制程序",
-   "url": "https://www.solidot.org/story?sid=85691",
-   "desc": "研究员 Sammy Hajhamid 利用软件漏洞在 Switch 2 上实现越狱，而且能运行自制程序。越狱利用了一个专门运行在任天堂硬件上的编程环境和解释器 SmileBasic 4。Hajhamid 使用 OpenAI 的 Codex 对 SmileBasic 的语言解释器进行探测，花了两周时间发现了一个 32 位整数溢出漏洞，利用该漏洞能对部分系统内存进行读写操作。他在此基础上从 Switc",
-   "atRaw": "Fri, 23 Oct 2026 15:11:05 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 15:11"
-  },
-  {
-   "title": "KeePassXC 2.8.0 释出",
-   "url": "https://www.solidot.org/story?sid=85690",
-   "desc": "开源密码管理器项目 KeePassXC 释出了 v2.8.0。KeePassXC 代表 KeePass Cross-Platform Community Edition，是 KeePassX 的一个分支，而 KeePassX 则是基于 Qt 构建的 KeePass 克隆版本，但已停止维护。KeePassXC 2.8.0 带来了用户期待的新功能，大量 bug 修复和安全修正。主要特性包括：Qt 的版",
-   "atRaw": "Fri, 23 Oct 2026 14:05:58 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 14:05"
-  },
-  {
-   "title": "eMudhra 退出全球 CA 业务",
-   "url": "https://www.solidot.org/story?sid=85689",
-   "desc": "在曝出惊人丑闻之后，印度公司 eMudhra 宣布退出全球 CA 业务，将专注于核心企业解决方案和信任服务而非 SSL/TLS 相关业务。它是印度唯一一个被主流浏览器信任的 Root CA 机构。截至 2026 年，公司已发行逾 6000 万张证书。此前 eMudhra 的八个中间证书的私钥泄漏，而这些私钥被发现是极其简单的数字如 4。该公司在声明中称这些简单密钥是“多重人为错误”导致的。相关密钥",
-   "atRaw": "Fri, 23 Oct 2026 11:32:21 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:32"
-  },
-  {
-   "title": "趋势科技在公开的内核邮件列表上披露内核漏洞",
-   "url": "https://www.solidot.org/story?sid=85688",
-   "desc": "趋势科技的安全团队 Zero Day Initiative 向人人可访问的内核邮件列表上递交了一系列新发现的内核漏洞。按照惯例，漏洞应该递交到不对外公开的安全邮件列表。递交的部分漏洞没有补丁，部分漏洞已有补丁在测试，这些漏洞的 CVSS 风险评分最高为 9.0。稳定版内核维护者 Greg Kroah-Hartman 批评安全研究人员将漏洞报告递交到公共的邮件列表。而在 AI 辅助漏洞发现时代，此类",
-   "atRaw": "Fri, 23 Oct 2026 11:30:41 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:30"
-  },
-  {
-   "title": "科学家揭示低温延缓衰老的机制",
-   "url": "https://www.solidot.org/story?sid=85687",
-   "desc": "适度低温已被证明能有效延长动物寿命，延缓与衰老相关的机能衰退。但低温延缓衰老的分子机制是什么？研究人员利用秀丽隐杆线虫（Caenorhabditis elegans ）发现，低温会触发代谢物 dihydrobiopterin (BH2)的大量产生，其中肌肉充当了中央工厂的作用，负责合成 BH2，BH2 随后输送至身体其它组织，诱导氨基酸酪氨酸（tyrosine）的合成，它有助于维持蛋白质稳态，在衰",
-   "atRaw": "Fri, 23 Oct 2026 11:29:40 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:29"
-  },
-  {
-   "title": "逾半数美国人认为 AI 对社会有害",
-   "url": "https://www.solidot.org/story?sid=85686",
-   "desc": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认为它对社会极其有益，17% 的人认为它对社会极其有害。与年长者相比，年轻的美国人更有可能认为 AI 对社会有害：在 30 岁以下的美国人中，65% 的人持此观点；在 30-39 岁的群体中，这一比例为 59%。而在 40 岁及以上的美国人中",
-   "atRaw": "Fri, 23 Oct 2026 11:28:59 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:28"
-  },
-  {
-   "title": "研究识别出第一位企业心理病态者",
-   "url": "https://www.solidot.org/story?sid=85685",
-   "desc": "一项新研究指出，有毒企业领导人身上所见的性格特征可追溯到一位 400 年前的荷兰东印度公司的企业官员。该公司的商户部经理 Jeronimus Cornelisz 可能是最早有文献记录的企业心理病态者。研究发现，他表现出了与企业心理病态者相关的全部 10 项核心特征。这些特征包括：利用个人魅力博取信任；在身边聚集忠诚的追随者；清除潜在的挑战者；在竞争对手之间制造分裂；营造恐惧氛围；出问题时推卸责任；",
-   "atRaw": "Fri, 23 Oct 2026 11:26:49 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:26"
-  },
-  {
-   "title": "毅力号行使距离超机遇号刷新历史记录",
-   "url": "https://www.solidot.org/story?sid=85684",
-   "desc": "毅力号火星车创下新的世界纪录——它在地外天体表面的行驶里程，超过了此前所有探测器。10月11日，它的里程表读数达到28.10英里（45.22公里），超越了此前由机遇号保持的28.06英里（45.16公里）纪录。机遇号于2004至2018年间在火星开展探测。机遇号耗费近15年才跑完该里程，而毅力号仅用时5年半。这一里程碑事件发生在它的第2006个火星日。毅力号能长途行进，一大核心原因是搭载了先进的自",
-   "atRaw": "Fri, 23 Oct 2026 11:25:21 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:25"
-  },
-  {
-   "title": "因加州考虑征收亿万富翁税扎克伯格有意离开",
-   "url": "https://www.solidot.org/story?sid=85683",
-   "desc": "Meta 周三警告，如果加州通过亿万富翁税，公司 CEO 扎克伯格（Mark Zuckerberg）可能会离开加州迁往他处。扎克伯格已向公司特别委员会告知了这一可能性。据 Meta 在监管文件中披露的计划，为了让扎克伯格未来八年继续留在加州领导公司，公司将设立一类新股票，允许他出售在 Meta 中最多一半的经济权益，同时保留投票控制权。亿万富翁税提案已列入加州 11 月的选票，提议对亿万富翁的资产",
-   "atRaw": "Fri, 23 Oct 2026 11:23:55 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:23"
-  },
-  {
-   "title": "OpenClaw 作者称他上个月花掉了千万美元的 Tokens",
-   "url": "https://www.solidot.org/story?sid=85682",
-   "desc": "周三旧金山举行的 Cloudflare Connect 2026 大会上，OpenAI 技术部成员、OpenClaw 作者 Peter Steinberger 在与 Cloudflare CTO Dane Knecht 对话时透露，上个月运行 AI 工作负载消耗了价值约 1000 万美元的 Token。当然这笔支出不用他自己掏钱，他花的是投资人的钱。Steinberger 称自己拥有几乎无限的 T",
-   "atRaw": "Fri, 23 Oct 2026 11:22:08 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:22"
-  },
-  {
-   "title": "美光桃园厂员工罢工一天",
-   "url": "https://www.solidot.org/story?sid=85681",
-   "desc": "美光在台有两座工厂，其中桃园厂工会与资方就员工利润分红未能达成共识，星期四（10月22日）发动24小时罢工；台中厂工会于周三签署劳资协议，但未公布具体内容。桃园厂工会星期四上午9时起，在厂区门口展开为期24小时的罢工行动，预计持续至星期五（23日）上午9时。美光桃园厂约有3000名员工，其中约2400人为工会会员；台中厂则有约1万2300名员工，工会会员约1万1000人。桃园厂工会的主要诉求是，要",
-   "atRaw": "Fri, 23 Oct 2026 11:02:58 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:02"
-  },
-  {
-   "title": "EA 关闭 BioWare 工作室，取消《质量效应》新作开发",
-   "url": "https://www.solidot.org/story?sid=85680",
-   "desc": "EA 裁员约 400 人，关闭 BioWare 工作室，取消《质量效应》新作开发。BioWare 工作室成立于 1995 年，创始人是医生，2007 年出售给 EA，创始人在 2012 年左右退出。该工作室的游戏包括了《博德之门》、《无冬之夜》、《星战旧共和国武士》、《翡翠帝国》、《龙腾世纪》和《质量效应》系列，以及《圣歌》。其中旨在获得持续收入的服务型游戏《圣歌》饱受批评，游戏于 2021 年停",
-   "atRaw": "Fri, 23 Oct 2026 11:02:00 +0800",
-   "source": "solidot",
-   "at": "2026-10-23 11:02"
-  },
-  {
-   "title": "坏苹果效应：人们会效仿他人的违规行为",
-   "url": "https://www.solidot.org/story?sid=85679",
-   "desc": "俗话说，一颗烂苹果，能毁掉一整桶好苹果。发表在《Proceedings of the Royal Society B》期刊上的一项研究再次为坏苹果效应提供了证据。这项研究旨在探讨个人如何在社会情境中做出是否违规的决策。研究人员说，很多人可能以为自己的决策是完全自主做出的，但事实上在很多情况下，我们的行为深受他人的影响。研究人员在美国招募了 750 名参与者进行了一项在线实验，共和党人和民主党人的比",
-   "atRaw": "Thu, 22 Oct 2026 00:41:02 +0800",
-   "source": "solidot",
-   "at": "2026-10-22 00:41"
-  },
-  {
-   "title": "鸟类是地球最重要的养分搬运者之一",
-   "url": "https://www.solidot.org/story?sid=85678",
-   "desc": "鸟类在塑造地球化学环境上的作用被低估了，它们是地球最重要的养分搬运者之一。研究人员揭示了鸟类如何通过自身的排泄物和身躯，将养分在陆地、湖泊和海洋之间搬运。这一过程深深影响着从土壤和水体的化学性质，到动植物的生长。飞行能力让鸟类能跨越广阔的距离，甚至逾越海洋和山脉等天然屏障。鸟类在处理和循环养分上也极其高效。鸟类的食物摄入率比体型相当的哺乳动物高出约 30%。因此鸟类始终处于进食状态——它们大量摄取",
-   "atRaw": "Wed, 21 Oct 2026 23:25:51 +0800",
-   "source": "solidot",
-   "at": "2026-10-21 23:25"
   },
   {
    "title": "支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意",
@@ -4284,269 +4273,26 @@
    "atRaw": "Fri, 23 Oct 2026 10:45:00 +0800",
    "source": "leiphone",
    "at": "2026-10-23 10:45"
-  },
-  {
-   "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
-   "url": "http://www.geekpark.net/news/372858",
-   "desc": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhon",
-   "atRaw": "Sat, 24 Oct 2026 08:34:27 +0800",
-   "source": "geekpark",
-   "at": "2026-10-24 08:34",
-   "alsoIn": [
-    "国内 AI"
-   ]
-  },
-  {
-   "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
-   "url": "http://www.geekpark.net/news/372807",
-   "desc": "头图来源：Hirdwire 2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。 过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate",
-   "atRaw": "Fri, 23 Oct 2026 14:15:58 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 14:15"
-  },
-  {
-   "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
-   "url": "http://www.geekpark.net/news/372805",
-   "desc": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。 很多中国家庭的卧室里，床垫往往是最舍得花钱的",
-   "atRaw": "Fri, 23 Oct 2026 14:10:37 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 14:10"
-  },
-  {
-   "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-   "url": "http://www.geekpark.net/news/372803",
-   "desc": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一， 先造一个入口，再把 AI 慢慢塞进去 。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔",
-   "atRaw": "Fri, 23 Oct 2026 14:03:13 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 14:03"
-  },
-  {
-   "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-   "url": "http://www.geekpark.net/news/372801",
-   "desc": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。 过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认",
-   "atRaw": "Fri, 23 Oct 2026 13:56:53 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 13:56"
-  },
-  {
-   "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
-   "url": "http://www.geekpark.net/news/372767",
-   "desc": "DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。 截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。 消息人士透露，",
-   "atRaw": "Fri, 23 Oct 2026 08:49:03 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 08:49"
-  },
-  {
-   "title": "欧洲 AI，等来了黄仁勋",
-   "url": "http://www.geekpark.net/news/372763",
-   "desc": "GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题： 算力中心怎么建得更快，越来越能干的智能",
-   "atRaw": "Fri, 23 Oct 2026 06:41:03 +0800",
-   "source": "geekpark",
-   "at": "2026-10-23 06:41"
-  },
-  {
-   "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
-   "url": "http://www.geekpark.net/news/372762",
-   "desc": "过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得",
-   "atRaw": "Thu, 22 Oct 2026 21:20:53 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 21:20"
-  },
-  {
-   "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
-   "url": "http://www.geekpark.net/news/372759",
-   "desc": "10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。 这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。 2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。 他不仅劝所有人要「相信 AI」，而且还反思，",
-   "atRaw": "Thu, 22 Oct 2026 19:56:03 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 19:56"
-  },
-  {
-   "title": "AI 漫剧越做越快，赚钱却没那么容易了",
-   "url": "http://www.geekpark.net/news/372746",
-   "desc": "「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业",
-   "atRaw": "Thu, 22 Oct 2026 16:20:34 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 16:20"
-  },
-  {
-   "title": "大模型内卷之后，AI 竞争进入搜索基础设施时代",
-   "url": "http://www.geekpark.net/news/372743",
-   "desc": "头图来源：元宝搜索 过去一年，AI 行业的战场正在悄悄发生位移。 当 Agent 从概念快速渗透进办公、内容、金融等真实业务场景，行业共识也在悄然改变：决定 AI 体验上限的，是它连接真实世界的能力。 政策迭代、市场波动、行业动态、垂类数据&hellip;&hellip;现实世界的信息每秒都在更新，大模型自带的知识储备永远有边界，想要输出可靠结论、完成复杂任务，就必须接入实时、权威的外部信息。 搜",
-   "atRaw": "Thu, 22 Oct 2026 16:15:50 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 16:15"
-  },
-  {
-   "title": "被迫下场，Anthropic 推出个人 AI 助理 Claude Duet",
-   "url": "http://www.geekpark.net/news/372740",
-   "desc": "作者｜桦林舞王 编辑｜靖宇 用过各种 AI 助手的人大概都有过同一种疲劳：你不开口，它就装死；你一旦开口，它又把所有选择抛回给你。 过去两个多月，硅谷巨头们几乎排着队想打破这种被动状态。8 月 xAI 推出能多智能体分工的 Grok Bot，9 月 Meta 带着能在 WhatsApp 里帮人砍账单的 Muse 席卷千万用户，紧接着 OpenAI 在开发者大会上发布 Dots。行业似乎达成了一个默",
-   "atRaw": "Thu, 22 Oct 2026 15:23:08 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 15:23"
-  },
-  {
-   "title": "AI 到处挖漏洞一整年，终于给人类爆了个大的",
-   "url": "http://www.geekpark.net/news/372731",
-   "desc": "头图图片来源：Wiz 10 月 21 日晚，如果你有在社交媒体冲浪的习惯，可能会发现一个奇怪的网站关闭潮：几乎是在同一时间，全球多个国家和地区的各种重要基础设施网站纷纷宣布临时关闭。 周三。芬兰政府把所有对外的网络服务关掉了；荷兰国家网络安全中心连自己的官网也撤了下来，鹿特丹港、荷兰足协、五大政党的网站和多家医院紧随其后；法国内政部让各省政府网站暂时下线，德国联邦 IT 服务商关掉了多个站点，比利",
-   "atRaw": "Thu, 22 Oct 2026 14:15:28 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 14:15"
-  },
-  {
-   "title": "微软员工数十年来首次下降；沃尔玛/山姆推出 Agent 购物接口；推动 SpaceX 和特斯拉合并，马斯克财富有望暴涨",
-   "url": "http://www.geekpark.net/news/372711",
-   "desc": "24 小时为你在线打工：Anthropic 推出 Claude Duet AI 智能体，迎战 Meta 和 OpenAI 10 月 22 日消息，Anthropic 昨日（10 月 21 日）宣布以研究预览版形式，推出全新应用 Claude Duet，定位为可主动工作的 AI 智能体（agent），加入由 Meta 的 Muse、以及 OpenAI 的 Dots 领衔的「全天候主动型 AI 助理」",
-   "atRaw": "Thu, 22 Oct 2026 08:48:32 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 08:48"
-  },
-  {
-   "title": "我用 iPhone Duo 刷小红书、淘宝、飞书，发现作用不只是装「阔」",
-   "url": "http://www.geekpark.net/news/372710",
-   "desc": "头图图片来源：极客公园 我在 iPhone Duo 上，把淘宝、高德、小红书、腾讯视频、飞书、WPS、XMind，还有篮球游戏 NBA 巅峰对决，这 8 个为它做过适配的 App 挨个用了一遍。淘宝从首页到客服消息，整条购物链路都动过；高德把路线和地图拆成了左右两半；小红书的笔记，变成了左边看图、右边看正文和评论。 这台手机的国行首批预订已经售罄。据环球时报 10 月 17 日的报道，苹果官网显示",
-   "atRaw": "Thu, 22 Oct 2026 08:14:02 +0800",
-   "source": "geekpark",
-   "at": "2026-10-22 08:14"
-  },
-  {
-   "title": "当车企要说为「人类自由」奋斗时，它在说什么",
-   "url": "http://www.geekpark.net/news/372698",
-   "desc": "头图来源：极客公园 1993 年，时任三星集团会长的李健熙，在德国发表了著名的「法兰克福宣言」，其中最著名的一句话是：「除了老婆孩子，一切都要变。」 当时韩国摸着日本，在全球化浪潮中极速行军，产量提升的同时，也被贴上了「便宜廉价」的标签，法兰克福宣言，开启了三星通过技术进行高端化转型之路。 2026 奇瑞全球创业大会会场｜图片来源：极客公园 33 年后的当下，安徽芜湖，奇瑞集团创新产业园中，「Ch",
-   "atRaw": "Wed, 21 Oct 2026 17:10:33 +0800",
-   "source": "geekpark",
-   "at": "2026-10-21 17:10"
-  },
-  {
-   "title": "亚马逊 CTO Dr. Werner Vogels：二十余年技术实践，想与创业者分享这 4 点",
-   "url": "http://www.geekpark.net/news/372671",
-   "desc": "在 2026 年 亚马逊云科技软件企业峰会创业加速营巅峰路演 上，亚马逊副总裁兼首席技术官 Werner Vogels 博士与极客公园创始人 & CEO 张鹏进行了一场极具深度的炉边对谈。 面对当下狂热的 AI 创业潮与复杂的技术演进，Vogels 博士分享了亚马逊云科技走过二十年的底层商业逻辑，并为初创企业给出了极具实操性的避坑建议。 左：亚马逊副总裁兼首席技术官 Werner Vogels 博",
-   "atRaw": "Wed, 21 Oct 2026 12:16:25 +0800",
-   "source": "geekpark",
-   "at": "2026-10-21 12:16"
-  },
-  {
-   "title": "曝高通启动全球裁员；上线 40 天，Muse 下载量突破 1000 万次；ChatGPT 上线幻灯片工具",
-   "url": "http://www.geekpark.net/news/372650",
-   "desc": "DeepSeek 开源大规模云服务推理框架 10 月 20 日下午，DeepSeek 宣布，在此前开源一系列大模型、TileLang 编译工具及推理算子库的基础上，决定进一步将内部推理框架 DeepInfer 全面开源。 DeepSeek 称，基于 DeepInfer，已实现 DeepSeek V4.1 Flash 高吞吐、低延迟的大规模推理服务。未来，DeepSeek 新模型的推理代码及后续优化",
-   "atRaw": "Wed, 21 Oct 2026 08:37:07 +0800",
-   "source": "geekpark",
-   "at": "2026-10-21 08:37"
-  },
-  {
-   "title": "设计师的第一个 Personal Agent，可能就是 Lovart 2.0 的 Arti 了",
-   "url": "http://www.geekpark.net/news/372612",
-   "desc": "2025 年，Lovart 作为全球首款设计 Agent 开始出现在各大设计师社区。第一次用 AI 能力把整个设计流程串联起来。从最初的设计思路、到最终图片或视频的设计物料，终于被完整的放到一块画布上完成。 随着在生成能力和指令遵循程度上的进步，AI 越发能够满足人们现实世界的真实需求，muse 此时带起关于 personal agent 的讨论显得恰逢其时。AI 在能力上已经具备了可观的解决问题",
-   "atRaw": "Tue, 20 Oct 2026 13:46:53 +0800",
-   "source": "geekpark",
-   "at": "2026-10-20 13:46"
-  },
-  {
-   "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-   "url": "http://www.geekpark.net/news/372583",
-   "desc": "人们已经很多年没见过，苹果的新品被这样抢了。 10 月 16 日晚 8 点，苹果首款折叠屏 iPhone Duo 开启预购。社交媒体上流传的说法是， 开售 1 分钟，全型号库存就空了，京东、天猫页面相继显示售罄 。 大约 40 分钟后， 苹果官网的预计送达时间已经跳到了 2027 年 1 月底 。 几个小时后，大洋彼岸的美国东部时间上午 8 点，同样的剧情再演一遍。分析师 Max Weinbach",
-   "atRaw": "Tue, 20 Oct 2026 09:34:14 +0800",
-   "source": "geekpark",
-   "at": "2026-10-20 09:34"
-  },
-  {
-   "title": "DeepSeek 新模型登顶开源模型榜首；国内 55% 算力用于视频和短剧？豆包发言人辟谣；微信发起公众号小说改编微短剧激励｜极客早知道",
-   "url": "http://www.geekpark.net/news/372568",
-   "desc": "DeepSeek 新模型登顶 Code Arena WebDev 开源模型榜首 10 月 19 日，AI 模型评测平台 Arena 宣布，DeepSeek-V4.1-Flash-1017（Max）超过 Kimi K3（Max），成为 Code Arena: WebDev 榜单排名最高的开源模型。 截至目前，DeepSeek-V4.1-Flash-1017 在该榜单上得分为 1670 分，超过了Ki",
-   "atRaw": "Tue, 20 Oct 2026 09:01:44 +0800",
-   "source": "geekpark",
-   "at": "2026-10-20 09:01"
-  },
-  {
-   "title": "AI 里没有答案的问题，需要一场「深谈」",
-   "url": "http://www.geekpark.net/news/372579",
-   "desc": "去年，极客公园创新大会第一次办起「小场深谈」。场子都不大，百人左右围坐在一起。 有些瞬间仍然记忆犹新。 在「超级个体」专场，一位观众站起来。他刚从大厂跳槽到一家小厂，正用 AI 做自己的第一款产品。他向嘉宾说出自己的困惑：我还在打工，做公众号、视频号，早晚会被老板和同事刷到。这个冲突，怎么解？ 在「硬控 AI」专场，有人直接向刚刚离职的小米 AI 眼镜负责人提问：如果给你两个亿，你会去做哪种 AI",
-   "atRaw": "Mon, 19 Oct 2026 21:57:34 +0800",
-   "source": "geekpark",
-   "at": "2026-10-19 21:57"
-  },
-  {
-   "title": "客户为什么愿意为端侧 AI 买单？五位一线操盘手讲透了",
-   "url": "http://www.geekpark.net/news/372578",
-   "desc": "过去几年，AI 行业热衷于比参数、拼算力、讲融资。但模型一旦离开展台，客户的问题立刻具体起来：数据会不会泄露？设备能不能 24 小时运行？响应够不够快？噪声大不大？ 这些问题，正把端侧 AI 推到产业舞台中央。 10 月 14 日，后摩智能在北京开了一场生态合作伙伴大会。期间，极客公园创始人 & CEO 张鹏主持了一场圆桌，五位来自不同赛道的人坐到了一起：麒麟软件副总经理 / 生态发展中心总经理姚",
-   "atRaw": "Mon, 19 Oct 2026 18:10:03 +0800",
-   "source": "geekpark",
-   "at": "2026-10-19 18:10"
-  },
-  {
-   "title": "OpenAI 三个神秘模型曝光；DeepSeek 开放搜索与网页抓取 API；智界将获独立造车资格，公司计划上市 ｜ 极客早知道",
-   "url": "http://www.geekpark.net/news/372514",
-   "desc": "OpenAI 三个神秘模型曝光 10 月 18 日，有开发者发现，OpenAI 的 API 模型列表中突然出现了三个陌生名字： aurora-red-alpha、aurora-green-alpha、aurora-blue-alpha。三个模型都以 Aurora（极光）命名，分别对应红、绿、蓝三种颜色。但相关条目很快便从模型列表中消失。 此次发现来自第三方维护的 OpenAI 模型列表镜像，并非官",
-   "atRaw": "Mon, 19 Oct 2026 09:18:11 +0800",
-   "source": "geekpark",
-   "at": "2026-10-19 09:18"
-  },
-  {
-   "title": "DeepSeek 新模型上线，价格更低能力更强；传华为将推新品牌「星芒」主打性价比；天文学家发现第一颗绿色恒星｜极客早知道",
-   "url": "http://www.geekpark.net/news/372512",
-   "desc": "DeepSeek V4.1 Flash 新版本上线：许愿式编程一键成真 10 月 17 日，DeepSeek V4.1 Flash 更新至 V4.1-Flash-1017 版本，官方网页端、APP 与 API 模型已同步变更为新模型。相比上一版本的 DeepSeek V4.1 Flash，新模型在各方面的基准测试中取得了长足的提升。 在提升性能的同时，模型的任务运行时间与输出长度还缩短了，让用户能",
-   "atRaw": "Sun, 18 Oct 2026 08:39:02 +0800",
-   "source": "geekpark",
-   "at": "2026-10-18 08:39"
-  },
-  {
-   "title": "1 分钟售罄、发货排到明年，iPhone Duo 卖爆背后的真相",
-   "url": "http://www.geekpark.net/news/372509",
-   "desc": "人们已经很多年没见过，苹果的新品被这样抢了。 10 月 16 日晚 8 点，苹果首款折叠屏 iPhone Duo 开启预购。社交媒体上流传的说法是， 开售 1 分钟，全型号库存就空了，京东、天猫页面相继显示售罄 。 大约 40 分钟后， 苹果官网的预计送达时间已经跳到了 2027 年 1 月底 。 几个小时后，大洋彼岸的美国东部时间上午 8 点，同样的剧情再演一遍。分析师 Max Weinbach",
-   "atRaw": "Sat, 17 Oct 2026 10:46:16 +0800",
-   "source": "geekpark",
-   "at": "2026-10-17 10:46"
-  },
-  {
-   "title": "iPhone Duo 一秒售罄，发货排到明年；马斯克：考虑自建电商平台；谷歌创始人：AI 正开始自己造自己",
-   "url": "http://www.geekpark.net/news/372488",
-   "desc": "苹果官网 2026 年的 iPhone Duo 已售罄！发货日期排到明年 1 月 22 日 10 月 16 日，苹果首款折叠屏 iPhone Duo 于当晚 8 点开启线上预购，大量用户同时涌入苹果官网、Apple Store App 及天猫、京东等官方直营渠道，购买页面一度无法正常打开。开售一分钟左右，各大电商平台即显示该机型售罄。 目前官网仍可下单，预计发货时间排至 1 月 22 日，2026",
-   "atRaw": "Sat, 17 Oct 2026 08:22:32 +0800",
-   "source": "geekpark",
-   "at": "2026-10-17 08:22"
-  },
-  {
-   "title": "为什么 Anthropic 不做 Personal AI",
-   "url": "http://www.geekpark.net/news/372461",
-   "desc": "不久前，9 月 29 日的 OpenAI DevDay 开发者日，舞台上飘出了几个圆滚滚的小气泡。 它们叫 dots，是 OpenAI 最新的个人 agent。每个 dot 跑在 GPT-6 Astra 上，拥有一台独立的云端电脑和浏览器，用户关掉 ChatGPT 之后，它还在后台继续干活。OpenAI 对它的描述是： 「 built to handle everything 」，什么都能接。 三",
-   "atRaw": "Fri, 16 Oct 2026 14:50:02 +0800",
-   "source": "geekpark",
-   "at": "2026-10-16 14:50"
-  },
-  {
-   "title": "是的，特斯拉真造了一辆「飞行汽车」！",
-   "url": "http://www.geekpark.net/news/372459",
-   "desc": "历史，是由疯子和工程师创造的。 我们知道马斯克是个疯子，但没想到他能这么疯。 当地时间 10 月 16 日，在 SpaceX 于州 McGregor/Waco 的火箭试验场上，一段向上垂直弯过来的人造公路上，一台白色跑车以匪夷所思的状态，反重力地贴在了上面的弯上。这还不算完，在这段路上倒车加速后，这台车脱离公路，直接飞到空中，转体并通过推进器稳稳落地。 无法形容的酷｜图片来源：Tesla 新一代的",
-   "atRaw": "Fri, 16 Oct 2026 14:46:47 +0800",
-   "source": "geekpark",
-   "at": "2026-10-16 14:46"
-  },
-  {
-   "title": "苹果和 Meta 和好了，是 AI 逼的",
-   "url": "http://www.geekpark.net/news/372458",
-   "desc": "没有永远的敌人，只有永远的 AI 焦虑。 10 月 2 日，苹果做了一件很少见的事，因为一个第三方 App，宣布要调整系统规则。 起因是《Inc.》杂志的科技专栏作者 Jason Aten 公开指控，Meta 的 AI 智能体 Muse 在他的 Mac 上读取了私人消息。Muse 是 Meta 力推的「能替你办事」的 Agent，会帮你退订闲置会员，甚至替你砍价。 苹果随即表态， 今后 AI 请求",
-   "atRaw": "Fri, 16 Oct 2026 14:41:48 +0800",
-   "source": "geekpark",
-   "at": "2026-10-16 14:41"
   }
  ],
  "stats": {
-  "elapsedMs": 2985,
-  "totalItems": 165,
-  "uniqueItems": 162,
+  "elapsedMs": 10095,
+  "totalItems": 164,
+  "uniqueItems": 161,
   "dupTitlesDropped": 3,
   "boardCounts": {
-   "国际 AI": 8,
-   "航天与科学": 3,
+   "国际 AI": 7,
+   "航天与科学": 4,
    "芯片半导体": 10,
+   "国际车型": 7,
    "国内 AI": 10,
    "国内手机": 15,
-   "国际车型": 7,
    "产业政策": 2,
    "国内车型": 9,
    "网络安全": 2
   },
   "byDay": {
-   "2026-10-24": 162
+   "2026-10-24": 161
   },
   "bySource": {
    "ithome": 58,
@@ -4560,8 +4306,7 @@
    "leiphone": 6,
    "ifanr": 4,
    "insideevs": 3,
-   "sspai": 1,
-   "geekpark": 1
+   "sspai": 1
   }
  }
 }
