@@ -1,0 +1,3419 @@
+{
+ "generatedAt": "2026-10-31T19:08:52.595Z",
+ "targetDate": "2026-11-01",
+ "uniqueItems": [
+  {
+   "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+   "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 20:43:05 GMT",
+   "source": "infoq",
+   "at": "2026-11-01 04:43"
+  },
+  {
+   "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+   "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 16:15:46 GMT",
+   "source": "infoq",
+   "at": "2026-11-01 00:15"
+  },
+  {
+   "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+   "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+   "desc": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to c",
+   "atRaw": "2026-10-31T14:40:32-04:00",
+   "source": "verge",
+   "at": "2026-11-01 02:40"
+  },
+  {
+   "title": "Happy Pikmin Day Eve",
+   "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+   "desc": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Swit",
+   "atRaw": "2026-10-31T13:50:12-04:00",
+   "source": "verge",
+   "at": "2026-11-01 01:50"
+  },
+  {
+   "title": "I built an AI Tamagotchi before Meta could",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
+   "atRaw": "2026-10-31T12:05:00-04:00",
+   "source": "verge",
+   "at": "2026-11-01 00:05"
+  },
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "atRaw": "Sat, 31 Oct 2026 16:12:55 +0000",
+   "source": "techcrunch",
+   "at": "2026-11-01 00:12"
+  }
+ ],
+ "allItems": [
+  {
+   "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+   "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "AI Agent 的下一个瓶颈，可能是人类自己 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 31 Oct 2026 13:59:57 +0000",
+   "source": "ifanr",
+   "at": "2026-10-31 21:59"
+  },
+  {
+   "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+   "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "等了好久终于等到今天 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 31 Oct 2026 01:37:05 +0000",
+   "source": "ifanr",
+   "at": "2026-10-31 09:37"
+  },
+  {
+   "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+   "url": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起 · 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本 · 米哈游《星布谷地》定档 12 月 4 日公测 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Sat, 31 Oct 2026 00:14:24 +0000",
+   "source": "ifanr",
+   "at": "2026-10-31 08:14"
+  },
+  {
+   "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+   "url": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "苹果国行 AI 终于迈出关键一步 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 22:34:47 +0000",
+   "source": "ifanr",
+   "at": "2026-10-31 06:34"
+  },
+  {
+   "title": "汽车工业的下一条流水线，开始由 AI 来安排",
+   "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "从司机乘客，到汽车工厂，再到整个产业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 13:03:59 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 21:03"
+  },
+  {
+   "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
+   "url": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "水冷，必须有 RGB 灯。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 10:06:37 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 18:06"
+  },
+  {
+   "title": "「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？",
+   "url": "https://www.ifanr.com/1686901?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "刀法、刀法，还是刀法 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 10:00:28 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 18:00"
+  },
+  {
+   "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
+   "url": "https://www.ifanr.com/1686874?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "据说是 Anthropic 的 AGI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 07:42:58 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 15:42"
+  },
+  {
+   "title": "卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱",
+   "url": "https://www.ifanr.com/1686855?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "省钱才是硬道理。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 04:54:24 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 12:54"
+  },
+  {
+   "title": "CMF Speaker 系列体验：好听的牛奶盒，还能自己做外壳",
+   "url": "https://www.ifanr.com/1686140?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "如牛奶般醇厚 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 03:00:59 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 11:00"
+  },
+  {
+   "title": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
+   "url": "https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "Plus 用户：为我发声 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 00:29:45 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 08:29"
+  },
+  {
+   "title": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
+   "url": "https://www.ifanr.com/1686790?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 · 美国计算机专业入学人数再降，本科两年减少 18.4% · 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Fri, 30 Oct 2026 00:14:13 +0000",
+   "source": "ifanr",
+   "at": "2026-10-30 08:14"
+  },
+  {
+   "title": "13.98 万元起！小鹏 MONA L05 正式上市，大五座 SUV 市场的卷王来了",
+   "url": "https://www.ifanr.com/1686761?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "属于 MONA 的家庭用车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 14:17:14 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 22:17"
+  },
+  {
+   "title": "取消四缸插混，3.0T 六缸回归！全新 AMG GLC 53 售 59.9 万元",
+   "url": "https://www.ifanr.com/1686672?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "没有「63」的年代，它成了性能天花板。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 14:04:12 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 22:04"
+  },
+  {
+   "title": "为什么新模型发布，都要先做一个游戏？",
+   "url": "https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 10:22:21 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 18:22"
+  },
+  {
+   "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
+   "url": "https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "未来，真的近了！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 08:00:04 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 16:00"
+  },
+  {
+   "title": "不认字的 AI，却很会说话",
+   "url": "https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "机器为什么不能先说话，再认字？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 07:03:36 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 15:03"
+  },
+  {
+   "title": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+   "url": "https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "给创作者好的工具，他们就能做出精彩的作品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 04:02:26 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 12:02"
+  },
+  {
+   "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+   "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Thu, 29 Oct 2026 00:00:32 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 08:00"
+  },
+  {
+   "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
+   "url": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "desc": "很强，很亮，很贵 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "atRaw": "Wed, 28 Oct 2026 23:05:55 +0000",
+   "source": "ifanr",
+   "at": "2026-10-29 07:05"
+  },
+  {
+   "title": "AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元",
+   "url": "https://www.ithome.com/1/020/632.htm",
+   "desc": "<p data-vmark=\"d306\" style=\"text-align: left;\">IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合",
+   "atRaw": "Sat, 31 Oct 2026 15:56:00 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 23:56"
+  },
+  {
+   "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
+   "url": "https://www.ithome.com/1/020/630.htm",
+   "desc": "<p data-vmark=\"5502\">IT之家 10 月 31 日消息，马斯克透露，Neuralink 第二款脑机接口设备 Blindsight（盲视）已完成工程研发，接下来只待监管部门放行。这款设备旨在帮助失明者以及从出生起就没有视觉的人<strong>获得视觉能力</strong>。不过，迄今尚无公开披露并得到确认的人体植入试验结果。</p><p data-vmark=\"026d\">马斯克",
+   "atRaw": "Sat, 31 Oct 2026 15:13:20 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 23:13"
+  },
+  {
+   "title": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店",
+   "url": "https://www.ithome.com/1/020/629.htm",
+   "desc": "<p data-vmark=\"cffe\">IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“<strong>不排除 MONA 品牌独立的可能性</strong>”。</p><p data-vmark=\"e94b\">报道提到，一线渠道端已经出现动作。北京一",
+   "atRaw": "Sat, 31 Oct 2026 15:08:30 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 23:08"
+  },
+  {
+   "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
+   "url": "https://www.ithome.com/1/020/628.htm",
+   "desc": "<p data-vmark=\"498b\">IT之家 10 月 31 日消息，今日，OPPO Reno 系列产品经理张若星分享 Reno17 系列全新样张，并预告新机将搭载“全焦段 4K 超清长实况”，首次将实况时长由原先 3 秒延长至 6 秒。</p><p style=\"text-align: center;\" data-vmark=\"843f\"><img src=\"https://img.ith",
+   "atRaw": "Sat, 31 Oct 2026 14:56:24 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:56"
+  },
+  {
+   "title": "鸿海董事长刘扬伟：预计未来数年攻下全球 AI 服务器半壁江山",
+   "url": "https://www.ithome.com/1/020/627.htm",
+   "desc": "<p data-vmark=\"8d03\">IT之家 10 月 31 日消息，当地时间 30 日。据美国 CNBC 报道，鸿海计划进一步扩大 AI 服务器业务，并加大在美国的生产布局。董事长刘扬伟表示，AI 基础设施市场需求依然强劲，集团希望借此进一步提高市场份额。</p><p data-vmark=\"7016\">刘扬伟在接受采访时透露，公司目前占据全球约 40% 的 AI 服务器市场份额，预计明年",
+   "atRaw": "Sat, 31 Oct 2026 14:53:54 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:53"
+  },
+  {
+   "title": "国铁集团：2026 年前三季度营收 9143 亿元，净利润盈利 130 亿元",
+   "url": "https://www.ithome.com/1/020/626.htm",
+   "desc": "<p data-vmark=\"f4c6\">IT之家 10 月 31 日消息，10 月 30 日，国铁集团披露了 2026 年前三季度财务决算。前三季度，国铁集团实现营业总收入 9143 亿元，净利润盈利 130 亿元，多项运输指标创历史同期新高。</p><p data-vmark=\"90a5\">国铁集团提到，前三季度，全国铁路累计发送旅客 37.1 亿人次、同比增长 4.8%，创历史同期新高，其中",
+   "atRaw": "Sat, 31 Oct 2026 14:41:44 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:41"
+  },
+  {
+   "title": "苹果 iPad mini 8 电池容量 4900mAh 略低于上一代 5034mAh，机身比前代薄 15% 且更轻",
+   "url": "https://www.ithome.com/1/020/625.htm",
+   "desc": "<p data-vmark=\"876f\">IT之家 10 月 31 日消息，由于欧盟监管要求，苹果已在欧盟能效标签中公布 iPad mini 8 的电池信息，容量显示为 4900mAh。</p><p style=\"text-align: center;\" data-vmark=\"a067\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/",
+   "atRaw": "Sat, 31 Oct 2026 14:32:43 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:32"
+  },
+  {
+   "title": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千",
+   "url": "https://www.ithome.com/1/020/624.htm",
+   "desc": "<p data-vmark=\"c35b\">iPhone 17 手机 256G 版官网售价 6799 元，今日京东移动自营直降至 5069.9 元。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ef0f\">PLUS 会员 1 积分兑换 111-11 元券、2 积分抢兑 800-80 元券：<a href=\"https://u.jd.co",
+   "atRaw": "Sat, 31 Oct 2026 14:32:42 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:32"
+  },
+  {
+   "title": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元",
+   "url": "https://www.ithome.com/1/020/623.htm",
+   "desc": "<p data-vmark=\"0000\">IT之家 10 月 31 日消息，NOTHING Headphone (1) Pro 头戴式耳机在京东正式开售，到手价为 2999 元。</p><p data-vmark=\"0003\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/7",
+   "atRaw": "Sat, 31 Oct 2026 14:14:23 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:14"
+  },
+  {
+   "title": "颂拓 RACE 2 智能运动手表 2909 元国补直降：升级 1.5 英寸屏、4PD 心率模组",
+   "url": "https://www.ithome.com/1/020/622.htm",
+   "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"cee3\">颂拓 RACE 2 智能手表 2025 年 8 月开售，精钢版定价为 3999 元。</p><p data-vmark=\"89ca\">京东 11.11 大促期间，按下方步骤下单，叠加 500 元国补后仅需 2909.12 元：</p><ul class=\" lis",
+   "atRaw": "Sat, 31 Oct 2026 14:13:09 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:13"
+  },
+  {
+   "title": "国补后 890 → 664 元：怒喵 Infinity.100 电竞鼠标直降，1.2 秒热插拔磁吸换电、含电池重 49g",
+   "url": "https://www.ithome.com/1/020/621.htm",
+   "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"90b2\">怒喵 Infinity.100 电竞鼠标开售于 2025 年 3 月，该鼠标采用镁铝合金镂空骨架设计，支持热插拔磁吸电池更换，无线模式（IT之家注：即含电池）的质量为 49g，官方定价 890 元。</p><p data-vmark=\"6c7b\">京东 11.11",
+   "atRaw": "Sat, 31 Oct 2026 14:04:58 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 22:04"
+  },
+  {
+   "title": "连屏幕都是透明的，号称全球首款全透明掌机的 Arduview 成功达成众筹目标",
+   "url": "https://www.ithome.com/1/020/620.htm",
+   "desc": "<p data-vmark=\"7793\">IT之家 10 月 31 日消息，据外媒 VGC 今天（31 日）晚间报道，号称全球首款全透明游戏机的 Arduview 在 Kickstarter 上已经成功达成众筹目标。</p><p data-vmark=\"85f6\">这款掌机只有信用卡大小，采用 Arduino 开源项目作为软硬件基础。过去，不少游戏机和掌机都推出过透明外壳版本，但 Arduview",
+   "atRaw": "Sat, 31 Oct 2026 13:58:52 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:58"
+  },
+  {
+   "title": "上市价 4699 元 → 国补后 2800 元：石头扫拖机器人 P20 Max 上下水版新低",
+   "url": "https://www.ithome.com/1/020/619.htm",
+   "desc": "<p data-vmark=\"e2f1\">【各地补贴力度不同，价格会有小幅波动。】</p><p data-vmark=\"4dc0\">石头 P20 Max 自清洁扫拖机器人今年 2 月上市，水箱版 4299 元，上下水版 4699 元。</p><p data-vmark=\"15fb\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，到手价 2800 元：</p><ul class=",
+   "atRaw": "Sat, 31 Oct 2026 13:56:49 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:56"
+  },
+  {
+   "title": "上汽荣威家越 07 明日开启全国交付：首搭豆包座舱助手，限时权益价 11.98 万元起",
+   "url": "https://www.ithome.com/1/020/618.htm",
+   "desc": "<p data-vmark=\"65a5\">IT之家 10 月 31 日消息，上汽集团宣布荣威家越 07 将于 11 月 1 日开启全国交付。荣威家越 07 于 10 月 23 日上市，包含四款车型，限时权益价区间 11.98-14.48 万元。</p><p data-vmark=\"f943\" style=\"text-align: center;\"><img src=\"https://img.ith",
+   "atRaw": "Sat, 31 Oct 2026 13:55:36 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:55"
+  },
+  {
+   "title": "数据显示，“存储五巨头”上季度营业利润及净利总额首超美国科技五巨头",
+   "url": "https://www.ithome.com/1/020/617.htm",
+   "desc": "<p data-vmark=\"fe02\">IT之家 10 月 31 日消息，据日经亚洲今天（31 日）凌晨报道，AI 投资热潮推高了存储芯片需求，市场已出现<strong>供不应求的局面</strong>。受此推动，铠侠、三星、SK 海力士、美光、闪迪五家全球主要存储芯片厂商，上季度的营业利润和净利润总额<strong>首次超过美国五大科技公司</strong>。</p><p data-vmark",
+   "atRaw": "Sat, 31 Oct 2026 13:46:12 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:46"
+  },
+  {
+   "title": "历经 16 年，马斯克祝贺 SpaceX 团队完成超 700 次猎鹰 9 号飞行任务",
+   "url": "https://www.ithome.com/1/020/616.htm",
+   "desc": "<p data-vmark=\"7df6\">IT之家 10 月 31 日消息，SpaceX CEO 埃隆 · 马斯克在 X 上发文，祝贺 SpaceX 团队完成超过 700 次猎鹰 9 号飞行。</p><p data-vmark=\"5c24\">今日早些时候，猎鹰 9 号从加州范登堡太空军基地 SLC-4E 发射台升空，执行星链 15-18 任务，将 27 颗星链卫星送入近地轨道，一级助推器 B109",
+   "atRaw": "Sat, 31 Oct 2026 13:44:22 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:44"
+  },
+  {
+   "title": "DeepSeek 提出 Super-agent 架构设计：Router 与 Worker 双层架构，探索更自主的 Agent 系统",
+   "url": "https://www.ithome.com/1/020/615.htm",
+   "desc": "<p data-vmark=\"3f7b\">IT之家 10 月 31 日消息，DeepSeek Harness 官方团队今日发布《Super-agent 设计探索：迈向更自主的 Agent 系统》一文，介绍了其面向工程实践的 Super-agent 架构设计思路。</p><p data-vmark=\"f324\" style=\"text-align: center;\"><img src=\"https:",
+   "atRaw": "Sat, 31 Oct 2026 13:36:35 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:36"
+  },
+  {
+   "title": "85 英寸 10499 → 4934 元、98 英寸 13999 → 8399 元：小米电视 S Pro Mini LED 2026 再降价",
+   "url": "https://www.ithome.com/1/020/473.htm",
+   "desc": "<p data-vmark=\"5bbe\">小米电视 S Pro Mini LED 2026 系列去年 9 月开售，今日 11.11 再次开启京东自营探底大促，各款直降至：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"9b16\">京东无门槛红包至高 26888 元，支持即领即用：<a href=\"https://u.jd.com/e11",
+   "atRaw": "Sat, 31 Oct 2026 06:40:27 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 14:40"
+  },
+  {
+   "title": "英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终",
+   "url": "https://www.ithome.com/1/020/613.htm",
+   "desc": "<p data-vmark=\"1b59\">IT之家 10 月 31 日消息，据路透社报道，10 月最后一个交易日的市场表现相当惨烈，今年以来持续上涨的科技股再次遭遇考验。</p><p data-vmark=\"272a\">当地时间 30 日，纳斯达克综合指数创下<strong> 6 月以来最大单日跌幅</strong>。英特尔和社交媒体平台 Reddit 股<strong>价双双下跌 29%</st",
+   "atRaw": "Sat, 31 Oct 2026 13:30:27 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:30"
+  },
+  {
+   "title": "7999 → 4598 元：容声大冰象 603L 法式平嵌冰箱直降，双净双系统鲜嫩 30 天",
+   "url": "https://www.ithome.com/1/020/612.htm",
+   "desc": "<h2 data-vmark=\"e3e8\">法式</h2><p data-vmark=\"4fe2\">容声 · 大冰象 603L 平嵌冰箱定价 7999 元，今日按下方步骤下单，仅需 4798 元。</p><p data-vmark=\"d5b3\">今日下单得 50 元红包，晒单种草后返 150 元猫超卡（详询客服），折合 <strong>4598 元</strong>闭眼囤好价：</p><ul cl",
+   "atRaw": "Sat, 31 Oct 2026 13:26:02 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:26"
+  },
+  {
+   "title": "西湖大学成立世界模型研究中心，致力于突破核心瓶颈",
+   "url": "https://www.ithome.com/1/020/611.htm",
+   "desc": "<p data-vmark=\"ca66\">IT之家 10 月 31 日消息，10 月 31 日，西湖世界模型研究中心在西湖大学云谷校区成立。这是西湖大学面向物理智能领域设立的校级交叉科研平台。</p><p data-vmark=\"da14\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/20",
+   "atRaw": "Sat, 31 Oct 2026 13:24:15 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:24"
+  },
+  {
+   "title": "史上最大 IPO 前夕，黑石突然改口称 Anthropic 或无法获得投资级信用评级",
+   "url": "https://www.ithome.com/1/020/610.htm",
+   "desc": "<p data-vmark=\"d2fa\">IT之家 10 月 31 日消息，据英国《金融时报》30 日报道，黑石集团向投资者透露，Anthropic 上市后<strong>可能暂时拿不到投资级信用评级</strong>。这一预期与黑石此前的说法出现反转，也给 Anthropic 为庞大支出筹集资金增加了难度。</p><p data-vmark=\"2a2f\">据知情人士透露，在 Anthropic ",
+   "atRaw": "Sat, 31 Oct 2026 13:10:01 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:10"
+  },
+  {
+   "title": "2027 款领克 08 EM-P 官图公布，11 月 5 日登场",
+   "url": "https://www.ithome.com/1/020/609.htm",
+   "desc": "<p data-vmark=\"88e3\">IT之家 10 月 31 日消息，领克汽车官方发布 2027 款领克 08EM-P 更多官图，新车将于 11 月 5 日登场。</p><p data-vmark=\"df45\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c9be74",
+   "atRaw": "Sat, 31 Oct 2026 13:02:50 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 21:02"
+  },
+  {
+   "title": "159 → 88 元：只有半个女生手掌大小，酷态科 10 号超级电能棒 Mini 京东新低",
+   "url": "https://www.ithome.com/1/020/603.htm",
+   "desc": "<p data-vmark=\"c004\">酷态科 10 号超级电能棒 Mini 2025 年 3 月末开售，Mini 体积仅重约 217g，55W MAX 双向充电。</p><p data-vmark=\"9031\">自带一根 C2C 数据线，官方售价 159 元。</p><p data-vmark=\"b7fd\">今日京东仅需 88 元即可入手，再降新低：</p><ul class=\" list-p",
+   "atRaw": "Sat, 31 Oct 2026 12:54:41 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:54"
+  },
+  {
+   "title": "5000mAh 磁吸充电宝 11.11 再降：小米金沙江 299 → 202 元，安克 15W 213 元速度保价",
+   "url": "https://www.ithome.com/1/020/602.htm",
+   "desc": "<p data-vmark=\"10af\">一周内在京东下单的小伙伴都可保价哦：<a href=\"https://u.jd.com/5gyxNhS\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eDrcTej\" data-iosurl=\"https://u.jd.com/errfxSa\" data-androidurl=\"https://u.jd.co",
+   "atRaw": "Sat, 31 Oct 2026 12:46:03 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:46"
+  },
+  {
+   "title": "米哈游《原神》菲林斯 · 诡灯陌影磁轴键盘开售，728 元",
+   "url": "https://www.ithome.com/1/020/601.htm",
+   "desc": "<p data-vmark=\"f863\">IT之家 10 月 31 日消息，米哈游《原神》菲林斯 · 诡灯陌影磁轴键盘现已开售，官方定价 728 元，预计 2027 年 3 月底到仓。</p><p data-vmark=\"143d\" style=\"text-align: left;\">这款键盘基于 ATK RS7 Air 磁轴键盘进行深度定制，采用 75% 配列（81 键），搭载明刃轴，触发力度 ",
+   "atRaw": "Sat, 31 Oct 2026 12:39:56 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:39"
+  },
+  {
+   "title": "曝折叠屏手机明后年分化为大折、阔折两大主流形态，部分厂商双线同步迭代",
+   "url": "https://www.ithome.com/1/020/600.htm",
+   "desc": "<p data-vmark=\"fdb7\">IT之家 10 月 31 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今天（31 日）晚间在微博发文判断，2027-2028 年，折叠屏手机会<strong>分化为两大主流形态</strong>：比例为 1:1 的方正大折叠和 4:3 的阔折叠，而部分厂商会双线同步迭代。</p><ul class=\" list-paddingleft-2\"><",
+   "atRaw": "Sat, 31 Oct 2026 12:38:23 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:38"
+  },
+  {
+   "title": "长鑫科技：基于 4F² 架构的第六代技术平台 DRAM 完成工程样片验证",
+   "url": "https://www.ithome.com/1/020/599.htm",
+   "desc": "<p data-vmark=\"66aa\">IT之家 10 月 31 日消息，10 月 30 日，长鑫科技在第三季度业绩交流会中透露，报告期内，公司第五代工艺技术平台实现量产；在 4F² 垂直沟道 DRAM 架构取得关键突破的基础之上，第六代工艺技术平台已完成工程样片的验证；LPDDR6 产品实现量产。</p><p data-vmark=\"09f6\">公告提到，<strong>第五代工艺技术平台是长",
+   "atRaw": "Sat, 31 Oct 2026 12:26:18 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:26"
+  },
+  {
+   "title": "无界动力与京东达成战略合作，机器人 K15 上岗七鲜咖啡",
+   "url": "https://www.ithome.com/1/020/598.htm",
+   "desc": "<p data-vmark=\"93ee\">IT之家 10 月 31 日消息，10 月 31 日，无界动力宣布与京东正式签署战略合作协议，围绕零售场景应用、商业化平台与生态渠道、产业资源协同等多个维度开展立体化合作。</p><p data-vmark=\"ec19\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsupl",
+   "atRaw": "Sat, 31 Oct 2026 12:13:50 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:13"
+  },
+  {
+   "title": "存储芯片短缺加剧之际，OpenAI 奥尔特曼赴韩与约 50 名三星高管会面",
+   "url": "https://www.ithome.com/1/020/597.htm",
+   "desc": "<p data-vmark=\"125f\">IT之家 10 月 31 日消息，据彭博社报道，全球存储芯片供应短缺问题日益严重之际，今天（31 日）下午，OpenAI CEO 萨姆 · 奥尔特曼在韩国与三星集团高层会面，双方计划进一步加强在存储芯片供应和 AI 基础设施建设方面的合作。</p><p data-vmark=\"f98a\">据三星发布的声明，奥尔特曼此次在龙仁市与三星旗下电子、金融和生物科技",
+   "atRaw": "Sat, 31 Oct 2026 12:10:48 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 20:10"
+  },
+  {
+   "title": "75 英寸 5799 → 3333 元：华为 Vision 智慧屏 6 SE RGB 国补探新低",
+   "url": "https://www.ithome.com/1/020/596.htm",
+   "desc": "<h3 data-vmark=\"1f58\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"0000\">华为 Vision 智慧屏 6 SE RGB 开售于 2026 年 8 月，75 英寸定价 5799 元。</p><p data-vmark=\"5deb\">京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后仅需 3333.98 元：</p><ul c",
+   "atRaw": "Sat, 31 Oct 2026 11:59:53 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:59"
+  },
+  {
+   "title": "号称全球首创：香港公司 Arrowmax 推出 AI 电动螺丝刀 S1，能用摄像头识别螺丝类型",
+   "url": "https://www.ithome.com/1/020/593.htm",
+   "desc": "<p data-vmark=\"90fc\">IT之家 10 月 31 日消息，据外媒 TechSpot 今天（31 日）晚间报道，香港工具品牌 Arrowmax 在 Kickstarter 推出了一款<strong>号称全球首创</strong>的 AI 电动螺丝刀 S1，众筹项目启动后不到 24 小时便达成目标。产品起售价 80 美元<span class=\"exch-money-value \">",
+   "atRaw": "Sat, 31 Oct 2026 11:57:32 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:57"
+  },
+  {
+   "title": "总投资约 295 亿，全球首条印刷 OLED G8.6 代产线 TCL 华星 t8 项目设备正式搬入",
+   "url": "https://www.ithome.com/1/020/592.htm",
+   "desc": "<p data-vmark=\"d323\">IT之家 10 月 31 日消息，据 TCL 华星消息，10 月 31 日，TCL 华星 t8 项目设备搬入仪式在广州举行，随着主生产设备进场安装，全球首条印刷 OLED G8.6 代产线建设正式从“厂房建设期”切入“设备安装与调试期”。</p><p style=\"text-align: center;\" data-vmark=\"6370\"><img sr",
+   "atRaw": "Sat, 31 Oct 2026 11:36:23 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:36"
+  },
+  {
+   "title": "3299 → 759 元享 25000Pa 大吸力：石头 A30 Max 智能洗地机直降，支持 180° 超薄躺平",
+   "url": "https://www.ithome.com/1/020/174.htm",
+   "desc": "<p data-vmark=\"e857\">石头 A30 Max 智能洗地机官方定价 3299 元，支持 180° 躺平 + 25000Pa 大吸力，基站支持 95°C 热风自烘干 + 95°C 高温自清洁。</p><p data-vmark=\"75d1\">今日按下方步骤下单，仅需 799 元即可入手。</p><p data-vmark=\"5c70\" style=\"text-align: cente",
+   "atRaw": "Fri, 30 Oct 2026 08:46:03 GMT",
+   "source": "ithome",
+   "at": "2026-10-30 16:46"
+  },
+  {
+   "title": "山东海阳核电项目三期工程开工：单台机组提升至 130 万千瓦，将成全球最大非能动核电基地",
+   "url": "https://www.ithome.com/1/020/591.htm",
+   "desc": "<p data-vmark=\"53d6\">IT之家 10 月 31 日消息，国家电投山东海阳核电项目三期工程于 10 月 31 日正式开工。此次开工的 5、6 号机组已于 2025 年 4 月 27 日获国务院核准，并取得建造许可证，是“十五五”期间山东省首个开工的核电项目。</p><p style=\"text-align: center;\" data-vmark=\"c4f8\"><img src=",
+   "atRaw": "Sat, 31 Oct 2026 11:30:36 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:30"
+  },
+  {
+   "title": "马斯克再撕比尔盖茨：一边资助攻击我的人，一边做空特斯拉",
+   "url": "https://www.ithome.com/1/020/590.htm",
+   "desc": "<p data-vmark=\"a613\">10 月 31 日消息，当地时间 10 月 30 日，特斯拉 CEO 马斯克在社交平台 X 上发文称，比尔 · 盖茨在 \" 资助攻击我的人 \"，同时仍持有针对特斯拉的 \" 大规模空头仓位 \"。</p><p style=\"text-align: center;\" data-vmark=\"1be2\"><img src=\"https://img.ithome.c",
+   "atRaw": "Sat, 31 Oct 2026 11:27:11 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:27"
+  },
+  {
+   "title": "全新一代智己 LS6 首月交付突破 8000 台，19.79 万元起",
+   "url": "https://www.ithome.com/1/020/589.htm",
+   "desc": "<p data-vmark=\"2cfa\">IT之家 10 月 31 日消息，智己汽车今日宣布，全新一代智己 LS6 自 9 月上市以来，累计交付突破 8000 台。</p><p data-vmark=\"7ba5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/468c3f88",
+   "atRaw": "Sat, 31 Oct 2026 11:26:55 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:26"
+  },
+  {
+   "title": "漫步者花再 x 影驰 NEW CYBER 星曜娘 LUNA 联名海景房音响上市：内置立体手办 + 彩屏交互，售 1599 元",
+   "url": "https://www.ithome.com/1/020/588.htm",
+   "desc": "<p data-vmark=\"0000\">IT之家 10 月 31 日消息，漫步者花再官方今日宣布，与影驰合作打造的 NEW CYBER 星曜娘 LUNA 海景房音箱联名限定款现已上市，京东显示为 1599 元，供极光白与幻夜黑两种配色可选。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/e6gof37\" target=\"_bl",
+   "atRaw": "Sat, 31 Oct 2026 11:01:28 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 19:01"
+  },
+  {
+   "title": "宏碁非凡 Go Air 新增 16+512GB 存储版本：酷睿 Ultra 5 125H 售 6999 元，999g 轻薄设计",
+   "url": "https://www.ithome.com/1/020/586.htm",
+   "desc": "<p data-vmark=\"6938\">IT之家 10 月 31 日消息，宏碁非凡 Go Air 轻羽本本周新增了两款配备 16GB 内存、512GB 固态硬盘的版本，其中搭载英特尔酷睿 Ultra 5 125H 处理器的版本售价 6999 元，酷睿 Ultra 7 155H 版本 7999 元，现已开售。</p><dir><a contenteditable=\"false\" href=\"htt",
+   "atRaw": "Sat, 31 Oct 2026 10:50:47 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:50"
+  },
+  {
+   "title": "Waymo 无人驾驶出租车长期霸占充电桩，美国电车车主不胜其扰",
+   "url": "https://www.ithome.com/1/020/585.htm",
+   "desc": "<p data-vmark=\"24ba\">IT之家 10 月 31 日消息，开着电动汽车到公共快充站补电，却发现充电位都被 Waymo 的无人驾驶出租车给占了，这种情况已经在美国加州圣迭戈出现。据当地电动汽车车主反映，他们有时不得不排队等上一小时，甚至只能另找充电站。</p><p data-vmark=\"e48b\">据《洛杉矶时报》当地时间 30 日报道，Waymo 正在美国迅速拓展业务，目前服务",
+   "atRaw": "Sat, 31 Oct 2026 10:48:11 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:48"
+  },
+  {
+   "title": "原生 3DoF 防抖不易晕：雷鸟 AR 眼镜 GT 京东 1239 元新低，配镜后也支持 7 天免费试用",
+   "url": "https://www.ithome.com/1/020/584.htm",
+   "desc": "<p data-vmark=\"72ae\">雷鸟 GT 系列 AR 眼镜产品今年 5 月上市，官方定价 1899 元。</p><p data-vmark=\"f777\">今日京东直降至 1339 元，下单后赠 100 元 E 卡，限时<strong>免费近视配镜</strong>，晒单赠 49 元导音鳍：</p><dir><a contenteditable=\"false\" href=\"https:/",
+   "atRaw": "Sat, 31 Oct 2026 10:43:28 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:43"
+  },
+  {
+   "title": "马斯克发“笑脸”评论币安遭黑客攻击新闻，赵长鹏称现在不适合开玩笑",
+   "url": "https://www.ithome.com/1/020/583.htm",
+   "desc": "<p data-vmark=\"4479\">IT之家 10 月 31 日消息，马斯克在网上开起玩笑来谁都不放过，连投资过他的股东也不例外。币安遭黑客攻击后，马斯克把调侃对象转向了币安联合创始人赵长鹏。</p><p data-vmark=\"dd66\">本月 30 日，币安通报平台可能遭到黑客入侵，并已启动调查，黑客转走的资产价值或高达 63 亿美元<span class=\"exch-money-val",
+   "atRaw": "Sat, 31 Oct 2026 10:33:46 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:33"
+  },
+  {
+   "title": "乐元素 UE5 二游《白银之城》定档 12 月 14 日全球公测，登陆 PC、PS5 及移动平台",
+   "url": "https://www.ithome.com/1/020/582.htm",
+   "desc": "<p data-vmark=\"750c\">IT之家 10 月 31 日消息，乐元素旗下虚幻引擎 5 大世界动作 RPG《白银之城》今日官宣将于 12 月 14 日开启全球公测，登陆 PC、PlayStation 5、安卓和 iOS 平台。据称，游戏全球预约量已突破 1500 万。</p><p style=\"text-align: center;\" data-vmark=\"f317\"><img sr",
+   "atRaw": "Sat, 31 Oct 2026 10:32:26 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:32"
+  },
+  {
+   "title": "【20:00~20:15】蹲点速抢京东无门槛红包，80 元超补券先到先得，vivo X Fold6 限量 1 元抢",
+   "url": "https://www.ithome.com/1/020/580.htm",
+   "desc": "<p data-vmark=\"e598\">全网 11.11 将在 <strong>10 月 31 日 20:00 ~ 11 月 1 日</strong>再次开启超级秒杀狂促，整个 11.11 就看这波啦，有需求的小伙伴可以蹲点抢哦。</p><p data-vmark=\"42f0\"><strong><span class=\"font-color-red\">京东 </span>无门槛红包至高 2688",
+   "atRaw": "Sat, 31 Oct 2026 10:29:53 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:29"
+  },
+  {
+   "title": "机械革命推出 JG02M 与 JG03M 电竞鼠标：54g 轻量化，79.9 元起",
+   "url": "https://www.ithome.com/1/020/578.htm",
+   "desc": "<p data-vmark=\"d9d1\">IT之家 10 月 31 日消息，机械革命推出了 JG02M 和 JG03M 两个系列的电竞鼠标，外观基本一致。JG02M 普通版 79.9 元，Pro 版 99.9 元，JG03M 标准版 89.9 元，Pro 版 109 元，均已开售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/",
+   "atRaw": "Sat, 31 Oct 2026 10:23:04 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:23"
+  },
+  {
+   "title": "涉电动汽车、App 适老化等，500 多项国家标准下月实施",
+   "url": "https://www.ithome.com/1/020/577.htm",
+   "desc": "<p data-vmark=\"12b3\">IT之家 10 月 31 日消息，据央视新闻援引国家标准委，11 月 1 日起，54 项强制性国家标准、465 项推荐性国家标准和 1 项指导性技术文件开始实施。</p><p data-vmark=\"b65a\">《拖拉机噪声限值》《收获机械噪声限值》强制性国家标准分别规定了拖拉机、收获机械动态环境噪声限值和驾驶员操作位置处噪声限值及相应测量方法。《土方机械",
+   "atRaw": "Sat, 31 Oct 2026 10:16:48 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:16"
+  },
+  {
+   "title": "索尼招聘 PlayStation 高级总监，负责 PS 商店“智能定价”",
+   "url": "https://www.ithome.com/1/020/575.htm",
+   "desc": "<p data-vmark=\"2038\">IT之家 10 月 31 日消息，The Game Post 昨日发现，索尼互动娱乐（SIE）近日发布的一则招聘信息，显示 PlayStation Store 确实存在动态定价机制。</p><p data-vmark=\"1fe2\">索尼正在招聘一名“数字游戏货币化高级总监”（Senior Director, Digital Games Monetizati",
+   "atRaw": "Sat, 31 Oct 2026 10:08:46 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 18:08"
+  },
+  {
+   "title": "影史经典《海上钢琴师》11 月 13 日再次内地重映，豆瓣评分 9.3",
+   "url": "https://www.ithome.com/1/020/574.htm",
+   "desc": "<p data-vmark=\"9880\">IT之家 10 月 31 日消息，今日，由意大利著名导演朱塞佩 · 托纳托雷执导的影史经典《海上钢琴师》官宣于 11 月 13 日内地重映，影片豆瓣评分 9.3。</p><p data-vmark=\"1f2b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfi",
+   "atRaw": "Sat, 31 Oct 2026 09:59:57 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:59"
+  },
+  {
+   "title": "长鑫科技：已与多家头部客户协商长期供货协议",
+   "url": "https://www.ithome.com/1/020/573.htm",
+   "desc": "<p data-vmark=\"f614\">IT之家 10 月 31 日消息，在 2026 年第三季度业绩说明会上，长鑫科技管理层就投资者关注的盈利前景回应称：<strong>已与多家头部客户协商长期供货协议</strong>，从而锁定中长期确定性需求，预计第四季度毛利率将继续保持稳定。</p><p data-vmark=\"0bed\">据IT之家了解，长鑫科技今年前三季度综合毛利率达 86.85%；",
+   "atRaw": "Sat, 31 Oct 2026 09:56:52 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:56"
+  },
+  {
+   "title": "华为终端首个三类医疗器械落地：CGM 持续葡萄糖监测系统获批，与心脏支架同级监管",
+   "url": "https://www.ithome.com/1/020/572.htm",
+   "desc": "<p data-vmark=\"6e6d\">IT之家 10 月 31 日消息，国家药监局 10 月 30 日公示的医疗器械批准文件送达信息中出现了一条来自“华为终端有限公司”的公示，产品名称为“持续葡萄糖监测系统”，注册证编号“国械注准 20263072228”。</p><p data-vmark=\"f54f\" style=\"text-align: center;\"><img src=\"https:",
+   "atRaw": "Sat, 31 Oct 2026 09:50:03 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:50"
+  },
+  {
+   "title": "奇瑞执行副总裁戚士龙：明年将与华为做一些新的车型进来，来丰富整个产品体系",
+   "url": "https://www.ithome.com/1/020/566.htm",
+   "desc": "<p data-vmark=\"5068\">IT之家 10 月 31 日消息，据新浪科技今日报道，发布第三季度财报后，奇瑞汽车股份有限公司执行副总裁戚士龙，奇瑞控股集团新闻发言人金弋波与媒体对话。</p><p data-vmark=\"1353\">谈及智界获取独立造车资质一事，奇瑞汽车股份有限公司执行副总裁戚士龙表示，通过智界这几年的运营来看，本质上反映出奇瑞能力提升的过程。“比如说做十几万车，二十几",
+   "atRaw": "Sat, 31 Oct 2026 09:41:45 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:41"
+  },
+  {
+   "title": "丰田大举“逆电动化”：要开发新一代内燃机，还打算卖给其他车企",
+   "url": "https://www.ithome.com/1/020/557.htm",
+   "desc": "<p data-vmark=\"1674\">IT之家 10 月 31 日消息，目前，大多数车企都选择改进现有发动机，以满足包括欧 7 等一系列严格的排放要求。考虑到电动化转型需要巨额投资，车企又普遍希望压缩研发开支，全新系列发动机越来越少见。</p><p data-vmark=\"4b50\">丰田却反其道而行，<strong>不仅要开发新一代内燃机，还打算卖给其他车企</strong>。</p><p ",
+   "atRaw": "Sat, 31 Oct 2026 09:35:18 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:35"
+  },
+  {
+   "title": "理想 AI 眼镜 Livis 10 月 OTA 升级，个人 Agent 新增接入 Hermes",
+   "url": "https://www.ithome.com/1/020/553.htm",
+   "desc": "<p data-vmark=\"60c1\">IT之家 10 月 31 日消息，理想汽车今日宣布理想 AI 眼镜 Livis 10 月 OTA 重磅升级，运动健康分析报告进一步提升；视觉问答独家接入小红书 Agent；个人 Agent 新增接入 Hermes。</p><p data-vmark=\"7e7b\" style=\"text-align: center;\"><img src=\"https://i",
+   "atRaw": "Sat, 31 Oct 2026 09:31:55 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:31"
+  },
+  {
+   "title": "12G+256G 首发 3199 → 2188 元：联想小新 Pro GT 13 平板电脑国补 6 期免息",
+   "url": "https://www.ithome.com/1/020/547.htm",
+   "desc": "<p data-vmark=\"cf89\">2026 年 3 月 18 日联想推出了小新系列的笔记本电脑及平板电脑新品，以及拯救者 Y700 五代平板电脑。</p><p data-vmark=\"3e69\">其中，联想小新 Pro GT 13 平板电脑搭载高通骁龙 8 至尊版，采用 13 英寸 3.5K 屏幕，提供 3 个版本可选，首发价 2799~3599 元，叠加国补后 2380~3099 元，再",
+   "atRaw": "Sat, 31 Oct 2026 09:27:41 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:27"
+  },
+  {
+   "title": "1319 元刚需闭眼囤：小米 1.5 匹巨省电 N1A1 空调官方直降",
+   "url": "https://www.ithome.com/1/020/546.htm",
+   "desc": "<p data-vmark=\"c101\">小米・米家空调巨省电 1.5 匹 KFR-35GW / N1A1（APF 5.27 款）日常售价 1688 元，今日京东旗舰店直降至 1319 元刚需闭眼囤好价。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5501\">先领 9 折京东平台券：<strong><a href=\"https://",
+   "atRaw": "Sat, 31 Oct 2026 09:25:23 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:25"
+  },
+  {
+   "title": "惠普推出 34 英寸 WQHD 120Hz 带鱼屏显示器 Series 3 Pro 334wp G2，支持 90W USB-C 供电",
+   "url": "https://www.ithome.com/1/020/545.htm",
+   "desc": "<p data-vmark=\"b064\">IT之家 10 月 31 日消息，据 TechPowerUp 昨日报道，惠普推出了一款 34 英寸 WQHD 120Hz 的 Series 3 Pro 带鱼屏显示器，型号 334wp G2，面向办公及多任务处理场景。</p><p data-vmark=\"27c0\">该显示器采用 VA 面板，拥有 1500R 曲率、3440×1440 分辨率，静态对比度为 ",
+   "atRaw": "Sat, 31 Oct 2026 09:25:13 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:25"
+  },
+  {
+   "title": "曝 EA 关闭 BioWare 是为“腾笼换鸟”：将资源投向《星球大战：前线 3》",
+   "url": "https://www.ithome.com/1/020/544.htm",
+   "desc": "<p data-vmark=\"5468\">IT之家 10 月 31 日消息，上周，EA 宣布关闭历史悠久、曾打造《龙腾世纪》的工作室 BioWare，同时取消开发中的《质量效应》新作。</p><p data-vmark=\"2cb6\" style=\"text-align: start;\">当地时间 10 月 30 日，彭博社的新报道指出，EA 决定关闭 BioWare，很大程度上是因为公司<stro",
+   "atRaw": "Sat, 31 Oct 2026 09:22:24 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:22"
+  },
+  {
+   "title": "神行者 8 大五座版开启交付：权益价 28.99 万元起，标配华为 ADS 5",
+   "url": "https://www.ithome.com/1/020/543.htm",
+   "desc": "<p data-vmark=\"8c5e\">IT之家 10 月 31 日消息，FREELANDER 神行者 8 大五座版于 10 月 31 日正式开启交付。官方同时宣布将上市权益延续至 11 月 30 日 24 时。</p><p data-vmark=\"dd00\">神行者 8 由奇瑞与捷豹路虎联合开发，在奇瑞捷豹路虎常熟基地生产，大六座版已于 9 月先行开启交付。大五座提供 PRO、MAX、MAX+",
+   "atRaw": "Sat, 31 Oct 2026 09:14:43 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:14"
+  },
+  {
+   "title": "《使命召唤：现代战争 4》游戏使用梨泰院踩踏事故素材，动视致歉并承诺删除",
+   "url": "https://www.ithome.com/1/020/542.htm",
+   "desc": "<p style=\"text-align: start;\" data-vmark=\"972b\">IT之家 10 月 31 日消息，当地时间 30 日，据外媒 VGC 报道，动视因《使命召唤：现代战争 4》使用真实惨剧影像引发不满而道歉，并承诺从游戏中删除有关画面。</p><p style=\"text-align: start;\" data-vmark=\"4949\">《使命召唤：现代战争 4》游戏开",
+   "atRaw": "Sat, 31 Oct 2026 09:08:11 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:08"
+  },
+  {
+   "title": "小米云服务双十一特惠活动上线，会员包年 3 折起",
+   "url": "https://www.ithome.com/1/020/541.htm",
+   "desc": "<p data-vmark=\"a66f\">IT之家 10 月 31 日消息，小米云服务今日宣布开启双 11 限时优惠，会员包年 3 折起，活动时间为 10 月 31 日-11 月 14 日。</p><p data-vmark=\"e5dc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/202",
+   "atRaw": "Sat, 31 Oct 2026 09:04:03 GMT",
+   "source": "ithome",
+   "at": "2026-10-31 17:04"
+  },
+  {
+   "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+   "url": "https://www.tmtpost.com/8188863.html",
+   "desc": "新旧动能加速切换。",
+   "atRaw": "Sat, 31 Oct 2026 21:15:46 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 21:15"
+  },
+  {
+   "title": "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收",
+   "url": "https://www.tmtpost.com/8188178.html",
+   "desc": "对大客户议价能力弱，致业务毛利率下滑。",
+   "atRaw": "Sat, 31 Oct 2026 20:22:32 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:22"
+  },
+  {
+   "title": "蔚来的“三个聚焦”：为规模幻觉买单之后",
+   "url": "https://www.tmtpost.com/8187393.html",
+   "desc": "蔚来战略退守聚焦高端，收缩求存待破局。",
+   "atRaw": "Sat, 31 Oct 2026 20:21:21 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:21"
+  },
+  {
+   "title": "相比二代掌权的通化东宝，甘李药业更像一家创新药企",
+   "url": "https://www.tmtpost.com/8187864.html",
+   "desc": "两种交棒方式。",
+   "atRaw": "Sat, 31 Oct 2026 20:18:23 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:18"
+  },
+  {
+   "title": "欧洲市场中的“国产车”，正在复制日本车的美国故事？",
+   "url": "https://www.tmtpost.com/8188005.html",
+   "desc": "渗透是时间问题。",
+   "atRaw": "Sat, 31 Oct 2026 20:18:18 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:18"
+  },
+  {
+   "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+   "url": "https://www.tmtpost.com/8188396.html",
+   "desc": "我耗时 12 天拼完 1000 片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是 AI 不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。这件实验，也照见我们当下思考外包、本末倒置的认知困境。",
+   "atRaw": "Sat, 31 Oct 2026 20:18:13 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:18"
+  },
+  {
+   "title": "老干妈给所有想用AI的企业“上”了一课",
+   "url": "https://www.tmtpost.com/8188545.html",
+   "desc": "情绪宣泄，究竟能改变什么？",
+   "atRaw": "Sat, 31 Oct 2026 20:18:03 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:18"
+  },
+  {
+   "title": "AI电影，正在将电影院逼进“死胡同”",
+   "url": "https://www.tmtpost.com/8188470.html",
+   "desc": "AI电影上院线，观众似乎还不想掏钱。",
+   "atRaw": "Sat, 31 Oct 2026 20:02:16 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:02"
+  },
+  {
+   "title": "华为、科华涨价函发出之后，谁在为这轮成本修复买单",
+   "url": "https://www.tmtpost.com/8188076.html",
+   "desc": "光储产品涨价，成本转移，电站承接力成关键。",
+   "atRaw": "Sat, 31 Oct 2026 20:02:12 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:02"
+  },
+  {
+   "title": "和华为“分手”后，赛力斯又亏了",
+   "url": "https://www.tmtpost.com/8188460.html",
+   "desc": "赛力斯三季报：销量少了四成，利润去哪了？",
+   "atRaw": "Sat, 31 Oct 2026 20:02:08 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 20:02"
+  },
+  {
+   "title": "预测失效的那刻，存储行业撞见物理AI的边界",
+   "url": "https://www.tmtpost.com/8188551.html",
+   "desc": "先锚定具身智能想要抵达的终局，再反向推导底层基础设施需要具备怎样的能力上限。",
+   "atRaw": "Sat, 31 Oct 2026 19:57:24 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:57"
+  },
+  {
+   "title": "芯片的大买主们，快没钱了？",
+   "url": "https://www.tmtpost.com/8188472.html",
+   "desc": "算力订单还在增加，买芯片的钱却越来越难安排。",
+   "atRaw": "Sat, 31 Oct 2026 19:57:20 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:57"
+  },
+  {
+   "title": "全球风电订单持续膨胀，金风三季报却卡在交付， 风电出海的新门槛正压向配套产业链企业",
+   "url": "https://www.tmtpost.com/8188070.html",
+   "desc": "风电整机商出海正面临订单快于交付利润的兑现考验。",
+   "atRaw": "Sat, 31 Oct 2026 19:57:15 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:57"
+  },
+  {
+   "title": "被The Weeknd采样的王菲，在海外到底有多火？",
+   "url": "https://www.tmtpost.com/8188417.html",
+   "desc": "菲姐的烦恼，无解。",
+   "atRaw": "Sat, 31 Oct 2026 19:57:09 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:57"
+  },
+  {
+   "title": "AI混进学术圈，人类第一反应是“叫家长”",
+   "url": "https://www.tmtpost.com/8188440.html",
+   "desc": "你好，人！我是新来的旁听生！请多指教！",
+   "atRaw": "Sat, 31 Oct 2026 19:43:38 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:43"
+  },
+  {
+   "title": "从算法到芯片，Momenta正在下一盘什么棋？",
+   "url": "https://www.tmtpost.com/8188282.html",
+   "desc": "下一阶段，决定新芯航途能走多远的，不是700 TOPS，而是它能否把技术优势持续转化为规模化的产业竞争力。",
+   "atRaw": "Sat, 31 Oct 2026 19:43:34 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:43"
+  },
+  {
+   "title": "上亿独居年轻人，为什么诞生不了一门“大生意”",
+   "url": "https://www.tmtpost.com/8188438.html",
+   "desc": "真正在独居的年轻人从来不是这场游戏里的主角。",
+   "atRaw": "Sat, 31 Oct 2026 19:43:30 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:43"
+  },
+  {
+   "title": "首届北大光华讲席教授聘任仪式举行，有四位教授获聘，看看都是谁？",
+   "url": "https://www.tmtpost.com/8188482.html",
+   "desc": "周黎安、陆正飞、刘玉珍、姜铠丰四位教授分别获聘为学院金光讲席教授、香港校友会讲席教授、台新讲席教授和拉卡拉讲席教授。",
+   "atRaw": "Sat, 31 Oct 2026 19:33:22 +0800",
+   "source": "tmtpost",
+   "at": "2026-10-31 19:33"
+  },
+  {
+   "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+   "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 20:43:05 GMT",
+   "source": "infoq",
+   "at": "2026-11-01 04:43"
+  },
+  {
+   "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+   "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 16:15:46 GMT",
+   "source": "infoq",
+   "at": "2026-11-01 00:15"
+  },
+  {
+   "title": "一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布",
+   "url": "https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 15:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 23:00"
+  },
+  {
+   "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+   "url": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 14:49:01 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 22:49"
+  },
+  {
+   "title": "Flink 负责时间，Iceberg 负责记忆：Pinterest 如何最终确认数据分区？",
+   "url": "https://www.infoq.cn/article/9OhgYkwYlPYgTbAvWlGz?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/9OhgYkwYlPYgTbAvWlGz?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 13:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 21:00"
+  },
+  {
+   "title": "GitHub Actions Runner Controller 0.15.0 致力于实现大规模场景下的可靠性",
+   "url": "https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/tNLFh02J0koQswlY5Oqe?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 10:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 18:00"
+  },
+  {
+   "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+   "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Sat, 31 Oct 2026 08:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 16:00"
+  },
+  {
+   "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+   "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 21:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 05:00"
+  },
+  {
+   "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+   "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 19:27:01 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 03:27"
+  },
+  {
+   "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+   "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 18:53:48 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 02:53"
+  },
+  {
+   "title": "EmbeddingGemma 2：Google 把五种模态塞进同一个向量空间",
+   "url": "https://www.infoq.cn/article/O6mtiB7FVd0VSDHJe348?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/O6mtiB7FVd0VSDHJe348?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 17:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-31 01:00"
+  },
+  {
+   "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+   "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 15:45:06 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 23:45"
+  },
+  {
+   "title": ".NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新",
+   "url": "https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 15:09:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 23:09"
+  },
+  {
+   "title": "2026年AI技术演进与2027年趋势前瞻报告",
+   "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 14:41:36 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 22:41"
+  },
+  {
+   "title": "NestJS 12：ESM 包、标准模式验证和原生可观测性",
+   "url": "https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 13:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 21:00"
+  },
+  {
+   "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+   "url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 11:22:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 19:22"
+  },
+  {
+   "title": "4 条提示词，如何把 98 条产品评论变成工程决策依据 ｜ 技术实践",
+   "url": "https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/5EaQcXCgMWaZaRvFBeoh?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 11:07:04 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 19:07"
+  },
+  {
+   "title": "腾讯 AI Lab 又一核心骨干去向确认！“王者绝悟”前技术负责人叶德珩加入字节 Seed",
+   "url": "https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/u23wUVUDcFqL7hLBWXuW?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 10:04:10 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 18:04"
+  },
+  {
+   "title": "希望这不会拖慢创新：DuckLabs 被收购，社区既高兴又警惕",
+   "url": "https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/pwQAXtApbhdQRN2vQfdS?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 10:00:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 18:00"
+  },
+  {
+   "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
+   "url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article",
+   "desc": "<div align='right'><a href='https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&utm_medium=article'>点击查看原文></a></div>",
+   "atRaw": "Fri, 30 Oct 2026 09:23:00 GMT",
+   "source": "infoq",
+   "at": "2026-10-30 17:23"
+  },
+  {
+   "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+   "url": "https://sspai.com/post/117960",
+   "desc": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=&#34;https://sspai.com/post/117960&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Sat, 31 Oct 2026 13:29:19 +0800",
+   "source": "sspai",
+   "at": "2026-10-31 13:29"
+  },
+  {
+   "title": "一图流 | 一张图看懂中国版 Apple 智能",
+   "url": "https://sspai.com/post/117953",
+   "desc": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=&#34;https://sspai.com/post/117953&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Sat, 31 Oct 2026 12:10:39 +0800",
+   "source": "sspai",
+   "at": "2026-10-31 12:10"
+  },
+  {
+   "title": "本周看什么 | 最近值得一看的 9 部作品",
+   "url": "https://sspai.com/post/117867",
+   "desc": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=&#34;https://sspai.com/post/117867&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 30 Oct 2026 17:57:11 +0800",
+   "source": "sspai",
+   "at": "2026-10-30 17:57"
+  },
+  {
+   "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
+   "url": "https://sspai.com/post/116047",
+   "desc": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。<a href=&#34;https://sspai.com/post/116047&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 30 Oct 2026 14:59:21 +0800",
+   "source": "sspai",
+   "at": "2026-10-30 14:59"
+  },
+  {
+   "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
+   "url": "https://sspai.com/prime/story/zhuanglesha-261030",
+   "desc": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=&#34;https://sspai.com/prime/story/zhuanglesha-261030&#34; target=&#34;_blank&#34;>查看全文<",
+   "atRaw": "Fri, 30 Oct 2026 11:30:43 +0800",
+   "source": "sspai",
+   "at": "2026-10-30 11:30"
+  },
+  {
+   "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
+   "url": "https://sspai.com/post/116435",
+   "desc": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=&#34;https://sspai.com/post/116435&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 30 Oct 2026 11:13:40 +0800",
+   "source": "sspai",
+   "at": "2026-10-30 11:13"
+  },
+  {
+   "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
+   "url": "https://sspai.com/post/117827",
+   "desc": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=&#34;https://sspai.com/post/117827&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Fri, 30 Oct 2026 08:13:38 +0800",
+   "source": "sspai",
+   "at": "2026-10-30 08:13"
+  },
+  {
+   "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+   "url": "https://sspai.com/post/117791",
+   "desc": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=&#34;https://sspai.com/post/117791&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 29 Oct 2026 17:26:58 +0800",
+   "source": "sspai",
+   "at": "2026-10-29 17:26"
+  },
+  {
+   "title": "如何成为不吃压力的「大心脏」？",
+   "url": "https://sspai.com/post/117244",
+   "desc": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论<a href=&#34;https://sspai.com/post/117244&#34; target=&#34;_blank&#34;>查看全文</a>",
+   "atRaw": "Thu, 29 Oct 2026 17:05:38 +0800",
+   "source": "sspai",
+   "at": "2026-10-29 17:05"
+  },
+  {
+   "title": "让 Agent 读懂你的身体：数据处理篇",
+   "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+   "desc": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=&#34;https://sspai.com/prime/story/how-to-analyze-health-data-with-agent&#34; target=&#3",
+   "atRaw": "Thu, 29 Oct 2026 11:29:46 +0800",
+   "source": "sspai",
+   "at": "2026-10-29 11:29"
+  },
+  {
+   "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+   "url": "https://www.solidot.org/story?sid=85764",
+   "desc": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只",
+   "atRaw": "Sat, 31 Oct 2026 20:59:41 +0800",
+   "source": "solidot",
+   "at": "2026-10-31 20:59"
+  },
+  {
+   "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+   "url": "https://www.solidot.org/story?sid=85763",
+   "desc": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5",
+   "atRaw": "Sat, 31 Oct 2026 20:46:18 +0800",
+   "source": "solidot",
+   "at": "2026-10-31 20:46"
+  },
+  {
+   "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+   "url": "https://www.solidot.org/story?sid=85762",
+   "desc": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对",
+   "atRaw": "Sat, 31 Oct 2026 20:24:31 +0800",
+   "source": "solidot",
+   "at": "2026-10-31 20:24"
+  },
+  {
+   "title": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+   "url": "https://www.solidot.org/story?sid=85761",
+   "desc": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Sol",
+   "atRaw": "Sat, 31 Oct 2026 20:12:01 +0800",
+   "source": "solidot",
+   "at": "2026-10-31 20:12"
+  },
+  {
+   "title": "Kogui 族人谈 AI",
+   "url": "https://www.solidot.org/story?sid=85760",
+   "desc": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关",
+   "atRaw": "Sat, 31 Oct 2026 18:59:58 +0800",
+   "source": "solidot",
+   "at": "2026-10-31 18:59"
+  },
+  {
+   "title": "英特尔股价暴跌 29%",
+   "url": "https://www.solidot.org/story?sid=85757",
+   "desc": "英特尔股价周五暴跌 29%，创芯片巨人最大单日跌幅，整个科技股市场受其影响呈现整体跌势。英特尔市值蒸发逾 1370 亿美元，PC 市场的持续低迷，抵消了该公司在 AI 领域及制造能力扩张方面的大规模投入。AMD、Arm Holdings、高通、英伟达、博通和美光等半导体公司股价跌幅在 2%-10% 之间。戴尔、HPE 和超微等服务器制造商的股价跌幅在 6%-10% 之间。英特尔预计第四季度营收将在",
+   "atRaw": "Fri, 30 Oct 2026 22:34:52 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 22:34"
+  },
+  {
+   "title": "Claude Code for VS Code 官方扩展被植入后门",
+   "url": "https://www.solidot.org/story?sid=85756",
+   "desc": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现了后门，该恶意版本已经撤下，攻击者也关闭了其服务器。Cursor 已发布安全公告，但 Claude Code 开发商 Anthropic 尚未做出任何声明。受影响的版本是 Anthropic.claude-code 2.1.313，共上线了大约 11 小时，受影响用户估计有 5,",
+   "atRaw": "Fri, 30 Oct 2026 21:43:51 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 21:43"
+  },
+  {
+   "title": "LibreOffice 项目递交的代码发现使用LLM 的明确标记",
+   "url": "https://www.solidot.org/story?sid=85755",
+   "desc": "开发 LibreOffice 的 The Document Foundation(TDF)此前表示这款办公软件不会内置 AI 功能，其核心开发者也不使用 LLM 等 AI 辅助编程工具。但向该项目贡献代码的社区开发者未必会遵守该规定。对今年递交到 LibreOffice 的代码的分析显示至少由三处明确提及使用 LLM。社区开发者在代码中提及他们使用了 Claude 或 GitHub Copilot",
+   "atRaw": "Fri, 30 Oct 2026 18:45:38 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 18:45"
+  },
+  {
+   "title": "芬兰对 Google 砍伐 25 万颗树展开调查",
+   "url": "https://www.solidot.org/story?sid=85754",
+   "desc": "作为 130 亿欧元投资计划的一部分，Google 正在芬兰的 Muhos 和 Kajaani-Otanmäki 建造两座数据中心。上周芬兰监管机构以未完成必要的环评为由下令工程停工。Google 芬兰子公司 Tuike Finland 遵守了命令。应监管机构的要求，Oulu 警方针对 Muhos 数据中心建设工地的活动（Google 在当地砍伐了 25 万颗树）展开初步调查。警方表示，此案正以涉",
+   "atRaw": "Fri, 30 Oct 2026 18:25:44 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 18:25"
+  },
+  {
+   "title": "Reddit 将强制要求所有用户登录",
+   "url": "https://www.solidot.org/story?sid=85753",
+   "desc": "在强制要求旧版本 Old Reddit(old.reddit.com)的用户必须登录之后，Reddit 宣布接下来将强制要求所有用户必须登录。Reddit 成为最新一个限制非登录用户浏览的社交平台，而它也准备推出类似其它社交平台的算法推荐信息流 For You 以及 Following 功能。CEO Steve Huffman 在致股东的信中称，此举有助于确保用户获得最佳的 Reddit 体验，对",
+   "atRaw": "Fri, 30 Oct 2026 16:43:05 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 16:43"
+  },
+  {
+   "title": "Google 创上市至今最大跌幅，市值蒸发逾 5000 亿美元",
+   "url": "https://www.solidot.org/story?sid=85752",
+   "desc": "Google 在公布三季度财报之后遭遇了它自 2004 年上市以来最大的单日跌幅，市值蒸发逾 5000 亿美元。在股价最低点，Google 市值蒸发 5240 亿美元，这是美股上市公司有史以来第二大单日市值缩水。仅次于英伟达在 2025 年 1 月 27 日因 DeepSeek 模型引发的市场震荡其市值单日缩水约 5930 亿美元。此前排名第二的单日跌幅由 SpaceX 创造，该公司在 6 月 2",
+   "atRaw": "Fri, 30 Oct 2026 16:10:29 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 16:10"
+  },
+  {
+   "title": "海鸟在长途飞行中会经历时差反应",
+   "url": "https://www.solidot.org/story?sid=85751",
+   "desc": "跨越经度的长途快速飞行可在野生海鸟中诱发一种“时差反应”，使它们在依靠太阳导航时偏离航线。动物在导航时依赖包括地球磁场、星辰和太阳在内的罗盘线索来保持方向。为了将太阳用作可靠的导航参照，这些动物必须利用主要由昼夜光暗周期校准的体内生物钟来补偿太阳在天空中的移动。当动物跨越经线向东或向西迁徙时，其体内生物钟可能与当地的太阳时间不同步，从而可能引发可预测的导航偏差。例如向东迁徙预计会产生相对于预定方向",
+   "atRaw": "Fri, 30 Oct 2026 15:42:06 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 15:42"
+  },
+  {
+   "title": "Patrick Stewart 去世，享年 86 岁",
+   "url": "https://www.solidot.org/story?sid=85750",
+   "desc": "演艺生涯横跨舞台与银幕逾 60 年的英国演员 Patrick Stewart 去世，享年 86 岁。他最为人熟知的角色是在《星际迷航》系列中扮演 Jean-Luc Picard 舰长以及在《 X 战警》系列扮演 X 教授。Patrick Stewart 的职业生涯始于戏剧，于 1966 年加入皇家莎士比亚剧团，于1971年凭借《仲夏夜之梦》的演出首次登上百老汇剧院舞台。1987 年出演《星际迷航：",
+   "atRaw": "Fri, 30 Oct 2026 14:57:44 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 14:57"
+  },
+  {
+   "title": "币安多达 30 亿美元数字货币被盗",
+   "url": "https://www.solidot.org/story?sid=85749",
+   "desc": "黑客从全球最大加密货币交易所币安的多个热钱包里转移了价值约 55 亿美元的加密货币资产，部分加密货币已被稳定币发行方冻结，但黑客手中仍然掌握着多达 30 亿美元的加密货币。在被盗的 55 亿美元的加密货币中，Tether 冻结了被盗的 17.68 亿美元 USDT 中的至少 15.67 亿美元，Circle 冻结了被盗的 8.23 亿美元中的 8 亿美元。World Liberty Financi",
+   "atRaw": "Fri, 30 Oct 2026 14:21:52 +0800",
+   "source": "solidot",
+   "at": "2026-10-30 14:21"
+  },
+  {
+   "title": "Google AI 搜索产生的收入低于传统搜索",
+   "url": "https://www.solidot.org/story?sid=85748",
+   "desc": "Google/Alphabet 在公布第三季度财报之后股价下跌了近 10%，原因是搜索巨人披露 AI 搜索产生的收入低于传统搜索，尽管其整体搜索业务收入同比增长 12% 达到 632.5 亿美元。搜索业务增速略低于去年第三季度的 14.5%，Alphabet 首席商务官 Philipp Schindler 称，搜索业务增长放缓的原因在于“我们观察到 AI Mode 变现能力较低”。为推动 AI 业",
+   "atRaw": "Thu, 29 Oct 2026 23:19:44 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 23:19"
+  },
+  {
+   "title": "研究发现非英语的 token 成本更高",
+   "url": "https://www.solidot.org/story?sid=85747",
+   "desc": "Coalition for Language Equity in AI Research 上个月发表的一项研究发现，AI 模型处理部分语言提示所需的 token 量远超英语。研究人员称之为隐性 token 税，意味着小语种用户的 AI 成本更高。研究发现，即使互联网最流行的 20 种语言，token 使用量也存在差异。最昂贵语言使用的 token 数量是最便宜语言的 1.5-5 倍。当研究人员将范",
+   "atRaw": "Thu, 29 Oct 2026 23:10:38 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 23:10"
+  },
+  {
+   "title": "以色列耶路撒冷爆发麻疹疫情",
+   "url": "https://www.solidot.org/story?sid=85746",
+   "desc": "一项统计数字显示，以色列耶路撒冷极端正统派犹太人居住的多个社区其麻疹疫苗接种率仅为 55.0%，这些地方最近爆发了麻疹疫情，感染麻疹的人绝大多数都是5 岁以下未接种儿童，有多人死亡。耶路撒冷是以色列最大城市，2025 年人口约为 100 万，其中 60 万是犹太人，40 万是阿拉伯人。而犹太人中间 50.0% 属于极端正统派。耶路撒冷的麻疹疫苗接种率已从 2019 年的 94.7% 降至 2024",
+   "atRaw": "Thu, 29 Oct 2026 22:57:55 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 22:57"
+  },
+  {
+   "title": "乌鸦视觉决策速度两倍于人类",
+   "url": "https://www.solidot.org/story?sid=85745",
+   "desc": "德国蒂宾根大学开展的一项新研究显示，在进行视觉选择任务时，乌鸦的决策速度约为人类和猴子等灵长类动物的两倍。实验中，两只小嘴乌鸦平均只需 235 毫秒即可识别屏幕上点阵的运动方向并作出选择，同时保持较高准确率。为探究其机制，团队记录了乌鸦大脑中与灵长类前额叶皮层功能相当的关键区域——尾侧新纹状体的神经元活动。视觉刺激出现后约 70 毫秒，乌鸦大脑中编码不同运动方向的神经元信号便开始分化，这一变化远早",
+   "atRaw": "Thu, 29 Oct 2026 18:31:38 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 18:31"
+  },
+  {
+   "title": "全球最富有 0.1% 人口产生的碳污染超过全球最贫困 35 亿人口的总和",
+   "url": "https://www.solidot.org/story?sid=85744",
+   "desc": "根据乐施会（Oxfam）的一份报告，全球最富有 0.1% 人口_——大约 800 万人——产生的碳污染超过全球最贫困 35 亿人口的总和。报道敦促各国政府让富有的污染者承担代价。报告称，富人对今天极端热浪的贡献几乎是最贫困的 50% 人口中个人贡献的 400 倍。这少数人所产生的碳污染总量，超过了撒哈拉以南非洲地区——13 亿人口——的总排放量。自 1990 年以来，全球最富有的 1% 人口造成了",
+   "atRaw": "Thu, 29 Oct 2026 18:22:00 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 18:22"
+  },
+  {
+   "title": "美国肯塔基男子成为首位以宗教理由豁免使用 AI 的人文主义者",
+   "url": "https://www.solidot.org/story?sid=85743",
+   "desc": "45 岁的 David Durman 是肯塔基大学的研究管理员，作为人文主义者（humanist）他坚信生活中人的重要性。这意味着他要坚持自主决策，确保自己的工作能促进他人成长。当学校要求员工在工作流程中使用 AI 他忧心忡忡，认为这意味着日常工作中须将思考这一环节转交给 Microsoft Teams Copilot、Claude 或 ChatGPT 等 AI 工具完成。他认为这违背了个人信念。",
+   "atRaw": "Thu, 29 Oct 2026 17:13:23 +0800",
+   "source": "solidot",
+   "at": "2026-10-29 17:13"
+  },
+  {
+   "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+   "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+   "desc": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to c",
+   "atRaw": "2026-10-31T14:40:32-04:00",
+   "source": "verge",
+   "at": "2026-11-01 02:40"
+  },
+  {
+   "title": "Happy Pikmin Day Eve",
+   "url": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+   "desc": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Swit",
+   "atRaw": "2026-10-31T13:50:12-04:00",
+   "source": "verge",
+   "at": "2026-11-01 01:50"
+  },
+  {
+   "title": "I built an AI Tamagotchi before Meta could",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "desc": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
+   "atRaw": "2026-10-31T12:05:00-04:00",
+   "source": "verge",
+   "at": "2026-11-01 00:05"
+  },
+  {
+   "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+   "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+   "desc": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings wit",
+   "atRaw": "2026-10-31T11:12:19-04:00",
+   "source": "verge",
+   "at": "2026-10-31 23:12"
+  },
+  {
+   "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+   "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+   "desc": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card ",
+   "atRaw": "2026-10-31T11:00:00-04:00",
+   "source": "verge",
+   "at": "2026-10-31 23:00"
+  },
+  {
+   "title": "Vic Mensa can’t live without the Voice Memos app",
+   "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+   "desc": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streami",
+   "atRaw": "2026-10-31T11:00:00-04:00",
+   "source": "verge",
+   "at": "2026-10-31 23:00"
+  },
+  {
+   "title": "Touchscreens everywhere!",
+   "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+   "desc": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the In",
+   "atRaw": "2026-10-31T08:00:00-04:00",
+   "source": "verge",
+   "at": "2026-10-31 20:00"
+  },
+  {
+   "title": "Here’s why you can't shake those unhinged political texts",
+   "url": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+   "desc": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE anno",
+   "atRaw": "2026-10-31T08:00:00-04:00",
+   "source": "verge",
+   "at": "2026-10-31 20:00"
+  },
+  {
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "desc": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
+   "atRaw": "2026-10-30T18:32:53-04:00",
+   "source": "verge",
+   "at": "2026-10-31 06:32"
+  },
+  {
+   "title": "Exclusive details about Akai’s MPC Sample Key",
+   "url": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+   "desc": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word ye",
+   "atRaw": "2026-10-30T17:01:32-04:00",
+   "source": "verge",
+   "at": "2026-10-31 05:01"
+  },
+  {
+   "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+   "url": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+   "desc": "10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后，为什么大多数企业在业务中依然觉得AI“用不起来”？ Zoho全球副总裁Mathivanan一针见血地点出了症结所在：“太短的决策周期，太多的备选工具，从一开始就造成了太多的数据孤岛。”当企业盲目堆叠各种带有",
+   "atRaw": "Sat, 31 Oct 2026 17:55:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-31 17:55"
+  },
+  {
+   "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+   "url": "https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html",
+   "desc": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。 上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。 世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态的物理智能开始出现在同一场大会上。这背后，是智能驾驶行业正在面对的一组新问题。 一方面，高阶辅助驾驶",
+   "atRaw": "Sat, 31 Oct 2026 11:31:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-31 11:31"
+  },
+  {
+   "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+   "url": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+   "desc": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。 Siri可以直接调用千问的广博知识，并在 Siri 中直接回复用户问答。通过 Siri，用户还能用自己选",
+   "atRaw": "Sat, 31 Oct 2026 06:52:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-31 06:52"
+  },
+  {
+   "title": "游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”",
+   "url": "https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html",
+   "desc": "10月29日，备受瞩目的国产“3A”游戏大作《影之刃零》正式发售，热度持续攀升。第三方平台SteamDB监测显示，《影之刃零》发售首日，Steam同时在线峰值达到43万人，稳居Steam全球畅销榜第一位。 冲上全球第一的《影之刃零》迅速“拉爆”了电玩设备市场的热度，迫不及待尝鲜的玩家掀起了一波设备“换新潮”，多家平台相关商品销量大幅增长。记者从美团闪购了解到，本周以来，平台游戏手柄销量同比增长10",
+   "atRaw": "Fri, 30 Oct 2026 22:20:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 22:20"
+  },
+  {
+   "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+   "url": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+   "desc": "国产 RSI 的真实水位：没人敢真动模型权重，但所有人都在改 \"造 AI 的机器\"。 作者丨高允毅 编辑丨岑 峰 RSI，即 AI 造 AI，成为了 2026 年各家模型厂商争相晒的内部成绩单，也是国内一级市场最热的方向之一。只要BP带上 \"Self-Training\" 的字眼，估值至少多两成。 但真正的 RSI ，不止是 AI 改进 AI ,它还得把经验沉淀下来，让学习方法本身跟着进化。 今年 ",
+   "atRaw": "Fri, 30 Oct 2026 19:32:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 19:32"
+  },
+  {
+   "title": "李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？",
+   "url": "https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+   "desc": "82 亿美元，已经为整个世界模型赛道提供了价值锚点。 作者丨 幸丽娟 编辑丨岑 峰 82亿美元，全股票收购李飞飞创立的 World Labs。 这是 AMD 史上第二大收购，仅次于 2022 年以约 500 亿美元拿下赛灵思。 赛灵思是30多年的老牌芯片公司，而 World Labs，仅仅成立两年。 这一消息发出后，圈内人士的第一反应很一致：苏姿丰在对标英伟达的 Cosmos 和机器人平台，买人、",
+   "atRaw": "Fri, 30 Oct 2026 19:12:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 19:12"
+  },
+  {
+   "title": "进击中的影石：攻击性强，血条太脆 ？",
+   "url": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+   "desc": "影石并不缺成功故事。 十一年前，年轻的影石以破局者的姿态，切入全景相机这片无人区，打了一场漂亮的仗。 它的成绩单也够耀眼，成立11年，影石相机全球累计出货量已经突破1000万台，其中470万台来自过去一年。在其最擅长的全景相机市场，2026年二季度的全球出货份额约73%。 手机影像从业者许衡评价：“影石能做到今天这个市场，核心是善于洞察一些被巨头遗忘的需求，并以此开拓成新市场。” 此后，影石也一直",
+   "atRaw": "Fri, 30 Oct 2026 19:12:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 19:12"
+  },
+  {
+   "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+   "url": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+   "desc": "产能公式从“人×小时”，变成“环境配置数×并行算力”。 作者丨 幸丽娟 编辑丨 岑 峰 训练一个可用的具身智能模型， 需 要千 万小时 的多模态交互数据；而 现实仅有百万小时 ，剔除低质部分后，真正可用的更少。 缺数据，是具身智能行业的共识。 但只盯着“数据”这两个字，会错过更关键的问题： 一台机器人在固定货架前抓取，成功率可以很高。货架挪个方向，目标前多放一排饮料，换一侧伸手，成功率就往下掉。练",
+   "atRaw": "Fri, 30 Oct 2026 19:08:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 19:08"
+  },
+  {
+   "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+   "url": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
+   "desc": "近日，江苏沙钢钢铁有限公司（以下简称“沙钢”）正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，让分散的关键数据更快进入生产工作流，部分核心业务场景提效可达数百倍。 沙钢是全国最大的电炉钢生产基地，产品应用于港珠澳大桥、“西气东输”等国家重大工程，远销100多个国家和地区。钢铁生产流程长、工序多，大量关键数据分散在生产系统、Excel表格和纸质台账中，工艺",
+   "atRaw": "Fri, 30 Oct 2026 18:38:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 18:38"
+  },
+  {
+   "title": "盖伦奖提名一年后，希格生科的边界、验证与野心",
+   "url": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
+   "desc": "“五年前我们把这页PPT放出来，很多人都说这是在‘画饼’。但现在我们和晶泰合作研发的全球首款弥漫性胃癌靶向药，已迈向关键临床验证。” 作者丨 周蕾 编辑丨岑峰 【编者按】被誉为\"医药界诺贝尔奖\"的美国盖伦奖（Prix Galien USA），于10月29日公布了2026年度获奖名单。 值得注意的是，晶泰科技孵化的创新企业已连续两年入围该奖项提名。去年，希格生科凭借全球首款弥漫性胃癌靶向药SIGX1",
+   "atRaw": "Fri, 30 Oct 2026 18:03:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 18:03"
+  },
+  {
+   "title": "在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关",
+   "url": "https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html",
+   "desc": "“相较于复杂的生物学预测，我们目前更看重AI在海量筛选方面的应用价值。” 作者丨周蕾 编辑丨岑峰 【编者按】被誉为\"医药界诺贝尔奖\"的美国盖伦奖（Prix Galien USA），于10月29日公布了2026年度获奖名单。 值得注意的是，晶泰科技孵化的创新企业已连续两年入围该奖项提名。去年，希格生科凭借全球首款弥漫性胃癌靶向药SIGX1094获得\"最佳生物技术产品\"提名；今年，莱芒生物与默达生物双",
+   "atRaw": "Fri, 30 Oct 2026 17:51:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 17:51"
+  },
+  {
+   "title": "欣旺达前三季度营收634.62亿元，终止H股上市计划",
+   "url": "https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html",
+   "desc": "10月29日，欣旺达电子股份有限公司（300207.SZ）发布2026年三季度经营业绩，同步披露多项公告，涉及动力板块股权调整及终止H股上市计划等事项。报告显示，前三季度实现营业收入634.62 亿元，同比增长45.78%；第三季度单季营收252.84亿元，同比增长52.78%。 同日披露的公告显示，欣旺达动力进行增资扩股，引入小米作为战略股东。增资完成后，欣旺达对欣旺达动力的持股比例下降至22.",
+   "atRaw": "Fri, 30 Oct 2026 17:33:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 17:33"
+  },
+  {
+   "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
+   "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+   "desc": "在实测场景中达到H200的性能水平后，国产GPU的竞争，开始进一步转向系统效率、软件适配与实际交付。 本周的天数智芯媒体开放日上，最新一代天垓300与H200的实机对比，是最直观的性能展示。让GPU与专用芯片组成异构系统，是对推理效率的新探索。软件栈引入Agent与Skills，则试图解决客户部署、适配和优化的工程难题。 天数智芯表示，今年完成的一组第三方测试中， 在典型PD分离部署下，天垓300",
+   "atRaw": "Fri, 30 Oct 2026 17:02:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 17:02"
+  },
+  {
+   "title": "不设限的年轻科学家：三年200万、不设考核，何享健基金在赌什么",
+   "url": "https://www.leiphone.com/category/smarthome/H5tRYv4Yf8t41mqJ.html",
+   "desc": "2026年10月24日，佛山顺德美的全球创新中心。20位青年科学家接过何享健青年科学家资助证书。 场面并不喧嚣。整场揭晓环节只用了不到20分钟：一位院士致辞，20位青年科学家分批上台领取证书，合影，结束。没有铺垫，没有\"花红柳绿\"。 这份克制，和这份资助本身的气质是吻合的。2023年5月，美的集团创始人何享健以个人名义出资30亿元设立科学基金；本期项目共资助医学与生命科学、能源环境与气候变化两大领",
+   "atRaw": "Fri, 30 Oct 2026 16:48:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 16:48"
+  },
+  {
+   "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；阿维塔回应会议视频被吐槽「演的太尬」：是摆拍，但事是真的；百度副总裁吴甜已离职",
+   "url": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
+   "desc": "要闻提示 1.科大讯飞回应高管薪资质疑：董事长与总裁主动降薪，两人均少领超2000万 2.内部会议视频被吐槽演的太尬！阿维塔副总裁：是摆拍，但事是真的 3.华为“天才少年”杨玉雯加盟南京大学 4.百度确认吴甜已离职，文心模型下周将发布新进展 5.王腾创业首秀感谢小米和雷军！回应蹭流量质疑：真心感激过往经历 6.国产3A《影之刃零》登顶全球畅销榜，评分超《黑神话：悟空》 7.智元彭志辉：公司2026",
+   "atRaw": "Fri, 30 Oct 2026 16:42:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 16:42"
+  },
+  {
+   "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
+   "url": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
+   "desc": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。 作者丨 向欣 编辑丨岑峰 机器人的视觉能力正快速增强，但 触觉仍然是具身智能系统中的薄弱环节 。尤其是在精细操作场景中，当 物体被遮挡、透明、易碎，或需要精确判断接触力与手内姿态 时，仅靠视觉往往难以确认机器人是否真正抓稳了物体、是否发生了滑移，也难以实现可靠的力控与顺从交互。 与图像领域已经形成相对统一的传感器和数据体系相比，触觉研究尚未",
+   "atRaw": "Fri, 30 Oct 2026 16:13:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 16:13"
+  },
+  {
+   "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
+   "url": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+   "desc": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好玩的体验，在助力用户“搞定一切”上更进一步。 升级后的百度 APP，文心助手让搜索从「一次问答」走向",
+   "atRaw": "Fri, 30 Oct 2026 15:30:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 15:30"
+  },
+  {
+   "title": "IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？",
+   "url": "https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html",
+   "desc": "灵巧手的设计逻辑，要由落地需求反推。 作者丨向 欣 编辑丨高景辉 今年 IROS，灵巧操作和触觉的热度比以往更盛，串珠子、插 USB、给帆布袋烫 logo、手内转笔、转球、调酒，各种演示在现场轮番上演。 从 ICRA，到 WRC，再到 IROS，我们追踪了今年几乎所有机器人领域的顶会，一个越来越清晰的感受是：对灵巧手而言，完成复杂动作已经越来越不是难事。 展示不再局限于简单的抓取和搬运，变得更强调",
+   "atRaw": "Fri, 30 Oct 2026 15:23:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 15:23"
+  },
+  {
+   "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
+   "url": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
+   "desc": "灵巧手去年出货近 2 万只，大部分在「吃灰」 作者丨 向 欣 编辑丨 高景辉 去年，国内灵巧手公开可查的出货量是约两万只。在伯牙智能创始人刘欣的观察里，其中大部分灵巧手的归宿是跟着人形机器人表演几场，然后被搁在角落里， 「表演完就吃灰」 。 便宜的低自由度灵巧手多用于表演；操作能力更强的高自由度产品又容易损坏，有的因为贵，买回来供着不敢用，有的用一星期到两三个月就坏了——这是刘欣看到的灵巧手市场的",
+   "atRaw": "Fri, 30 Oct 2026 15:13:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 15:13"
+  },
+  {
+   "title": "具身的数据管线，到底应该怎么做？",
+   "url": "https://www.leiphone.com/category/robot/espiC5FlGhRbSj1b.html",
+   "desc": "数据规模不断扩大，有效性却没有跟上。 作者丨向 欣 编辑丨高景辉 雷峰网：一家具身数据厂商告诉我们，他们向模型厂商交付了几万小时数据之后，对方反过来问了一句：能不能顺便帮忙把模型也训练出来，好让他们“交个差”，原因是模型厂商自己心里也没底，不知道这批数据喂进去能训出什么结果。 这种焦虑与无力，是当下不少模型厂商的真实状态，他们面临的真实困境是：虽然在不断花钱采集、购买数据，数据规模不断扩大，但数据",
+   "atRaw": "Fri, 30 Oct 2026 15:11:00 +0800",
+   "source": "leiphone",
+   "at": "2026-10-30 15:11"
+  },
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "desc": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "atRaw": "Sat, 31 Oct 2026 16:12:55 +0000",
+   "source": "techcrunch",
+   "at": "2026-11-01 00:12"
+  },
+  {
+   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+   "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+   "desc": "TikTok may be working to become the app that people use for most of their digital activities.",
+   "atRaw": "Sat, 31 Oct 2026 15:41:57 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 23:41"
+  },
+  {
+   "title": "I took two iPhones on vacation. The Duo won me over.",
+   "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+   "desc": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+   "atRaw": "Sat, 31 Oct 2026 14:00:00 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 22:00"
+  },
+  {
+   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+   "desc": "The money behind the money is thrilled, mostly.",
+   "atRaw": "Sat, 31 Oct 2026 04:16:50 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 12:16"
+  },
+  {
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "desc": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "atRaw": "Sat, 31 Oct 2026 01:20:05 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 09:20"
+  },
+  {
+   "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+   "desc": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+   "atRaw": "Fri, 30 Oct 2026 23:21:23 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 07:21"
+  },
+  {
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "desc": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+   "atRaw": "Fri, 30 Oct 2026 22:56:13 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 06:56"
+  },
+  {
+   "title": "Intel's stock crashes, knocking $12B from government's stake",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "desc": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "atRaw": "Fri, 30 Oct 2026 21:54:34 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 05:54"
+  },
+  {
+   "title": "Anthropic expected to receive high &#8216;junk' rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "desc": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has u",
+   "atRaw": "Fri, 30 Oct 2026 21:52:03 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 05:52"
+  },
+  {
+   "title": "Applebee's exposed customers' personal data after leaving database password in app",
+   "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+   "desc": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+   "atRaw": "Fri, 30 Oct 2026 21:48:53 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 05:48"
+  },
+  {
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "desc": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "atRaw": "Fri, 30 Oct 2026 21:26:59 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 05:26"
+  },
+  {
+   "title": "Cracks are emerging in the AI spending boom",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "desc": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+   "atRaw": "Fri, 30 Oct 2026 21:17:40 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 05:17"
+  },
+  {
+   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+   "desc": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal &#038; Manges has been the talk of the legal industry. And now an AI firm has entered the picture",
+   "atRaw": "Fri, 30 Oct 2026 19:55:13 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 03:55"
+  },
+  {
+   "title": "Satlyt takes another step toward turning satellites into space data centers",
+   "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+   "desc": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.",
+   "atRaw": "Fri, 30 Oct 2026 18:01:24 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 02:01"
+  },
+  {
+   "title": "Zest's new AI agent finds restaurants and books reservations over text",
+   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "desc": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+   "atRaw": "Fri, 30 Oct 2026 17:47:12 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 01:47"
+  },
+  {
+   "title": "Google's first data center satellite is online and writing poetry",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "desc": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "atRaw": "Fri, 30 Oct 2026 17:00:00 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 01:00"
+  },
+  {
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people'",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "desc": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+   "atRaw": "Fri, 30 Oct 2026 16:03:45 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-31 00:03"
+  },
+  {
+   "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+   "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+   "desc": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+   "atRaw": "Fri, 30 Oct 2026 14:00:25 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-30 22:00"
+  },
+  {
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "desc": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1",
+   "atRaw": "Fri, 30 Oct 2026 14:00:00 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-30 22:00"
+  },
+  {
+   "title": "DoorDash said it's only received &#8216;several hundred' orders from AI agents",
+   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+   "desc": "DoorDash said that it is open to working with third-party agent makers.",
+   "atRaw": "Fri, 30 Oct 2026 13:54:25 +0000",
+   "source": "techcrunch",
+   "at": "2026-10-30 21:54"
+  },
+  {
+   "title": "BYD reveals a flashy new feature on its upcoming luxury EV",
+   "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/",
+   "desc": "BYD is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries. more…",
+   "atRaw": "Fri, 30 Oct 2026 20:19:39 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 04:19"
+  },
+  {
+   "title": "Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more",
+   "url": "https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/",
+   "desc": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Rivian’s earnings, Waymo partnering with Toyota, Ford",
+   "atRaw": "Fri, 30 Oct 2026 19:30:35 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 03:30"
+  },
+  {
+   "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
+   "url": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/",
+   "desc": "Tesla has launched a new referral program in the US that pays owners in Full Self-Driving (Supervised) instead of rewarding car sales. A referred owner gets one free month of FSD, and the referrer get",
+   "atRaw": "Fri, 30 Oct 2026 18:02:35 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 02:02"
+  },
+  {
+   "title": "Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more",
+   "url": "https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/",
+   "desc": "We’ve got two big first-time deals leading our end-of-the-week Green Deals edition, starting with Bluetti’s pre-order launch of the Elite 30 Mini 288Wh Portable Power Station and bundles starting from",
+   "atRaw": "Fri, 30 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 02:00"
+  },
+  {
+   "title": "Toyota reveals five new lifted Woodland concepts, including the bZ electric SUV",
+   "url": "https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/",
+   "desc": "Toyota introduced a new family of lifted, “adventure-ready” Woodland concepts based on the RAV4, Grand Highlander, Sienna, Crown Signia, and bZ electric SUV. more…",
+   "atRaw": "Fri, 30 Oct 2026 17:49:36 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 01:49"
+  },
+  {
+   "title": "Hyundai launches the new IONIQ 6 in the UK with up to 422 miles of range, starting at $45K",
+   "url": "https://electrek.co/2026/10/30/hyundai-launches-new-ioniq-6-uk-with-422-miles-range/",
+   "desc": "The new Hyundai IONIQ 6 is now on sale in the UK with an impressive range of up to 422 miles, starting at about $45,000. more…",
+   "atRaw": "Fri, 30 Oct 2026 16:36:26 +0000",
+   "source": "electrek",
+   "at": "2026-10-31 00:36"
+  },
+  {
+   "title": "Volkswagen hits pause on the Golf EV as it faces an &#8216;urgent need for action'",
+   "url": "https://electrek.co/2026/10/30/volkswagen-pauses-golf-ev-faces-urgent-need-for-action/",
+   "desc": "Volkswagen has put the electric Golf on hold for now as it faces growing pressure to cut costs. more…",
+   "atRaw": "Fri, 30 Oct 2026 14:29:23 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 22:29"
+  },
+  {
+   "title": "Waymo picks Toyota bZ4X as its next robotaxi, starting in Japan in 2027",
+   "url": "https://electrek.co/2026/10/30/waymo-toyota-bz4x-robotaxi-japan-2027/",
+   "desc": "Waymo is adding the Toyota bZ4X to its robotaxi lineup. Toyota will build a custom version of the electric SUV with the Waymo Driver integrated right on the line in Japan, and a test fleet will start ",
+   "atRaw": "Fri, 30 Oct 2026 13:22:30 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 21:22"
+  },
+  {
+   "title": "Wheel-e Podcast: New Amflow, Trek e-bikes, ALSO runs out of charge, more",
+   "url": "https://electrek.co/2026/10/30/wheel-e-podcast-new-amflow-trek-e-bikes-also-runs-out-of-charge-more/",
+   "desc": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes fro",
+   "atRaw": "Fri, 30 Oct 2026 12:51:48 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 20:51"
+  },
+  {
+   "title": "Jasion Poki review: The Electric Minibike that packs heavy-duty fun",
+   "url": "https://electrek.co/2026/10/30/jasion-poki-review-the-electric-minibike-that-packs-heavy-duty-fun/",
+   "desc": "In our transportation reporting, we rarely come across something as fun as today’s review of the Jasion Poki. The Poki is a severely overpowered electric minibike that looks like it came from yesterye",
+   "atRaw": "Fri, 30 Oct 2026 12:42:10 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 20:42"
+  },
+  {
+   "title": "Harley-Davidson’s electric motorcycle brand LiveWire warns it may not survive",
+   "url": "https://electrek.co/2026/10/30/harley-davidsons-electric-motorcycle-brand-livewire-warns-it-may-not-survive/",
+   "desc": "Harley-Davidson-born electric motorcycle maker LiveWire has issued a troubling warning about its financial future, announcing that it has substantial doubt about its ability to continue operating as a",
+   "atRaw": "Fri, 30 Oct 2026 08:10:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 16:10"
+  },
+  {
+   "title": "Someone ran Rivian’s pedal-by-wire e-bike out of battery and things got weird",
+   "url": "https://electrek.co/2026/10/29/someone-ran-rivians-pedal-by-wire-e-bike-out-of-battery-and-things-got-weird/",
+   "desc": "The ALSO TM-B is one of the most technologically interesting new e-bikes to hit the road in years, largely because it does away with one of the most fundamental parts of a bicycle: the mechanical conn",
+   "atRaw": "Fri, 30 Oct 2026 06:51:21 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 14:51"
+  },
+  {
+   "title": "BYD spotted testing a new minivan [Video]",
+   "url": "https://electrek.co/2026/10/29/byd-spotted-testing-new-minivan-video/",
+   "desc": "BYD’s upcoming multi-purpose vehicle (MPV) was spotted on a car carrier and at one of its Flash Charging stations ahead of its expected debut later this year. more…",
+   "atRaw": "Thu, 29 Oct 2026 21:27:11 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 05:27"
+  },
+  {
+   "title": "Rivian's electric van gets 30% more range and AWD, now delivering",
+   "url": "https://electrek.co/2026/10/29/rivian-electric-van-awd-30-percent-more-range/",
+   "desc": "Rivian has started delivering the first major hardware upgrade to its electric van since production began in 2021: a bigger LFP battery pack good for 30% more range, and a new dual-motor AWD version. ",
+   "atRaw": "Thu, 29 Oct 2026 20:04:01 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 04:04"
+  },
+  {
+   "title": "Toyota's EV sales more than doubled in a year, but gas cars are getting crushed in China",
+   "url": "https://electrek.co/2026/10/29/toyotas-ev-sales-doubled-but-gas-cars-getting-crushed-china/",
+   "desc": "Toyota’s EV sales have jumped 127% through September, but that isn’t telling the whole story. Slumping demand for gas and hybrid cars in China has pushed global sales lower for three months in a row. ",
+   "atRaw": "Thu, 29 Oct 2026 20:02:40 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 04:02"
+  },
+  {
+   "title": "Rivian (RIVN) Q3 2026 earnings: revenue up 38%, R2 now its best-seller",
+   "url": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/",
+   "desc": "Rivian (RIVN) just released its Q3 2026 earnings, with revenue up 38% year-over-year to $2.155 billion. The R2, in its first full quarter of deliveries, is already the company’s best-selling vehicle, ",
+   "atRaw": "Thu, 29 Oct 2026 20:02:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 04:02"
+  },
+  {
+   "title": "EcoFlow 3,072Wh power station $1,299 in flash sale, exclusive refurb Anker SOLIX deals, Segway F3 e-scooter $650 low, more",
+   "url": "https://electrek.co/2026/10/29/ecoflow-delta-3-ultra-power-station-exclusive-refurb-anker-solix-segway-f3-e-scooter-more/",
+   "desc": "We’ve got a jam-packed Thursday edition of Green Deals, led by EcoFlow’s final Halloween 48-hour flash sale with offers like the DELTA 3 Ultra 3,072Wh Power Station down at $1,299 , and more from $959",
+   "atRaw": "Thu, 29 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 02:00"
+  },
+  {
+   "title": "Hyundai hints at IONIQ P as the name for its new entry-level EV",
+   "url": "https://electrek.co/2026/10/29/hyundai-ioniq-p-name-new-entry-level-ev/",
+   "desc": "Hyundai is launching a new mass-market electric SUV to be made in India, expected to go on sale as the IONIQ P. more…",
+   "atRaw": "Thu, 29 Oct 2026 17:08:23 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 01:08"
+  },
+  {
+   "title": "Ex-Tesla Autopilot head calls vision-only a &#8216;weird religious stance'",
+   "url": "https://electrek.co/2026/10/29/ex-tesla-autopilot-head-vision-only-weird-religious-stance/",
+   "desc": "GM Chief Product Officer Sterling Anderson, who ran Tesla’s Autopilot program in 2015 and 2016, says dropping radar for a camera-only self-driving system is “a weird religious stance that ignores phys",
+   "atRaw": "Thu, 29 Oct 2026 16:10:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-30 00:10"
+  },
+  {
+   "title": "This $15,000 low-speed EV is now on sale, and it's street-legal",
+   "url": "https://electrek.co/2026/10/29/15000-low-speed-ev-now-on-sale-street-legal/",
+   "desc": "It may be small, but it’s already drawing a big response. The 2027 Fiat Topolino is now on sale in the US: a street-legal, low-speed EV that starts under $15,000. more…",
+   "atRaw": "Thu, 29 Oct 2026 15:34:03 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 23:34"
+  },
+  {
+   "title": "The Ford Escape may return as an EV based on the UEV platform [Update]",
+   "url": "https://electrek.co/2026/10/29/ford-escape-ev-uev-platform-update/",
+   "desc": "Ford pulled the plug on the Escape last year after a 25-year run, but the crossover SUV could return as an EV on the new UEV platform. more…",
+   "atRaw": "Thu, 29 Oct 2026 14:13:42 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 22:13"
+  },
+  {
+   "title": "BYD (BYDDY) Q3 profit jumps 28% on exports, but inventory balloons 60%",
+   "url": "https://electrek.co/2026/10/29/byd-q3-2026-earnings-profit-exports-inventory/",
+   "desc": "BYD’s Q3 2026 earnings are out, and net profit jumped 28% year-over-year to ¥10.02 billion as the Chinese automaker shipped more than half a million vehicles out of the country in just three months. B",
+   "atRaw": "Thu, 29 Oct 2026 14:00:32 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 22:00"
+  },
+  {
+   "title": "New Trek e-bike is first to get Bosch’s new motor with a major power upgrade",
+   "url": "https://electrek.co/2026/10/29/new-trek-e-bike-is-first-to-get-boschs-new-motor-with-a-major-power-upgrade/",
+   "desc": "Trek is getting a head start on the competition with the latest version of its Marlin+ electric mountain bike, becoming the first North American bicycle manufacturer to feature Bosch’s newly upgraded ",
+   "atRaw": "Thu, 29 Oct 2026 12:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 20:00"
+  },
+  {
+   "title": "When one door closes: Polestar 2 production ends, and what might come next",
+   "url": "https://electrek.co/2026/10/28/when-one-door-closes-polestar-2-production-ends-and-what-might-come-next/",
+   "desc": "Forget about the 600+ hp hybrid-powered Polestar 1 supercoupe; the car that established Polestar as a standalone brand was the 2. As the brand pulls out of the US and shifts its focus to the rest of t",
+   "atRaw": "Thu, 29 Oct 2026 01:20:27 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 09:20"
+  },
+  {
+   "title": "BYD now has 1.02 million workers, more than Toyota, GM, Ford, and Tesla combined",
+   "url": "https://electrek.co/2026/10/28/byd-1-million-employees-more-than-toyota-gm-ford-tesla/",
+   "desc": "BYD now has more than 1.02 million employees, according to chairman Wang Chuanfu. That’s more people than Toyota, GM, Ford, and Tesla employ combined. And it’s a big jump from the start of the year. B",
+   "atRaw": "Thu, 29 Oct 2026 00:41:17 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 08:41"
+  },
+  {
+   "title": "Dutch startup Elysian says electric flight may be closer than you think",
+   "url": "https://electrek.co/2026/10/28/dutch-startup-elysian-says-electric-flight-may-be-closer-than-you-think/",
+   "desc": "They day you get to book an all-electric flight may be closer than you think if Dutch startup Elysian Aircraft gets its way. Their new E9X commercial airliner promises flights that are a whole lot qui",
+   "atRaw": "Wed, 28 Oct 2026 22:34:30 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 06:34"
+  },
+  {
+   "title": "Used EVs are suddenly hot sellers — Here are the top SUVs for under $25,000",
+   "url": "https://electrek.co/2026/10/28/used-evs-suddenly-hot-sellers-top-suvs-for-under-25000/",
+   "desc": "Don’t want to pay full price? Used EVs with low miles, like the Hyundai IONIQ 5 and Ford Mustang Mach-E, are selling on the secondhand market for $25,000 or less. more…",
+   "atRaw": "Wed, 28 Oct 2026 21:11:34 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 05:11"
+  },
+  {
+   "title": "Dems introduce new $15,000 EV tax credit bill that has no chance — and that's a problem",
+   "url": "https://electrek.co/2026/10/28/15000-ev-tax-credit-bill-landsman-no-chance/",
+   "desc": "Rep. Greg Landsman (D-OH) wants to bring back the federal EV tax credit and double it. His new bill, the “21st Century Vehicle Choice Act” (H.R. 10881), would offer up to $15,000 on a new electric veh",
+   "atRaw": "Wed, 28 Oct 2026 19:38:37 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 03:38"
+  },
+  {
+   "title": "Volkswagen's EV battery recall reaches over 85,000, with Audi now included",
+   "url": "https://electrek.co/2026/10/28/volkswagens-ev-battery-recall-reaches-over-85000-with-audi/",
+   "desc": "Volkswagen’s latest recall now extends to Audi, affecting nearly 13,000 Q4 E-Tron and Q4 Sportback E-Tron vehicles globally. And just like with the ID.4, owners are being told to limit charging to 80%",
+   "atRaw": "Wed, 28 Oct 2026 18:09:59 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 02:09"
+  },
+  {
+   "title": "Jackery sale drops HomePower 2000 Plus v2 400W solar bundle to $1,479, Yozma IN 11 electric dirt bike exclusive $1,399 low, more",
+   "url": "https://electrek.co/2026/10/28/jackery-homepower-2000-plus-v2-power-station-yozma-in-11-electric-dirt-bike-more/",
+   "desc": "Leading our midweek edition is the Halloween Sale from Jackery with up to $2,060 off discounts on power stations that is running for a few days into November and even has extra savings in the form of ",
+   "atRaw": "Wed, 28 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 02:00"
+  },
+  {
+   "title": "Kia's PV5 electric campervan has two beds and a fully equipped kitchen [Images]",
+   "url": "https://electrek.co/2026/10/28/kias-electric-campervan-has-two-beds-fully-equipped-kitchen/",
+   "desc": "Kia’s electric campervan, based on the PV5 , includes two double beds, a 200 W solar panel, and a fully equipped kitchen. more…",
+   "atRaw": "Wed, 28 Oct 2026 17:15:47 +0000",
+   "source": "electrek",
+   "at": "2026-10-29 01:15"
+  },
+  {
+   "title": "Tesla’s rocket-shaped Robotaxi map in Houston is partly ‘fake’",
+   "url": "https://electrek.co/2026/10/28/tesla-robotaxi-houston-rocket-service-area-fake/",
+   "desc": "Tesla’s new rocket-shaped Robotaxi service area in Houston includes parts of downtown where the service won’t actually pick you up, according to Ethan McKanna, the creator of Robotaxi Tracker and form",
+   "atRaw": "Wed, 28 Oct 2026 15:18:25 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 23:18"
+  },
+  {
+   "title": "CATL pushes ahead with 20 Ah solid-state EV batteries, with 500 Wh/kg in sight",
+   "url": "https://electrek.co/2026/10/28/catl-pushes-ahead-20-ah-solid-state-ev-batteries-500-wh-kg/",
+   "desc": "CATL hit another milestone in its solid-state battery development, advancing to 20 Ah cells. The world’s leading battery maker aims to begin small-scale production in 2027. more…",
+   "atRaw": "Wed, 28 Oct 2026 15:12:41 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 23:12"
+  },
+  {
+   "title": "Tesla confirms Vietnam entry to take on VinFast and its 36% market share",
+   "url": "https://electrek.co/2026/10/28/tesla-vietnam-entry-vinfast/",
+   "desc": "Tesla has started hiring in Vietnam, and one of its recruiters says the company is now “officially coming” to the country. The five open roles include a sales manager, a service manager, and a chargin",
+   "atRaw": "Wed, 28 Oct 2026 14:28:21 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 22:28"
+  },
+  {
+   "title": "Ford casts 5,000 &#8216;unicastings' for Fathom EV truck in Tesla-style shift",
+   "url": "https://electrek.co/2026/10/28/ford-fathom-5000-unicastings-tesla-giga-press/",
+   "desc": "Ford has now produced more than 5,000 large aluminum “unicastings” for the Fathom, its upcoming $28,350 midsize electric pickup, as it fine-tunes the process ahead of a 2027 launch. Each truck gets tw",
+   "atRaw": "Wed, 28 Oct 2026 13:56:15 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 21:56"
+  },
+  {
+   "title": "New retro electric motorcycle to debut at EICMA with a novel feature: a second gear",
+   "url": "https://electrek.co/2026/10/28/new-retro-electric-motorcycle-to-debut-at-eicma-with-a-novel-feature-a-second-gear/",
+   "desc": "Most electric motorcycles have something in common: a single-speed transmission. But a British company is preparing to shake things up at this year’s EICMA motorcycle show in Milan, where it will unve",
+   "atRaw": "Wed, 28 Oct 2026 13:48:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 21:48"
+  },
+  {
+   "title": "Tesla Semi catches fire on I-880 with no crash, closes freeway for 10 hours",
+   "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+   "desc": "A Tesla Semi caught fire on Interstate 880 in Hayward, California, on Tuesday evening, and there was no crash. The electric truck’s lithium-ion battery burned long enough to keep the southbound freewa",
+   "atRaw": "Wed, 28 Oct 2026 12:34:10 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 20:34"
+  },
+  {
+   "title": "Bosch’s popular e-bike motor just got upgraded with more power and less weight",
+   "url": "https://electrek.co/2026/10/28/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and-less-weight/",
+   "desc": "Bosch has unveiled the latest generation of its popular Active Line Plus electric bicycle motor, bringing more power, less weight, and a significantly smaller footprint to one of the company’s most wi",
+   "atRaw": "Wed, 28 Oct 2026 07:32:46 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 15:32"
+  },
+  {
+   "title": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA",
+   "url": "https://electrek.co/2026/10/27/renewables-to-reach-40-of-total-generating-capacity-beat-gas-within-a-year-eia/",
+   "desc": "Over the coming year, renewables’ share of total generating capacity will grow from 37.7% to 40.4%, surpassing that of natural gas and outstripping nuclear capacity fivefold, according to new data rel",
+   "atRaw": "Tue, 27 Oct 2026 22:24:38 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 06:24"
+  },
+  {
+   "title": "BYD's $10,000 EV blows a tire at nearly 90 mph — Watch what happens",
+   "url": "https://electrek.co/2026/10/27/byds-10k-ev-blows-tire-nearly-90-mph-watch-what-happens/",
+   "desc": "BYD updated its lowest-priced electric car, the Seagull, which starts at around $10,000 in China, with a few extras, including a high-speed tire blowout system that stabilizes the vehicle at nearly 90",
+   "atRaw": "Tue, 27 Oct 2026 21:30:58 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 05:30"
+  },
+  {
+   "title": "Rivian electric van spotted in Walmart+ livery, hinting at a fleet deal",
+   "url": "https://electrek.co/2026/10/27/rivian-electric-van-walmart-plus-livery-spotted/",
+   "desc": "A Rivian electric delivery van wrapped in Walmart+ branding was photographed on a car hauler on I-94 in northwest Indiana today. It’s the first public sign that Walmart could become Rivian’s next big ",
+   "atRaw": "Tue, 27 Oct 2026 21:08:01 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 05:08"
+  },
+  {
+   "title": "Waymo adds nearly 250 square miles of robotaxi coverage in 5 cities",
+   "url": "https://electrek.co/2026/10/27/waymo-expansion-250-square-miles-five-cities/",
+   "desc": "Waymo is growing its driverless service area by nearly 250 square miles over the next week, spread across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. That’s about as bi",
+   "atRaw": "Tue, 27 Oct 2026 19:55:12 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 03:55"
+  },
+  {
+   "title": "BMW is going upscale with its first 3-row EV, the iX7",
+   "url": "https://electrek.co/2026/10/27/bmw-going-upscale-with-first-3-row-ev-ix7/",
+   "desc": "BMW’s next electric SUV won’t just be bigger. The iX7 will sit at the top of the brand’s EV lineup when it debuts in 2027, bringing a more luxurious option to the mix. more…",
+   "atRaw": "Tue, 27 Oct 2026 18:10:26 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 02:10"
+  },
+  {
+   "title": "Anker launches &#8216;world's longest lasting' 5,024Wh power station with $2,150 exclusive savings, Lectric XP Lite3 e-bike launch, more",
+   "url": "https://electrek.co/2026/10/27/anker-s5000-5024wh-power-station-exclusive-lectric-xp-lite3-e-bike-more/",
+   "desc": "We’ve got an exciting Tuesday Green Deals edition with two new launches and a first-time discount. Leading the pack is the official launch of Anker’s SOLIX S5000 Portable Power Station + bundles that ",
+   "atRaw": "Tue, 27 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-28 02:00"
+  },
+  {
+   "title": "Sykeruns X7 electric dirt bike review: A lot of power for surprisingly little money",
+   "url": "https://electrek.co/2026/10/27/sykeruns-x7-electric-dirt-bike-review-a-lot-of-power-for-surprisingly-little-money/",
+   "desc": "The mini electric dirt bike market has exploded over the last few years, with seemingly countless new brands offering everything from pint-sized electric pit bikes to surprisingly powerful off-road ma",
+   "atRaw": "Tue, 27 Oct 2026 15:56:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 23:56"
+  },
+  {
+   "title": "Korean police book 80 Tesla drivers over illegal FSD unlock devices",
+   "url": "https://electrek.co/2026/10/27/tesla-fsd-south-korea-police-80-illegal-unlock-devices/",
+   "desc": "Seoul police have booked 80 people for using aftermarket devices to switch on Tesla’s “Full Self-Driving” in cars that aren’t allowed to run it in South Korea. Officers also seized 21 of the devices. ",
+   "atRaw": "Tue, 27 Oct 2026 15:43:32 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 23:43"
+  },
+  {
+   "title": "The 2027 Kia EV9 costs $90 more, but at least you get a few extras",
+   "url": "https://electrek.co/2026/10/27/2027-kia-ev9-costs-90-more-gains-few-extras/",
+   "desc": "Kia barely touched the 2027 EV9’s price, raising it by only $90 while sneaking in a few extra standard features on select trims. more…",
+   "atRaw": "Tue, 27 Oct 2026 15:20:46 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 23:20"
+  },
+  {
+   "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more",
+   "url": "https://electrek.co/2026/10/27/musk-robotaxi-victory-waymo-austin-miles/",
+   "desc": "Elon Musk says Tesla’s Robotaxi race against Waymo “was never a real contest” after Tesla’s driverless fleet logged 438,000 miles in Austin in a single week, edging past Waymo’s 406,000 weekly average",
+   "atRaw": "Tue, 27 Oct 2026 14:21:45 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 22:21"
+  },
+  {
+   "title": "BYD names its ultra-luxury EV, and it could be a game changer next week",
+   "url": "https://electrek.co/2026/10/27/byd-names-ultra-luxury-ev-could-be-game-changer/",
+   "desc": "BYD’s new flagship EV will be its largest and most luxurious electric sedan yet, potentially debuting two firsts for the company next week: Rolls-Royce-style coach doors and solid-state batteries. mor",
+   "atRaw": "Tue, 27 Oct 2026 13:34:14 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 21:34"
+  },
+  {
+   "title": "Ford's new sub-$30K electric truck can power your home for a lot less",
+   "url": "https://electrek.co/2026/10/27/fords-new-sub-30k-electric-truck-can-power-your-home-for-a-lot-less/",
+   "desc": "Ford wants to make powering your home with an EV a lot cheaper. Its upcoming sub-$30,000 Fathom electric truck will feature a new bidirectional charging system that ditches the need for an expensive e",
+   "atRaw": "Tue, 27 Oct 2026 13:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 21:00"
+  },
+  {
+   "title": "Lectric launches XP Lite3 e-bike, the new best low-cost model in the US",
+   "url": "https://electrek.co/2026/10/27/lectric-launches-xp-lite3-e-bike-the-new-best-low-cost-model-in-the-us/",
+   "desc": "Lectric eBikes, the largest electric bike company in the US by just about any metric you can measure, has just unveiled its latest model: the Lectric XP Lite3 . And with a starting price of just $799 ",
+   "atRaw": "Tue, 27 Oct 2026 12:30:39 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 20:30"
+  },
+  {
+   "title": "The 2027 Kia EV6 is over $8,000 more than the new EV3",
+   "url": "https://electrek.co/2026/10/26/2027-kia-ev6-over-8000-more-than-new-ev3/",
+   "desc": "Kia announced that 2027 EV6 prices start at about $38,000, or $8,000 more than the new EV3. more…",
+   "atRaw": "Tue, 27 Oct 2026 00:39:22 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 08:39"
+  },
+  {
+   "title": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
+   "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
+   "desc": "Tesla Canada has updated the Model 3 Premium Rear-Wheel Drive on its website with 584 km of range and a 0-100 km/h time of 5.2 seconds. Those are the exact specs of the Fremont-built Long Range RWD th",
+   "atRaw": "Mon, 26 Oct 2026 21:18:39 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 05:18"
+  },
+  {
+   "title": "BMW's new iX5 looks like a big upgrade next to the old X5 [Images]",
+   "url": "https://electrek.co/2026/10/26/bmws-new-ix5-looks-like-big-upgrade-next-to-old-x5-images/",
+   "desc": "BMW’s new iX5 is hard to miss with its distinct Double-X headlights. Here’s how it stacks up against the outgoing X5, side by side. more…",
+   "atRaw": "Mon, 26 Oct 2026 19:49:55 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 03:49"
+  },
+  {
+   "title": "Bluetti Elite 300 3,014Wh power station $600 off, EGO Select Cut + Touch Drive mower with 10.0Ah battery $909 low, more",
+   "url": "https://electrek.co/2026/10/26/bluetti-elite-300-3014wh-power-station-ego-select-cut-touch-drive-mower/",
+   "desc": "We’ve got power station sales and tool lows filling this week’s Green Deals kickstart, starting with Bluetti’s fresh Halloween Sale lineup that has deals like the 2026 Elite 300 3,014Wh Portable Power",
+   "atRaw": "Mon, 26 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 02:00"
+  },
+  {
+   "title": "The 2027 Lexus RZ starts at under $50,000 and offers over 300 miles of range",
+   "url": "https://electrek.co/2026/10/26/2027-lexus-rz-starts-under-50000-with-300-miles-range/",
+   "desc": "The 2027 Lexus RZ will begin arriving at dealerships early next year, with prices starting at under $50,000. more…",
+   "atRaw": "Mon, 26 Oct 2026 17:54:04 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 01:54"
+  },
+  {
+   "title": "Tesla makes another joke of its Robotaxi geofence expansion",
+   "url": "https://electrek.co/2026/10/26/tesla-robotaxi-houston-geofence-expansion-shape/",
+   "desc": "Tesla expanded its Robotaxi service area in Houston today, and it shaped the new geofence like a rocket. Plenty of people on X see something else in it, which is fair given the phallic Austin map Tesl",
+   "atRaw": "Mon, 26 Oct 2026 17:23:44 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 01:23"
+  },
+  {
+   "title": "Cybertruck driver stopped in Germany, &#8216;Monster truck' not allowed on roads",
+   "url": "https://electrek.co/2026/10/26/cybertruck-driver-stopped-in-germany-monster-truck-not-allowed-on-roads/",
+   "desc": "A Tesla Cybertruck was pulled over while driving in Germany, a reminder that the vehicle is generally not legal on European roads. more…",
+   "atRaw": "Mon, 26 Oct 2026 17:13:37 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 01:13"
+  },
+  {
+   "title": "Tesla turns to car rental platform Turo for Full Self-Driving test drives",
+   "url": "https://electrek.co/2026/10/26/tesla-turo-full-self-driving-test-drives/",
+   "desc": "Turo will soon let US renters search specifically for Teslas with “Full Self-Driving” (Supervised) turned on, using a direct integration with Tesla to verify each car’s FSD status. The feature goes li",
+   "atRaw": "Mon, 26 Oct 2026 16:22:31 +0000",
+   "source": "electrek",
+   "at": "2026-10-27 00:22"
+  },
+  {
+   "title": "BYD opens pre-orders for its first luxury electric SUV with over 1,000 km CLTC range",
+   "url": "https://electrek.co/2026/10/26/byd-opens-orders-first-luxury-suv-1000-km-cltc-range/",
+   "desc": "BYD opened pre-orders for the new Denza N8, a luxury five-seat electric SUV with a CLTC range of over 1,000 km (621 miles). more…",
+   "atRaw": "Mon, 26 Oct 2026 14:36:42 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 22:36"
+  },
+  {
+   "title": "Volkswagen gets L3 autonomous driving test permit in China, eyes 2027",
+   "url": "https://electrek.co/2026/10/26/volkswagen-l3-autonomous-driving-test-permit-china/",
+   "desc": "Volkswagen Group China now has a permit to test Level 3 autonomous driving on public roads in Hefei, and it says testing is already underway. The permit also covers large-scale driving data collection",
+   "atRaw": "Mon, 26 Oct 2026 13:59:31 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 21:59"
+  },
+  {
+   "title": "Range Energy shows how its eTrailer saves almost as much as a Tesla Semi",
+   "url": "https://electrek.co/2026/10/26/range-energy-shows-how-its-etrailer-saves-almost-as-much-as-a-tesla-semi/",
+   "desc": "Range Energy, a company working to electrify trucking through the use of a trailer with its own battery and motors, has published an analysis showing how much fleets can save through electrification –",
+   "atRaw": "Mon, 26 Oct 2026 12:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 20:00"
+  },
+  {
+   "title": "All aboard! Massachusetts is getting 10 new electric transit trains",
+   "url": "https://electrek.co/2026/10/26/all-aboard-massachusetts-is-getting-10-new-electric-transit-trains/",
+   "desc": "The Massachusetts Bay Transportation Authority (MBTA) board of directors voted unanimously Thursday to approve the purchase of a new generation of battery-powered public transit trains – and they can’",
+   "atRaw": "Mon, 26 Oct 2026 11:42:24 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 19:42"
+  },
+  {
+   "title": "Amflow launches two powerful new electric bikes, including its first SUV-style e-bike",
+   "url": "https://electrek.co/2026/10/26/amflow-launches-two-powerful-new-electric-bikes-including-its-first-suv-style-e-bike/",
+   "desc": "Amflow, the electric bicycle brand that burst onto the scene with some of the most powerful and lightweight electric mountain bikes on the market, is expanding its lineup with two major releases. The ",
+   "atRaw": "Mon, 26 Oct 2026 08:01:59 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 16:01"
+  },
+  {
+   "title": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+   "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+   "desc": "The new XCMG SDA411 concept terminal truck is fully electric, has no cabin, and an L4 autonomous tech stack that’s purpose-built for unmanned logistics – and, if XCMG get their way, it looks like the ",
+   "atRaw": "Sun, 25 Oct 2026 18:34:53 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 02:34"
+  },
+  {
+   "title": "Battery electric, solar-powered reefer units reach their first customers",
+   "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
+   "desc": "The first regular production solar-powered electric trailer refrigeration unit (TRU) in Australia has hit the road with a real customer. Family-owned transport giant Wickham Freight Lines took deliver",
+   "atRaw": "Sun, 25 Oct 2026 17:28:39 +0000",
+   "source": "electrek",
+   "at": "2026-10-26 01:28"
+  },
+  {
+   "title": "E-quipment highlight: the highest-rated mowers on Amazon are ELECTRIC (2026)",
+   "url": "https://electrek.co/2026/10/25/e-quipment-highlight-the-highest-rated-mowers-on-amazon-are-electric-2026/",
+   "desc": "Despite decades of market dominance, it seems like the days of loud, finicky, gas-powered mowers may finally be behind us; and I say that because – for the second year in a row ! – the highest-rated l",
+   "atRaw": "Sun, 25 Oct 2026 08:01:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-25 16:01"
+  },
+  {
+   "title": "Police pull over two men riding an electric couch down the street",
+   "url": "https://electrek.co/2026/10/24/police-pull-over-two-men-riding-an-electric-couch-down-the-street/",
+   "desc": "Electric scooters have carried just about everything at this point, from commuters and tourists to groceries and probably more than a few ill-advised passengers. But two riders in Charlotte, North Car",
+   "atRaw": "Sun, 25 Oct 2026 05:47:56 +0000",
+   "source": "electrek",
+   "at": "2026-10-25 13:47"
+  },
+  {
+   "title": "Volkswagen's new electric Jetta offers 285 miles of range for under $12K",
+   "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
+   "desc": "Volkswagen is offering its Chinese-market Jetta M6 electric sedan with nearly 290 miles of CLTC-rated range for less than $12,000 (USD), and if that’s not what “der people’s wagen” should be all about",
+   "atRaw": "Sat, 24 Oct 2026 22:32:02 +0000",
+   "source": "electrek",
+   "at": "2026-10-25 06:32"
+  },
+  {
+   "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+   "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
+   "desc": "The dumb oil war in Iran is driving up the cost of just about everything , including new cars. That’s giving Chinese EVs a huge advantage over Western “legacy” car brands already lagging in tech and s",
+   "atRaw": "Sat, 24 Oct 2026 14:04:51 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 22:04"
+  },
+  {
+   "title": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+   "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+   "desc": "The NHTSA has proposed using cyan-colored lights to identify vehicles operating autonomously, along with other additions to get ready for autonomous vehicles. more…",
+   "atRaw": "Sat, 24 Oct 2026 13:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 21:00"
+  },
+  {
+   "title": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
+   "url": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
+   "desc": "EGO Power’s commercial group showed up at this week’s EQUIP Expo with a trio of new zero-turn riding mowers, a commercial-grade 780 CFM leaf blower , and a heavy-duty 16.5″ trimmer built for the 56V P",
+   "atRaw": "Sat, 24 Oct 2026 11:59:07 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 19:59"
+  },
+  {
+   "title": "GM is betting on battery cells that don't use lithium [updated]",
+   "url": "https://electrek.co/2026/10/23/gm-sodium-ion-battery-peak-energy/",
+   "desc": "GM has partnered with Peak Energy to develop next-generation sodium-ion battery cells, but they’re not going into EVs – they’re for grid-scale energy storage projects. GM Ventures is making a strategi",
+   "atRaw": "Fri, 23 Oct 2026 22:59:39 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 06:59"
+  },
+  {
+   "title": "Hyundai's $359 IONIQ 5 lease looks good, but its bigger sibling may be a better buy",
+   "url": "https://electrek.co/2026/10/23/hyundais-359-ioniq-5-lease-looks-good-3-row-suv-better-deal/",
+   "desc": "The Hyundai IONIQ 5 is the most popular EV in America outside of Tesla, but its larger three-row sibling looks like the better deal right now. more…",
+   "atRaw": "Fri, 23 Oct 2026 21:04:37 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 05:04"
+  },
+  {
+   "title": "Podcast: Tesla earnings discussion, new BYD Seagull, Mustang Mach-E update, and more",
+   "url": "https://electrek.co/2026/10/23/podcast-tesla-earnings-discussion-new-byd-seagull-mustang-mach-e-update-and-more/",
+   "desc": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla’s earnings, new BYD Seagull, Mustang Mach-E upd",
+   "atRaw": "Fri, 23 Oct 2026 19:47:02 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 03:47"
+  },
+  {
+   "title": "Anker SOLIX 4,096Wh expanded C2000 Gen 2 power station $1,519, 150-mile L16 utility e-bike lows from $649, Snow blower low, more",
+   "url": "https://electrek.co/2026/10/23/anker-solix-c2000-gen-2-power-station-l16-utility-e-bike-snow-blower-more/",
+   "desc": "We’re closing out this week with Anker’s newly launched SOLIX Spooktacular Halloween Sale lineup leading the pack with our top picks, exclusive savings, and FREE gifts, like expanded 4,096Wh C2000 Gen",
+   "atRaw": "Fri, 23 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 02:00"
+  },
+  {
+   "title": "Rivian buys startup to turn 400,000 daily clips into 3D sims",
+   "url": "https://electrek.co/2026/10/23/rivian-third-dimension-acquisition-self-driving-simulation/",
+   "desc": "Rivian wants to rebuild the roads its customers drive as 3D test worlds for its self-driving system, and it just bought a 15-person UK startup called Third Dimension to do it, as first reported by Tec",
+   "atRaw": "Fri, 23 Oct 2026 16:56:23 +0000",
+   "source": "electrek",
+   "at": "2026-10-24 00:56"
+  },
+  {
+   "title": "Volvo is launching a &#8216;lower-priced' EV in 2027 based on its SPA3 platform",
+   "url": "https://electrek.co/2026/10/23/volvo-launching-lower-priced-ev-2027/",
+   "desc": "The new EV will follow the EX60 as the second vehicle based on Volvo’s SPA3 platform, positioned as a smaller, more affordable option. more…",
+   "atRaw": "Fri, 23 Oct 2026 15:52:09 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 23:52"
+  },
+  {
+   "title": "Volvo says the EX60 will be a best-seller with over 50,000 orders in Europe already",
+   "url": "https://electrek.co/2026/10/23/volvo-ex60-best-seller-over-50000-orders/",
+   "desc": "Volvo expects the EX60 to become one of its best-selling vehicles ever, with over 50,000 orders already in Europe. But as demand builds, Volvo is struggling to ramp up production. more…",
+   "atRaw": "Fri, 23 Oct 2026 14:53:25 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 22:53"
+  },
+  {
+   "title": "Tesla cancels Cybertruck in Australia and NZ after 7 years of deposits",
+   "url": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+   "desc": "Tesla has officially cancelled the Cybertruck for Australia and New Zealand. Reservation holders are getting emails today telling them their orders are void and their deposits will be refunded. Austra",
+   "atRaw": "Fri, 23 Oct 2026 14:35:37 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 22:35"
+  },
+  {
+   "title": "Tesla's $10B solar factory could get 35 years of tax breaks in Texas",
+   "url": "https://electrek.co/2026/10/23/tesla-solar-factory-texas-35-years-tax-breaks-fort-bend/",
+   "desc": "Tesla’s proposed $10 billion “Project Crystal Sun” solar factory in Texas could get up to 35 years of local tax breaks on its equipment, according to the four agreements Fort Bend County commissioners",
+   "atRaw": "Fri, 23 Oct 2026 14:25:54 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 22:25"
+  },
+  {
+   "title": "Wheel-E Podcast: New Lectric and Priority e-bikes, friction drive kit, more",
+   "url": "https://electrek.co/2026/10/23/wheel-e-podcast-new-lectric-and-priority-e-bikes-friction-drive-kit-more/",
+   "desc": "This week on Electrek ’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes new e-bikes fro",
+   "atRaw": "Fri, 23 Oct 2026 12:47:12 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 20:47"
+  },
+  {
+   "title": "Yozma IN 11 review: The OG mini e-moto gets updates galore",
+   "url": "https://electrek.co/2026/10/23/yozma-in-11-review-the-og-mini-e-moto-gets-updates-galore/",
+   "desc": "…including 4.5kW motor, bigger 1.4kWh battery and 45mph top speed Yozma may not have invented the mini moto space, but they certainly helped mainstream it. Together with Tuttios and Sur Rons, Yozma’s ",
+   "atRaw": "Fri, 23 Oct 2026 12:39:08 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 20:39"
+  },
+  {
+   "title": "Overhead wired charging comes to Austin electric bus fleet",
+   "url": "https://electrek.co/2026/10/23/overhead-wired-charging-comes-to-austin-electric-bus-fleet/",
+   "desc": "CapMetro’s Austin transit fleets electrified two public bus lines and opened two new park-and-ride facilities featuring overhead pantograph-style wired charging equipment to help Austinites breathe a ",
+   "atRaw": "Fri, 23 Oct 2026 11:05:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 19:05"
+  },
+  {
+   "title": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+   "url": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+   "desc": "On today’s numerically-infused episode of Quick Charge , we take a look at all the latest product and delivery delays from Tesla’s Q3 earnings call before changing lanes and recapping some of the bigg",
+   "atRaw": "Fri, 23 Oct 2026 00:11:04 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 08:11"
+  },
+  {
+   "title": "Another megawatt-level charger enters China: 300 miles in 5 minutes",
+   "url": "https://electrek.co/2026/10/22/another-megawatt-level-charger-enters-china-300-miles-in-5-minutes/",
+   "desc": "Chery has announced a 1.44 megawatt charging system, able to deliver 500km (311 miles) in 5 minutes. And it’s not even the fastest system available in China. more…",
+   "atRaw": "Fri, 23 Oct 2026 00:06:23 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 08:06"
+  },
+  {
+   "title": "sonnen files for insolvency in Germany as US sales double",
+   "url": "https://electrek.co/2026/10/22/sonnen-files-for-insolvency-in-germany-as-us-sales-double/",
+   "desc": "Residential battery storage maker sonnen is reporting two very different stories today: Its German business has filed for insolvency, while sonnen USA says sales have doubled and it’s preparing to exp",
+   "atRaw": "Thu, 22 Oct 2026 22:07:26 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 06:07"
+  },
+  {
+   "title": "Tesla skipped the most important shareholder question on its earnings call",
+   "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
+   "desc": "Tesla skipped one of its top shareholder questions on its Q3 2026 earnings call: when Hardware 3 owners will find out if they get a free computer upgrade for the unsupervised “Full Self-Driving” they ",
+   "atRaw": "Thu, 22 Oct 2026 21:23:05 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 05:23"
+  },
+  {
+   "title": "BYD is about to launch this luxury electric SUV with 623 miles of range",
+   "url": "https://electrek.co/2026/10/22/byd-launch-luxury-ev-suv-623-miles-range/",
+   "desc": "BYD will open pre-orders for the Denza N8 EV next week, a large five-seat luxury electric SUV with a CLTC range of over 623 miles (1,000 km). more…",
+   "atRaw": "Thu, 22 Oct 2026 21:18:11 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 05:18"
+  },
+  {
+   "title": "Seattle plans 200 curbside EV charging stations – and you can request one",
+   "url": "https://electrek.co/2026/10/22/seattle-plans-200-curbside-ev-charging-stations-and-you-can-request-one/",
+   "desc": "Seattle plans to add up to 200 public curbside Level 2 EV charging stations by 2030, and residents can now request one near their home or apartment. more…",
+   "atRaw": "Thu, 22 Oct 2026 20:57:03 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 04:57"
+  },
+  {
+   "title": "BMW is already discounting the new iX5 with a $1,000 loyalty bonus",
+   "url": "https://electrek.co/2026/10/22/bmw-discounting-new-ix5-1000-loyalty-bonus/",
+   "desc": "The iX5 is set to go on sale in early 2027, but BMW is already offering a loyalty discount to sweeten the deal for those looking to stay with the brand. more…",
+   "atRaw": "Thu, 22 Oct 2026 20:47:53 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 04:47"
+  },
+  {
+   "title": "Tesla now says it needs its own maps for FSD after years of dismissing maps",
+   "url": "https://electrek.co/2026/10/22/tesla-building-own-maps-fsd-after-mocking-maps/",
+   "desc": "Tesla says it’s building its own maps to fix some of the most common problems with its “Full Self-Driving” system, including reading speed limits, parking, and choosing routes. The company’s head of A",
+   "atRaw": "Thu, 22 Oct 2026 20:03:18 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 04:03"
+  },
+  {
+   "title": "Ferrari Luce EV starts at $560,800 in the US, $80K less than expected",
+   "url": "https://electrek.co/2026/10/22/ferrari-luce-ev-us-price-560800/",
+   "desc": "Ferrari’s first electric car, the Luce, will start at $560,800 in the US, with American deliveries planned for the second quarter of 2027. Car and Driver first reported the figure, and Ferrari has con",
+   "atRaw": "Thu, 22 Oct 2026 19:02:51 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 03:02"
+  },
+  {
+   "title": "Kia believes it has a way to beat China's cheap EVs in Canada",
+   "url": "https://electrek.co/2026/10/22/kia-beat-chinas-cheap-evs-canada/",
+   "desc": "Kia is betting its new lineup of affordable EVs, like the EV3 , can beat the incoming wave of Chinese models in Canada, but affordability is only one part of the equation. more…",
+   "atRaw": "Thu, 22 Oct 2026 18:25:38 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 02:25"
+  },
+  {
+   "title": "Exclusive $500 savings hit Heybike's 100-mile Hybrid e-bike + 45-pound Venus e-bike at new lows from $999, EcoFlow, more",
+   "url": "https://electrek.co/2026/10/22/heybike-hybrid-e-bike-venus-e-bike-ecoflow-delta-3-max-more/",
+   "desc": "Heybike is once again dominating our daily Green Deals edition with another pair of exclusive deals for our readers, but this time on newer models. You can now score the first-ever $500 savings on the",
+   "atRaw": "Thu, 22 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 02:00"
+  },
+  {
+   "title": "Volkswagen is launching its most affordable EV yet in 2027, starting at around €20,000",
+   "url": "https://electrek.co/2026/10/22/vw-launch-most-affordable-ev-2027-starting-e20k/",
+   "desc": "Volkswagen’s upcoming electric car will be smaller and lower-priced than the ID. Polo, starting at around €20,000 ($22,500). more…",
+   "atRaw": "Thu, 22 Oct 2026 16:25:25 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 00:25"
+  },
+  {
+   "title": "Scania speeds up switch to silent semi trucks with Chinese production",
+   "url": "https://electrek.co/2026/10/22/scania-speeds-up-switch-to-silent-semi-trucks-with-chinese-production/",
+   "desc": "Record fuel prices driven by the dumb oil war in Iran are fueling a faster-than-expected switch to electric trucks in the world’s biggest freight markets – and Swedish heavy truck brand Scania is scra",
+   "atRaw": "Thu, 22 Oct 2026 16:05:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-23 00:05"
+  },
+  {
+   "title": "Tesla pushes Optimus deliveries to late 2027, says hands still a problem",
+   "url": "https://electrek.co/2026/10/22/tesla-optimus-delivery-late-2027-hands-ai-problems/",
+   "desc": "Elon Musk now says Tesla will start delivering Optimus humanoid robots to outside customers around the end of 2027. On Tesla’s Q3 2026 earnings call, he said the hands, the robot’s durability and its ",
+   "atRaw": "Thu, 22 Oct 2026 15:56:42 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 23:56"
+  },
+  {
+   "title": "New Jersey may finally reverse its draconian e-bike law after massive backlash",
+   "url": "https://electrek.co/2026/10/22/new-jersey-may-finally-reverse-its-draconian-e-bike-law-after-massive-backlash/",
+   "desc": "New Jersey lawmakers are already looking to walk back one of the country’s most controversial e-bike laws, just months after the sweeping new regulations took effect and sparked widespread backlash fr",
+   "atRaw": "Thu, 22 Oct 2026 15:02:35 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 23:02"
+  },
+  {
+   "title": "Kia's EV6 GT beat out the Tesla Model Y and BYD Sealion 7 in a German EV comparison test",
+   "url": "https://electrek.co/2026/10/22/kia-ev6-gt-beats-out-tesla-model-y-and-byd-german-ev-test/",
+   "desc": "Kia’s electric sports car beat out the Tesla Model Y Performance and BYD’s Sealion 7 in a recent comparison test by the German magazine Auto Motor und Sport , ranking first overall. more…",
+   "atRaw": "Thu, 22 Oct 2026 14:39:02 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 22:39"
+  },
+  {
+   "title": "Fortescue is using KUKA welding robots to handle 6 MW charging cables [video]",
+   "url": "https://electrek.co/2026/10/22/fortescue-is-using-kuka-welding-robots-to-handle-6-mw-charging-cables-video/",
+   "desc": "Humanoid robots aren’t ready to juice up the massive, 240-tonne electric haul trucks Fortescue is putting to work in Australia’s punishing Pilbara. Instead, the company is using specially modified and",
+   "atRaw": "Thu, 22 Oct 2026 14:10:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 22:10"
+  },
+  {
+   "title": "Tesla (TSLA) quietly cuts 2026 capex guidance to $20B",
+   "url": "https://electrek.co/2026/10/22/tesla-cuts-2026-capex-guidance-q3-cash-flow/",
+   "desc": "Tesla has lowered its 2026 capital spending forecast. In its Q3 10-Q, the company now says it expects capital expenditures “to be in excess of $20 billion in 2026,” down from the “more than $25 billio",
+   "atRaw": "Thu, 22 Oct 2026 14:00:01 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 22:00"
+  },
+  {
+   "title": "The 2027 Ford Mustang Mach-E gains a standard long-range battery and starts at $40,000",
+   "url": "https://electrek.co/2026/10/22/2027-ford-mustang-mach-e-adds-range-starts-40000/",
+   "desc": "Ford opened orders for the 2027 Mustang Mach-E , which now offers a standard extended-range battery for under $40,000. A new Trail model is also joining the lineup. more…",
+   "atRaw": "Thu, 22 Oct 2026 13:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 21:00"
+  },
+  {
+   "title": "Redwood and Rivian set to expand their EV battery recycling partnership",
+   "url": "https://electrek.co/2026/10/22/redwood-and-rivian-set-to-expand-their-ev-battery-recycling-partnership/",
+   "desc": "Redwood Materials and Rivian are expanding their existing EV battery partnership, adding a fresh battery material recycling effort to the EV startup’s Normal, Illinois, vehicle factory and, potentiall",
+   "atRaw": "Thu, 22 Oct 2026 11:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 19:00"
+  },
+  {
+   "title": "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+   "url": "https://electrek.co/2026/10/21/rio-tinto-eyes-a-giant-hot-brick-battery-to-cut-fossil-fuel-use/",
+   "desc": "Rio Tinto wants to put Australia’s cheap midday electricity to work at its Yarwun alumina refinery – by storing it in hot bricks and using that heat battery to make steam after the sun sets. more…",
+   "atRaw": "Wed, 21 Oct 2026 22:37:53 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 06:37"
+  },
+  {
+   "title": "Tesla wants to sell you an unusable car with no steering wheel this year",
+   "url": "https://electrek.co/2026/10/21/tesla-wants-to-sell-you-a-useless-car-with-no-steering-wheel-this-year/",
+   "desc": "Tesla said today it will sell Cybercab to consumers by the end of this year, raising questions of what end users would do with a vehicle with no steering wheel and no self-driving software. more…",
+   "atRaw": "Wed, 21 Oct 2026 22:32:50 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 06:32"
+  },
+  {
+   "title": "Tesla pushes unsupervised FSD to Q2 2027, and only inside Robotaxi zones",
+   "url": "https://electrek.co/2026/10/21/tesla-unsupervised-fsd-q2-2027-robotaxi-fleet/",
+   "desc": "Tesla now says unsupervised “Full Self-Driving” in customer-owned cars will arrive in Q2 2027. It’s the latest date on a promise Elon Musk has been making to FSD buyers for the better part of a decade",
+   "atRaw": "Wed, 21 Oct 2026 22:18:57 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 06:18"
+  },
+  {
+   "title": "It's finally here: Porsche puts wireless charging into production [UPDATE]",
+   "url": "https://electrek.co/2026/10/21/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
+   "desc": "Buried in a press release titled, “Even more colours and even greater convenience for the Cayenne Electric” was news that Porsche, for the first time, would be offering electrically wireless inductive",
+   "atRaw": "Wed, 21 Oct 2026 21:21:03 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 05:21"
+  },
+  {
+   "title": "Tesla energy revenue drops 16% as it refunds customers over tariffs",
+   "url": "https://electrek.co/2026/10/21/tesla-energy-revenue-drops-tariff-customer-refunds/",
+   "desc": "Tesla’s energy business deployed more batteries in Q3 2026 but brought in less money. Energy generation and storage revenue fell 16% year-over-year to $2.88 billion, even though storage deployments ro",
+   "atRaw": "Wed, 21 Oct 2026 21:18:18 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 05:18"
+  },
+  {
+   "title": "Tesla FSD ‘subscriptions’ hit 1.74M, counted the way Musk’s pay package wants",
+   "url": "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/",
+   "desc": "Tesla says it now has 1.74 million active “Full Self-Driving” subscriptions, up 67% from a year ago. A footnote in its Q3 2026 shareholder letter explains how it gets there: the metric follows “our 20",
+   "atRaw": "Wed, 21 Oct 2026 20:45:18 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 04:45"
+  },
+  {
+   "title": "Tesla blames battery supply for flat sales, but its prices keep falling",
+   "url": "https://electrek.co/2026/10/21/tesla-battery-supply-limiting-sales-prices-falling/",
+   "desc": "Tesla says battery supply, not demand, is what’s holding back its car sales. In its Q3 2026 shareholder letter, the automaker wrote that “battery availability continued to be the limiting factor in in",
+   "atRaw": "Wed, 21 Oct 2026 20:39:19 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 04:39"
+  },
+  {
+   "title": "Tesla (TSLA) releases Q3 2026 financial results: margins rebound, profit still falls",
+   "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/",
+   "desc": "Tesla (TSLA) released its financial results and shareholders’ letter for the third quarter (Q3) 2026 after market close today. We’re updating this post with all the details from the financial results,",
+   "atRaw": "Wed, 21 Oct 2026 20:08:17 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 04:08"
+  },
+  {
+   "title": "BMW's first three-row electric SUV is almost here: Here's an early look at the iX7",
+   "url": "https://electrek.co/2026/10/21/bmws-3-row-ev-suv-almost-here-early-look-ix7/",
+   "desc": "BMW is preparing to introduce its first three-row electric SUV. With its official debut coming up, the iX7 was spotted testing, offering a sneak peek at the full-size luxury SUV. more…",
+   "atRaw": "Wed, 21 Oct 2026 19:14:31 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 03:14"
+  },
+  {
+   "title": "Save up to $389 on Heybike Mars 2.5 + Ranger S 2.0 e-bikes at exclusive new lows from $799, Segway E2 Pro e-scooter, more",
+   "url": "https://electrek.co/2026/10/21/heybike-mars-2-5-ranger-s-2-0-e-bikes-segway-e2-pro-electric-scooter-more/",
+   "desc": "Our midweek edition is dominated by electric vehicles, starting with two exclusive deals from Heybike to score $289 savings on its upgraded Mars 2.5 Folding Fat Tire e-bike with a FREE large front bas",
+   "atRaw": "Wed, 21 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 02:00"
+  },
+  {
+   "title": "Kia's electric SUV and van are getting a new job as police cars",
+   "url": "https://electrek.co/2026/10/21/kias-electric-suv-and-van-police-cars/",
+   "desc": "Kia’s electric vehicles could soon be the ones pulling you over. Kia converted the EV5 and PV5 into patrol vehicles as part of its push for greener police cars. more…",
+   "atRaw": "Wed, 21 Oct 2026 17:09:30 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 01:09"
+  },
+  {
+   "title": "Lucid's 25,000 Bolt robotaxis will run on Nvidia's self-driving software",
+   "url": "https://electrek.co/2026/10/21/lucid-bolt-robotaxi-nvidia-alpamayo-madrid-2027/",
+   "desc": "Lucid’s European robotaxi deal now has a driver. Bolt announced today that its fleet of at least 25,000 autonomous Lucid vehicles will run Nvidia’s Alpamayo Stack self-driving software, starting with ",
+   "atRaw": "Wed, 21 Oct 2026 17:00:47 +0000",
+   "source": "electrek",
+   "at": "2026-10-22 01:00"
+  },
+  {
+   "title": "Lexus announces prices for its first 3-row electric SUV in Europe and the US",
+   "url": "https://electrek.co/2026/10/21/lexus-announces-prices-3-row-tz-electric-suv/",
+   "desc": "Lexus announced prices for its first fully electric three-row SUV, the 2027 TZ, with sales set to begin in the US later this year and in Europe in early 2027. more…",
+   "atRaw": "Wed, 21 Oct 2026 15:41:34 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 23:41"
+  },
+  {
+   "title": "Volkswagen recalls nearly 73,000 EVs due to faulty batteries",
+   "url": "https://electrek.co/2026/10/21/volkswagen-recalls-nearly-73000-evs-faulty-batteries/",
+   "desc": "Volkswagen issued a recall affecting nearly 73,000 EVs globally. Until a remedy is available, VW will limit charging on impacted vehicles to 80% of their maximum battery capacity. more…",
+   "atRaw": "Wed, 21 Oct 2026 13:56:20 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 21:56"
+  },
+  {
+   "title": "Construction Carnaval: electric equipment comes to Brazil with SDLG",
+   "url": "https://electrek.co/2026/10/21/construction-carnaval-electric-equipment-comes-to-brazil-with-sdlg/",
+   "desc": "SDLG Brasil has completed its first sale in the South American country, delivering an order of six heavy-duty electric wheel loaders to Brazilian mining, construction, and infrastructure company Grupo",
+   "atRaw": "Wed, 21 Oct 2026 12:11:16 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 20:11"
+  },
+  {
+   "title": "LiveWire set to show off several new electric motorcycles next month",
+   "url": "https://electrek.co/2026/10/21/livewire-set-to-show-off-several-new-electric-motorcycles-next-month/",
+   "desc": "LiveWire is preparing to bring its biggest electric two-wheeler lineup yet to EICMA (Milan Motorcycle Show) next month, including a pair of previously unseen models that will offer a preview of where ",
+   "atRaw": "Wed, 21 Oct 2026 08:29:23 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 16:29"
+  },
+  {
+   "title": "Segway launches the $1,999 Xyber Air, bringing its futuristic moped-style e-bike to the masses",
+   "url": "https://electrek.co/2026/10/20/segway-launches-the-1799-xyber-air-bringing-its-futuristic-moped-style-e-bike-to-the-masses/",
+   "desc": "When Segway launched the original Xyber last year , it was one of those e-bikes that immediately turned heads. With its futuristic styling, oversized frame, and high-performance off-road ambitions, it",
+   "atRaw": "Wed, 21 Oct 2026 06:45:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 14:45"
+  },
+  {
+   "title": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+   "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
+   "desc": "Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The mer",
+   "atRaw": "Wed, 21 Oct 2026 03:14:40 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 11:14"
+  },
+  {
+   "title": "Mercedes' new GLC 400 EV crushes range estimates, driving nearly 400 miles",
+   "url": "https://electrek.co/2026/10/20/mercedes-glc-ev-crushes-range-estimate-driving-nearly-400-miles/",
+   "desc": "The new 2027 Mercedes-Benz GLC 400 4Matic EV has an EPA-estimated range of up to 331 miles, but in the real world, it will likely go even farther. more…",
+   "atRaw": "Tue, 20 Oct 2026 21:41:31 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 05:41"
+  },
+  {
+   "title": "A parking giant with 5,700 sites is taking on apartment EV charging",
+   "url": "https://electrek.co/2026/10/20/a-parking-giant-with-5700-sites-is-taking-on-apartment-ev-charging/",
+   "desc": "Apartment and condo residents could get more places to plug in their EVs without their buildings needing a costly electrical upgrade. LAZ Parking and EverCharge are launching a charging service that s",
+   "atRaw": "Tue, 20 Oct 2026 20:50:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 04:50"
+  },
+  {
+   "title": "Tesla (TSLA) Q3 2026 earnings preview: flat revenue, falling profits",
+   "url": "https://electrek.co/2026/10/20/tesla-tsla-q3-2026-earnings-preview/",
+   "desc": "Tesla reports its third-quarter 2026 financial results tomorrow, October 21, after the market closes. The earnings call follows at 5:30 p.m. ET. Wall Street expects revenue to come in flat and earning",
+   "atRaw": "Tue, 20 Oct 2026 20:13:48 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 04:13"
+  },
+  {
+   "title": "Rivian now #2 US EV brand, up from #10, as Big Auto marginalizes itself",
+   "url": "https://electrek.co/2026/10/20/rivian-now-2-us-ev-brand-up-from-10-as-big-auto-marginalizes-itself/",
+   "desc": "Rivian is now the #2 EV brand in the US, up from 10th last year, taking Chevrolet’s spot as almost every other automaker tries to slow down the inevitable transition to electric cars. more…",
+   "atRaw": "Tue, 20 Oct 2026 20:12:41 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 04:12"
+  },
+  {
+   "title": "BMW iX5 hits up to 460 kW during first public fast-charging demo",
+   "url": "https://electrek.co/2026/10/20/bmw-ix5-hits-460-kw-first-public-fast-charging-demo/",
+   "desc": "With up to 460 kW DC fast charging, the new BMW iX5 can add up to 170 miles in just 10 minutes. BMW proved it during a live public event for the first time. more…",
+   "atRaw": "Tue, 20 Oct 2026 20:05:56 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 04:05"
+  },
+  {
+   "title": "Segway E3 Go electric scooter launches at $100 off, Bluetti 2,016Wh FridgePower station exclusive $854 in Member Sale, more",
+   "url": "https://electrek.co/2026/10/20/segway-e3-go-electric-scooter-bluetti-2016wh-fridgepower-station-more/",
+   "desc": "Our two headliners for today’s edition is the newly launched Segway E3 Go Electric Scooter with $100 savings at $550 , which sits just $50 above the current pricing of its sibling E3 Pro model . Next,",
+   "atRaw": "Tue, 20 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 02:00"
+  },
+  {
+   "title": "Subaru is killing off gas cars and will only sell EVs in Europe",
+   "url": "https://electrek.co/2026/10/20/subaru-killing-off-gas-cars-europe-will-only-sell-evs/",
+   "desc": "Subaru is phasing out combustion-engine vehicles in Europe by the end of 2027 and will sell only EVs. more…",
+   "atRaw": "Tue, 20 Oct 2026 17:24:58 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 01:24"
+  },
+  {
+   "title": "Volkswagen tells ID.4 owners to limit charging to 80% as part of a recall, or it will do it for them",
+   "url": "https://electrek.co/2026/10/20/volkswagen-id-4-recall-caps-charging-at-80-or-remotely-enforces-it/",
+   "desc": "Volkswagen told certain ID.4 drivers to limit charging to 80% as part of a recall by October 21. Unless drivers opt out, VW will automatically “apply a temporary vehicle setting” remotely. more…",
+   "atRaw": "Tue, 20 Oct 2026 16:01:35 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 00:01"
+  },
+  {
+   "title": "Electrify America’s biggest charging station yet opens in theme park territory",
+   "url": "https://electrek.co/2026/10/20/electrify-americas-biggest-charging-station-yet-opens-in-theme-park-territory/",
+   "desc": "Electrify America just opened its biggest charging station yet, with 24 DC fast chargers. more…",
+   "atRaw": "Tue, 20 Oct 2026 16:01:11 +0000",
+   "source": "electrek",
+   "at": "2026-10-21 00:01"
+  },
+  {
+   "title": "I bought a $199 Walmart e-bike, and what arrived shocked me",
+   "url": "https://electrek.co/2026/10/20/i-bought-a-199-walmart-e-bike-and-what-arrived-shocked-me/",
+   "desc": "I’ve tested e-bikes that cost $10,000. I’ve tested e-bikes that cost $500. But until recently, I’d never tested a brand-new e-bike that cost less than a nice set of bicycle tires. So when I stumbled a",
+   "atRaw": "Tue, 20 Oct 2026 15:10:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 23:10"
+  },
+  {
+   "title": "BYD launches new Seagull EV with 5-minute Flash Charging, starting under $10,000",
+   "url": "https://electrek.co/2026/10/20/byd-launches-new-seagull-ev-with-5-min-charging-under-10k/",
+   "desc": "BYD’s new Seagull EV is now its cheapest electric car in China with 5-minute Flash Charging, and starts at under $10,000. more…",
+   "atRaw": "Tue, 20 Oct 2026 14:31:05 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 22:31"
+  },
+  {
+   "title": "How electric school buses power 1,000 homes in California - and make money",
+   "url": "https://electrek.co/2026/10/20/how-electric-school-buses-power-1000-homes-in-california-and-make-money/",
+   "desc": "A fleet of 74 school buses have spent the last two years powering about a thousand homes, taking stress off the grid, thanks to V2G chargers built in America. more…",
+   "atRaw": "Tue, 20 Oct 2026 14:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 22:00"
+  },
+  {
+   "title": "Polestar and Oxford wired up drivers to measure how performance feels",
+   "url": "https://electrek.co/2026/10/20/polestar-oxford-study-measure-ev-performance-feel/",
+   "desc": "Polestar and the University of Oxford put 12 drivers in eye trackers and heart-rate monitors and sent them around a Swedish racetrack in two versions of the Polestar 4. The goal was to put numbers on ",
+   "atRaw": "Tue, 20 Oct 2026 13:06:20 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 21:06"
+  },
+  {
+   "title": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
+   "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
+   "desc": "If last week’s headlines proved anything at all, it’s that the long wait for flying, flipping, fully self driving electric vehicles is finally over – especially if you’re shopping at Tesla’s competito",
+   "atRaw": "Mon, 19 Oct 2026 22:57:37 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 06:57"
+  },
+  {
+   "title": "This new electric motorcycle with a giant hole in it wants to change how you ride",
+   "url": "https://electrek.co/2026/10/19/this-new-electric-motorcycle-with-a-giant-hole-in-it-wants-to-change-how-you-ride/",
+   "desc": "There are plenty of ways to make an electric motorcycle stand out, but putting a giant hole through the middle of it is certainly one of the more effective options. more…",
+   "atRaw": "Mon, 19 Oct 2026 21:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 05:00"
+  },
+  {
+   "title": "Volkswagen opens orders for the lower-priced ID. Cross, starting at about $31,000",
+   "url": "https://electrek.co/2026/10/19/vw-opens-orders-lower-priced-id-cross-starting-31000/",
+   "desc": "Volkswagen opened orders for the entry-level ID. Cross with the 37 kWh battery, starting at about $31,000 (€27,995). more…",
+   "atRaw": "Mon, 19 Oct 2026 20:55:43 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 04:55"
+  },
+  {
+   "title": "Arizona’s first NEVI fast chargers are finally open – here’s where",
+   "url": "https://electrek.co/2026/10/19/arizonas-first-nevi-fast-chargers-are-finally-open-heres-where/",
+   "desc": "Arizona’s first three NEVI-funded DC fast-charging stations are finally online, giving EV drivers more places to plug in along I-10, I-19, and I-8. more…",
+   "atRaw": "Mon, 19 Oct 2026 20:19:04 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 04:19"
+  },
+  {
+   "title": "BYD's new high-tech 5-seat electric SUV revealed with 690 hp and dual 30&#8243; screens",
+   "url": "https://electrek.co/2026/10/19/byds-new-high-tech-5-seat-ev-suv-revealed-two-30-screens/",
+   "desc": "BYD’s new Tang EV, its “tech-savvy” flagship five-seat SUV, was revealed in a regulatory filing with dual electric motors delivering a combined 690 horsepower. The interior is even more impressive. mo",
+   "atRaw": "Mon, 19 Oct 2026 19:59:38 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 03:59"
+  },
+  {
+   "title": "EcoFlow Halloween Sale offers up to 57% spooky power station savings from $284, Monarc smart e-bikes from $1,399, more",
+   "url": "https://electrek.co/2026/10/19/ecoflow-halloween-sale-power-stations-monarc-smart-e-bikes-more/",
+   "desc": "This week is kicking off with a spooky good EcoFlow Halloween Sale lineup of up to 57% discounts and bonus extra savings, which include deals like the DELTA 3 Ultra Plus 3,072Wh Power Station down at ",
+   "atRaw": "Mon, 19 Oct 2026 18:00:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 02:00"
+  },
+  {
+   "title": "Toyota's best-selling Corolla is going electric, and it will be made in China",
+   "url": "https://electrek.co/2026/10/19/toyotas-best-selling-corolla-going-electric/",
+   "desc": "Toyota will produce the Corolla EV in China starting in 2028, alongside hybrid and gas-powered versions. more…",
+   "atRaw": "Mon, 19 Oct 2026 17:59:24 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 01:59"
+  },
+  {
+   "title": "Priority’s fan-favorite Sauce bike just got a big electric upgrade",
+   "url": "https://electrek.co/2026/10/19/prioritys-fan-favorite-sauce-bike-just-got-a-big-electric-upgrade/",
+   "desc": "Priority Bicycles has spent the last decade proving that bicycles don’t need to be complicated to be good. Now the New York-based bicycle company is taking one of its more playful pedal bikes and givi",
+   "atRaw": "Mon, 19 Oct 2026 17:41:03 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 01:41"
+  },
+  {
+   "title": "The Volvo EX60 delivered more driving range in the real world, covering over 350 miles",
+   "url": "https://electrek.co/2026/10/19/volvo-ex60-delivered-350-miles-real-world-driving-range/",
+   "desc": "The new Volvo EX60 has an EPA-estimated range of 312 miles, but in real-world conditions, it drove over 350 miles without stopping. more…",
+   "atRaw": "Mon, 19 Oct 2026 16:29:36 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 00:29"
+  },
+  {
+   "title": "Huawei's car unit joins CATL's 2,520-station battery swap network",
+   "url": "https://electrek.co/2026/10/19/huawei-catl-battery-swap-choco-2520-stations/",
+   "desc": "Huawei’s smart car business is signing on to CATL’s battery swap network, giving the world’s largest battery maker another heavyweight partner for a technology most of the industry wrote off a decade ",
+   "atRaw": "Mon, 19 Oct 2026 16:07:58 +0000",
+   "source": "electrek",
+   "at": "2026-10-20 00:07"
+  },
+  {
+   "title": "Foxconn pays $727M for half of Mitsubishi Electric's car parts unit in EV push",
+   "url": "https://electrek.co/2026/10/19/foxconn-mitsubishi-electric-mobility-50-percent-stake-ev-push/",
+   "desc": "Foxconn is buying half of Mitsubishi Electric’s auto parts business for ¥115 billion ($727 million), its biggest bet yet on turning years of EV promises into a real car business. But the target, Mitsu",
+   "atRaw": "Mon, 19 Oct 2026 15:17:11 +0000",
+   "source": "electrek",
+   "at": "2026-10-19 23:17"
+  },
+  {
+   "title": "GM just revealed an electric drive 3500 dually with VERY limited color options",
+   "url": "https://electrek.co/2026/10/19/gm-just-revealed-an-electric-drive-3500-dually-with-very-limited-color-options/",
+   "desc": "GM just took the wraps off the electric-drive pickup America’s commercial fleets have been waiting for: a one-ton chassis, dually rear axle and massive capability baked in. The best part? You can have",
+   "atRaw": "Mon, 19 Oct 2026 15:15:00 +0000",
+   "source": "electrek",
+   "at": "2026-10-19 23:15"
+  },
+  {
+   "title": "Subaru's next EV will be smarter, more efficient, and less like a Toyota",
+   "url": "https://electrek.co/2026/10/19/subarus-next-ev-smarter-more-efficient-less-like-toyota/",
+   "desc": "Subaru is testing its own tech for its next-generation EVs, breaking away from its longstanding partnership with Toyota. more…",
+   "atRaw": "Mon, 19 Oct 2026 14:58:28 +0000",
+   "source": "electrek",
+   "at": "2026-10-19 22:58"
+  },
+  {
+   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
+   "url": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
+   "desc": "Tesla’s proxy for its 2026 annual meeting, filed today, confirms that one of its supposedly independent directors now sits on SpaceX’s board. Ira Ehrenpreis, who chairs both Tesla’s compensation commi",
+   "atRaw": "Mon, 19 Oct 2026 14:07:33 +0000",
+   "source": "electrek",
+   "at": "2026-10-19 22:07"
+  },
+  {
+   "title": "Why this major e-bike brand just started selling battery-less electric bikes",
+   "url": "https://electrek.co/2026/10/19/why-this-major-e-bike-brand-just-started-selling-battery-less-electric-bikes/",
+   "desc": "Buying an e-bike without a battery might sound a little like buying a car without a motor. But that’s exactly what Minnesota-based e-bike company Monarc is now offering – and there’s actually a pretty",
+   "atRaw": "Mon, 19 Oct 2026 13:57:15 +0000",
+   "source": "electrek",
+   "at": "2026-10-19 21:57"
+  },
+  {
+   "title": "Seabirds racing home over the ocean can get jet-lagged",
+   "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+   "desc": "A long flight home from feeding grounds messes with birds' internal clocks.",
+   "atRaw": "Sat, 31 Oct 2026 11:15:26 +0000",
+   "source": "ars",
+   "at": "2026-10-31 19:15"
+  },
+  {
+   "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+   "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+   "desc": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
+   "atRaw": "Sat, 31 Oct 2026 11:02:34 +0000",
+   "source": "ars",
+   "at": "2026-10-31 19:02"
+  },
+  {
+   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+   "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+   "desc": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+   "atRaw": "Sat, 31 Oct 2026 00:07:22 +0000",
+   "source": "ars",
+   "at": "2026-10-31 08:07"
+  },
+  {
+   "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+   "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+   "desc": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+   "atRaw": "Fri, 30 Oct 2026 22:36:41 +0000",
+   "source": "ars",
+   "at": "2026-10-31 06:36"
+  },
+  {
+   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+   "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+   "desc": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+   "atRaw": "Fri, 30 Oct 2026 22:21:05 +0000",
+   "source": "ars",
+   "at": "2026-10-31 06:21"
+  },
+  {
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "desc": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+   "atRaw": "Fri, 30 Oct 2026 21:41:54 +0000",
+   "source": "ars",
+   "at": "2026-10-31 05:41"
+  },
+  {
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "desc": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "atRaw": "Fri, 30 Oct 2026 21:09:54 +0000",
+   "source": "ars",
+   "at": "2026-10-31 05:09"
+  },
+  {
+   "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+   "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+   "desc": "People who love AI don't always love telling others they used it.",
+   "atRaw": "Fri, 30 Oct 2026 20:40:13 +0000",
+   "source": "ars",
+   "at": "2026-10-31 04:40"
+  },
+  {
+   "title": "Over 25% of people lie to get antibiotics—and their lies aren't even good",
+   "url": "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+   "desc": "Faked symptoms still point to infections that antibiotics don't treat.",
+   "atRaw": "Fri, 30 Oct 2026 20:17:50 +0000",
+   "source": "ars",
+   "at": "2026-10-31 04:17"
+  },
+  {
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "desc": "But it's still early days for the relatively new e-commerce use case.",
+   "atRaw": "Fri, 30 Oct 2026 19:30:52 +0000",
+   "source": "ars",
+   "at": "2026-10-31 03:30"
+  },
+  {
+   "title": "Rare meteorite from Mars gives us a view into its ancient crust",
+   "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+   "desc": "A meteorite found in the Sahara is a rare piece of Mars' ancient crust.",
+   "atRaw": "Fri, 30 Oct 2026 18:13:42 +0000",
+   "source": "ars",
+   "at": "2026-10-31 02:13"
+  },
+  {
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "desc": "Low costs and offline security mean magnetic tape still has a job.",
+   "atRaw": "Fri, 30 Oct 2026 17:38:19 +0000",
+   "source": "ars",
+   "at": "2026-10-31 01:38"
+  },
+  {
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "desc": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+   "atRaw": "Fri, 30 Oct 2026 16:53:49 +0000",
+   "source": "ars",
+   "at": "2026-10-31 00:53"
+  },
+  {
+   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+   "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+   "desc": "There's no evidence that Starship will launch traditional satellites, either.",
+   "atRaw": "Fri, 30 Oct 2026 16:12:59 +0000",
+   "source": "ars",
+   "at": "2026-10-31 00:12"
+  },
+  {
+   "title": "GM to pay $220 million after selling customer Smart Driver data",
+   "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+   "desc": "Owners of GM cars found their driving data had been sold to insurance companies.",
+   "atRaw": "Fri, 30 Oct 2026 13:53:20 +0000",
+   "source": "ars",
+   "at": "2026-10-30 21:53"
+  },
+  {
+   "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+   "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+   "desc": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+   "atRaw": "Fri, 30 Oct 2026 13:46:39 +0000",
+   "source": "ars",
+   "at": "2026-10-30 21:46"
+  },
+  {
+   "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+   "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+   "desc": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+   "atRaw": "Fri, 30 Oct 2026 12:00:18 +0000",
+   "source": "ars",
+   "at": "2026-10-30 20:00"
+  },
+  {
+   "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+   "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+   "desc": "Disgraced founder of Theranos has some people falling for her act all over again.",
+   "atRaw": "Fri, 30 Oct 2026 11:30:01 +0000",
+   "source": "ars",
+   "at": "2026-10-30 19:30"
+  },
+  {
+   "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+   "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+   "desc": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+   "atRaw": "Fri, 30 Oct 2026 11:00:35 +0000",
+   "source": "ars",
+   "at": "2026-10-30 19:00"
+  },
+  {
+   "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+   "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+   "desc": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+   "atRaw": "Thu, 29 Oct 2026 21:47:57 +0000",
+   "source": "ars",
+   "at": "2026-10-30 05:47"
+  },
+  {
+   "title": "Rivian's Charging Network Grew 39% In A Year",
+   "url": "https://insideevs.com/news/813896/rivian-adventure-networks-dc-fast-chargers-growth-q3-2026/",
+   "desc": "The startup is actively investing in its own EV fast charging network, even though its models can use Tesla Superchargers.",
+   "atRaw": "Sat, 31 Oct 2026 14:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-31 22:00"
+  },
+  {
+   "title": "AI-Powered Coffee Runs And Service Visits Are Coming To Rivians In 2027",
+   "url": "https://insideevs.com/news/813951/rivian-chief-software-officer-wassym-bensaid-interview-ai-assistant/",
+   "desc": "Rivian Chief Software Officer Wassym Bensaid says new AI integrations will order your coffee and automate vehicle service starting next year.",
+   "atRaw": "Sat, 31 Oct 2026 12:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-31 20:00"
+  },
+  {
+   "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
+   "url": "https://insideevs.com/features/813947/after-a-year-without-tax-credits-evs-are-down-not-out/",
+   "desc": "A year after federal incentives ended, the EV market isn't dead. Here are 4 key takeaways on who's winning and what's next.",
+   "atRaw": "Sat, 31 Oct 2026 11:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-31 19:00"
+  },
+  {
+   "title": "Waymo's Public Fast-Charging Problem Is Infuriating EV Drivers",
+   "url": "https://insideevs.com/news/813929/waymo-ev-charging-problem-california/",
+   "desc": "Robotaxi companies need to figure out how their driverless cars can be less annoying for everyday drivers.",
+   "atRaw": "Fri, 30 Oct 2026 19:28:44 +0000",
+   "source": "insideevs",
+   "at": "2026-10-31 03:28"
+  },
+  {
+   "title": "Tesla's Cybercab Is Built In A Radical New Way. Here's How It Works",
+   "url": "https://insideevs.com/news/813774/tesla-cybercab-factory-munro-live/",
+   "desc": "The Cybercab skips the paint shop and reaches final assembly mostly built. Tesla says it needs roughly half the factory space.",
+   "atRaw": "Fri, 30 Oct 2026 15:57:11 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 23:57"
+  },
+  {
+   "title": "‘We Are Long-Term Committed In Europe’: Why Tariffs Won’t Scare Zeekr Off",
+   "url": "https://insideevs.com/news/813777/zeekr-europe-committed/",
+   "desc": "“Are these discussions and regulations coming because we are so successful, or do we have to deal with these things to get success?”",
+   "atRaw": "Fri, 30 Oct 2026 15:19:29 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 23:19"
+  },
+  {
+   "title": "Volkswagen Can't Afford Its Upcoming Electric Golf Right Now",
+   "url": "https://insideevs.com/news/813891/volkswagen-id-golf-development-paused-official/",
+   "desc": "The automaker is pausing the development of the new ID. Golf EV, further delaying the model’s launch.",
+   "atRaw": "Fri, 30 Oct 2026 12:13:30 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 20:13"
+  },
+  {
+   "title": "I Drove A New Kind Of Hybrid From Nissan. Here's How It Beats The Toyota RAV4",
+   "url": "https://insideevs.com/reviews/813726/2027-nissan-rogue-hybrid-review-toyota-rav4-rival/",
+   "desc": "Nissan's 2027 Rogue e-Power hybrid drives like an electric car. I tested it back-to-back with the RAV4 to see which hybrid wins.",
+   "atRaw": "Fri, 30 Oct 2026 12:00:00 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 20:00"
+  },
+  {
+   "title": "Toyota Is Turning The bZ EV Into A Waymo Robotaxi, Starting in 2027",
+   "url": "https://insideevs.com/news/813848/toyota-bz-waymo-robotaxi-2027/",
+   "desc": "Toyota will build the driverless crossovers on the same assembly line as the regular version.",
+   "atRaw": "Fri, 30 Oct 2026 09:54:09 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 17:54"
+  },
+  {
+   "title": "Ford Fathom: Everything We Know About The Sub-$30,000 Affordable EV Truck",
+   "url": "https://insideevs.com/reviews/728293/ford-skunkwork-ev-specs-range/",
+   "desc": "Ford's low-cost EVs are meant to battle efforts from China and Tesla. Here's what we think we know so far.",
+   "atRaw": "Mon, 29 Jul 2024 19:30:12 +0000",
+   "source": "insideevs",
+   "at": "2024-07-30 03:30"
+  },
+  {
+   "title": "Rivian's Amazon Van Got More Range And AWD To Cover More Routes",
+   "url": "https://insideevs.com/news/813820/rivian-electric-van-amazon-edv-battery-motor-upgrade/",
+   "desc": "The lovable electric delivery van is now shipping with a longer-range battery, as well as an all-wheel-drive version with 710 hp.",
+   "atRaw": "Fri, 30 Oct 2026 07:47:06 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 15:47"
+  },
+  {
+   "title": "Fiat's Tiny $15,000 EV Can Finally Hit American Streets",
+   "url": "https://insideevs.com/news/813789/fiat-topolino-finally-street-legal/",
+   "desc": "Get ready for your taste of la dolce vita, because the Fiat Topolino is street legal now.",
+   "atRaw": "Thu, 29 Oct 2026 23:25:19 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 07:25"
+  },
+  {
+   "title": "Rivian's R2 Is Already Its Best-Selling EV. Now The Company Expects Even Bigger Sales",
+   "url": "https://insideevs.com/news/813785/rivian-r2-best-seller-revised-delivery-guidance/",
+   "desc": "Rivian's Tesla Model Y rival is a hit among buyers, with Rivian increasing its annual delivery guidance again.",
+   "atRaw": "Thu, 29 Oct 2026 20:39:56 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 04:39"
+  },
+  {
+   "title": "Ford CEO Says Its New EV Tech Is 30% More Efficient Than BYD's",
+   "url": "https://insideevs.com/news/813781/ford-byd-motors-30-fathom/",
+   "desc": "CEO Jim Farley says that its new motors, inverters, and EV gearboxes will maximize efficiency and keep costs down.",
+   "atRaw": "Thu, 29 Oct 2026 21:11:40 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 05:11"
+  },
+  {
+   "title": "Ford Fathom Pricing Will Stretch Into the 'High $30,000 Range'",
+   "url": "https://insideevs.com/news/813746/ford-fathom-pricing-high-30k/",
+   "desc": "The Ford Fathom starts at under $29,000. Here's how much a nicely equipped one will cost you.",
+   "atRaw": "Thu, 29 Oct 2026 19:10:28 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 03:10"
+  },
+  {
+   "title": "Volkswagen's EVs Are Selling Like Crazy. That's Actually Hurting Its Profits",
+   "url": "https://insideevs.com/news/813762/vw-ev-sales-low-profits/",
+   "desc": "You'd think selling more EVs would help, but low profit margins mean that it actually can hurt.",
+   "atRaw": "Thu, 29 Oct 2026 18:28:22 +0000",
+   "source": "insideevs",
+   "at": "2026-10-30 02:28"
+  },
+  {
+   "title": "Driving The Cheapest Lucid Air For 40,000 Miles Came With A Few Surprises",
+   "url": "https://insideevs.com/news/813727/lucid-air-pure-ownership-review-video/",
+   "desc": "The most affordable Lucid doesn’t feel cheap, and it delivers all of the basics that the more expensive trims are known for.",
+   "atRaw": "Thu, 29 Oct 2026 13:46:31 +0000",
+   "source": "insideevs",
+   "at": "2026-10-29 21:46"
+  },
+  {
+   "title": "Tesla FSD Is Hitting Europe. It's Not Perfect",
+   "url": "https://insideevs.com/news/813661/tesla-full-self-driving-bratislava/",
+   "desc": "Steep hills and tight gaps showed what FSD can do. Missed signs and driver takeovers showed how much supervision it still needs.",
+   "atRaw": "Thu, 29 Oct 2026 09:31:24 +0000",
+   "source": "insideevs",
+   "at": "2026-10-29 17:31"
+  },
+  {
+   "title": "The 2027 Kia EV9 Gets Some Standard Features That Used To Be Optional",
+   "url": "https://insideevs.com/news/813665/2027-kia-ev9-price-torque-increase/",
+   "desc": "The base price goes up by $90, with the biggest changes coming on the mid-spec Land trim.",
+   "atRaw": "Thu, 29 Oct 2026 08:52:48 +0000",
+   "source": "insideevs",
+   "at": "2026-10-29 16:52"
+  },
+  {
+   "title": "Toyota’s New Hybrids And Plug-In Hybrids Will Be 15% More Efficient",
+   "url": "https://insideevs.com/news/813645/new-toyota-hybrid-engine-more-efficient-smaller/",
+   "desc": "An all-new engine was developed specifically for electrified powertrains, promising higher efficiency than its predecessors.",
+   "atRaw": "Thu, 29 Oct 2026 07:15:51 +0000",
+   "source": "insideevs",
+   "at": "2026-10-29 15:15"
+  },
+  {
+   "title": "苹果官宣 Apple 智能接入阿里千问；DeepSeek 完成第二轮 1055 亿元融资，估值达 6155 亿元；英特尔股价开盘跌超 30%｜极客早知道",
+   "url": "http://www.geekpark.net/news/373220",
+   "desc": "国行 Apple 智能确定上线时间：11 月开放测试，千问接入 Siri 10 月 31 日，苹果宣布，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 版开放测试，12 月随 iOS 27.3 正式面向用户推出。首批功能包括实时翻译、写作工具、照片消除、智绘表情和通知摘要等，支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone",
+   "atRaw": "Sat, 31 Oct 2026 08:03:20 +0800",
+   "source": "geekpark",
+   "at": "2026-10-31 08:03"
+  },
+  {
+   "title": "国行 Apple 智能官网正式上线：千问接入，11 月推送",
+   "url": "http://www.geekpark.net/news/373238",
+   "desc": "头图图片来源：Apple 10 月 31 日，苹果中国官网的 Newsroom 发布新闻稿《Apple 智能即将登陆中国》，给了一张具体的时间表：11 月 4 日起，首批 Apple 智能功能随最新的 iOS 开发者 Beta 版开放测试；12 月 iOS 27.3 正式发布时，面向中国用户推出。 苹果中国官网的 Apple 智能页面也改了口。9 月 iPhone 18 和 iPhone Duo ",
+   "atRaw": "Sat, 31 Oct 2026 06:26:23 +0800",
+   "source": "geekpark",
+   "at": "2026-10-31 06:26"
+  },
+  {
+   "title": "TRAE 开发者个人助理，打响 AI Coding 的下半场",
+   "url": "http://www.geekpark.net/news/373190",
+   "desc": "作者｜Cynthia 编辑｜郑玄 过去两年，AI Coding 最令人兴奋的时刻，大基本止步于代码生成的那一秒。 一句话生成页面，几分钟搭出原型，一个开发者用半天时间做完了过去需要一周才能完成的开发任务&hellip;&hellip; 但在这之后，即使某项单点开发任务获得五倍、十倍的提速，一个项目从需求提出到产品交付的速度，有时候未必能有两倍效率提升。 时间去了哪里？ 写提示词、等待 AI 生成是",
+   "atRaw": "Fri, 30 Oct 2026 13:49:25 +0800",
+   "source": "geekpark",
+   "at": "2026-10-30 13:49"
+  },
+  {
+   "title": "Google 母集团市值蒸发 5000 亿美元创纪录；苹果高管回应新 iPad mini 60Hz 刷新率；因电池问题，理想 MEGA 退一赔一｜极客早知道",
+   "url": "http://www.geekpark.net/news/373154",
+   "desc": "谷歌市值创纪录蒸发 5000 亿美元 AI 侵蚀营收 Alphabet Inc 股价一度下跌逾 13%，市值蒸发逾 5000 亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望，加剧了投资者对人工智能（AI）威胁其核心业务的担忧。 这家谷歌母公司公布，第三季度不含合作伙伴分成的营收为 1112 亿美元，低于分析师预测。搜索及其他渠道的广告营收也不及预期，增速为五个季度来最",
+   "atRaw": "Fri, 30 Oct 2026 08:15:04 +0800",
+   "source": "geekpark",
+   "at": "2026-10-30 08:15"
+  },
+  {
+   "title": "大众把三年在中国攒的家底，打包成了一颗「星」",
+   "url": "http://www.geekpark.net/news/373086",
+   "desc": "头图来源：极客公园 10 月 28 日，合肥，大众汽车集团（中国）办了自己的第一次技术日。 这场发布会的主角叫「VEGA」，名字取自织女星，是大众在中国本土自研的一体化技术矩阵。它把整车平台、电子电气架构和高级驾驶辅助系统三大核心技术打包成了一套体系。 按大众的说法，它由此成为中国市场唯一一家拥有本土开发自研技术矩阵的外资车企。 大众汽车集团（中国）董事长兼 CEO 贝瑞德在台上说，短短三年，大众",
+   "atRaw": "Thu, 29 Oct 2026 15:09:14 +0800",
+   "source": "geekpark",
+   "at": "2026-10-29 15:09"
+  },
+  {
+   "title": "苹果发触屏笔记本，最高 11 万元；DeepSeek V5 模型代码现身；宇树首发财报，净利增 270%",
+   "url": "http://www.geekpark.net/news/373085",
+   "desc": "苹果发布首款触屏 MacBook Pro，顶配超 11 万 元 北京时间 10 月 29 日，苹果发布全新 MacBook Pro，首次为 Mac 引入屏幕触控和灵动岛，并采用双层串联 OLED 技术的 PROLED XDR 显示屏。 新机提供 14 英寸和 16 英寸两种版本，搭载 M5 Pro 或 M5 Max 芯片。根据苹果中国区发布信息，新机将于 10 月 30 日开启预购，11 月 6 ",
+   "atRaw": "Thu, 29 Oct 2026 08:05:58 +0800",
+   "source": "geekpark",
+   "at": "2026-10-29 08:05"
+  },
+  {
+   "title": "「推翻」乔布斯的触屏 MacBook 来了，22999 元起",
+   "url": "http://www.geekpark.net/news/373084",
+   "desc": "搭载 PROLED XDR 显示屏的 MacBook Pro｜图片来源：Apple 2010 年 10 月 20 日，乔布斯在苹果「Back to the Mac」发布会上，给触屏笔记本下过一个结论：「我们做过大量用户测试，结果证明这行不通。触控表面不该竖着放。演示效果很好，但用一会儿你就会累，用久了，胳膊都要掉下来。这行不通，人体工学上糟透了。」 16 年后的今天凌晨，苹果发布了第一台带触屏的 ",
+   "atRaw": "Thu, 29 Oct 2026 02:27:03 +0800",
+   "source": "geekpark",
+   "at": "2026-10-29 02:27"
+  },
+  {
+   "title": "当即梦把剧本、导演和剪辑放进同一个工作室，我们看到了视频生成的下一步",
+   "url": "http://www.geekpark.net/news/373066",
+   "desc": "对于短剧创作者来说，最不缺的可能就是新的故事灵感。 在日常创作中，一个新的人物设定、一段有冲突的情节，甚至刷到的一条社会新闻，都可能成为下一部短剧的起点。 但短剧行业的生产节奏越来越快。团队可能同时推进多个项目，既要保证已有剧集的更新，又要不断寻找新题材、开发新故事；好创意从提出到真正变成作品，中间还需要经历剧本创作、人物设定、分镜设计、视频生成和后期剪辑等一系列环节。 如果有个工具，能够直接从 ",
+   "atRaw": "Wed, 28 Oct 2026 16:04:17 +0800",
+   "source": "geekpark",
+   "at": "2026-10-28 16:04"
+  },
+  {
+   "title": "斯坦福的研究，红海的珊瑚，与一个中国模型",
+   "url": "http://www.geekpark.net/news/373059",
+   "desc": "2026 年 9 月 4 日，又一年柏林国际消费电子展 IFA 大会开幕，会展中心的创新舞台座无虚席。 IFA 2026 的开幕主题演讲题目是《个人 AI 时代：想象力的未来》，主讲人是 AMD 高级副总裁、计算与图形事业部总经理 Jack Huynh。 作为消费电子圈每年最重要的场合之一，台下所有人都在等 AMD 拿出年度最重磅的内容。Huynh 的前半段演讲照例讲硬件：新一代 Ryzen AI",
+   "atRaw": "Wed, 28 Oct 2026 15:37:30 +0800",
+   "source": "geekpark",
+   "at": "2026-10-28 15:37"
+  },
+  {
+   "title": "iPhone Duo 裂屏，是苹果新 CEO 接班后第一次「大考」",
+   "url": "http://www.geekpark.net/news/373008",
+   "desc": "头图图片来源：iFixit 2011 年 9 月 30 日，苹果递交了一份名为「Flexible electronic devices」的专利申请。 它描述的是一台屏幕可以对折的设备，合起来能揣进口袋，靠传感器判断自己是开着还是合着。 这份专利 2015 年 1 月获得授权，发明人一共六位，其中一位叫特努斯（John Ternus）。 苹果 2011 年递交的折叠设备专利附图｜图片来源：Apple",
+   "atRaw": "Tue, 27 Oct 2026 17:24:34 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 17:24"
+  },
+  {
+   "title": "看了招股书，我终于知道为什么 Anthropic 不在乎用户了",
+   "url": "http://www.geekpark.net/news/373006",
+   "desc": "大的，终于来了。 10 月 26 日，Anthropic 向美国证监会公开递交了 S-1 招股书，准备在纳斯达克全球精选市场挂牌上市，股票代码定为 ANT。媒体报道中， 这家公司的估值讨论区间已经来到了 1.5 万亿至 2 万亿美元 ，发行价区间尚未披露。 24 小时内，这本 300 多页的招股书已经被科技圈和金融圈翻了个底朝天，最抓眼球的几个数字大家都看过了：2026 年上半年营收 162.86",
+   "atRaw": "Tue, 27 Oct 2026 16:55:13 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 16:55"
+  },
+  {
+   "title": "Manus，刚刚悄悄发布了自己的 2.0 宣言",
+   "url": "http://www.geekpark.net/news/373004",
+   "desc": "10 月 26 日，Manus 联合创始人、产品合伙人张涛（网名 HideCloud）最近在自己的公众号「潜云思绪」写了一篇长文，标题叫《 用 Manus 改造 Manus 》。 文章开头是一个让他印象很深的画面。他给工程师提了几条需求和 Bug，过一会儿去看进展，发现对方电脑上开着一排 Codex 和 Manus 的 Session。随便点开一个，输入就是他刚在 Slack 上发的需求原文，一字",
+   "atRaw": "Tue, 27 Oct 2026 16:49:29 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 16:49"
+  },
+  {
+   "title": "启元机器人第 5000 台下线，从规模化量产迈向商业化验证",
+   "url": "http://www.geekpark.net/news/373003",
+   "desc": "10 月 25 日，启元机器人第 5000 台个人机器人正式下线。从 9 月 20 日发售启元 Q1、T1 两款个人机器人，到一个月后完成 5000 台下线，启元在产能爬坡、制造体系与供应链协同上取得阶段性进展。 对仍处产业化早期的个人机器人行业而言，5000 台的意义不止于产量增长，更在于企业将研发阶段的技术能力转化为可复制的制造能力，并进一步连接产品交付、用户使用与软件迭代&mdash;&md",
+   "atRaw": "Tue, 27 Oct 2026 16:46:19 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 16:46"
+  },
+  {
+   "title": "帮用户抢 iPhone 折叠屏的 Agent，正在塑造 AI 时代电商的形状",
+   "url": "http://www.geekpark.net/news/373002",
+   "desc": "Shopify AI 交易订单增长了 13 倍。 10 月 16 日清晨，苹果第一款折叠屏手机 iPhone Duo 开启预购。1999 美元起售，首批产能紧张，没过多久交付日期就排到了明年 1 月。 这一次抢首发的，不只是守在屏幕前的人。 今年 Agent 成为 iPhone Duo 黄牛最严厉的父亲｜图片来源：Apple 在 MacRumors 论坛上，一位没抢到的用户愤愤不平地吐槽，Redd",
+   "atRaw": "Tue, 27 Oct 2026 16:42:40 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 16:42"
+  },
+  {
+   "title": "左手开源模型，右手创作 Agent，Hi3D 的 AI 3D 下半场",
+   "url": "http://www.geekpark.net/news/372939",
+   "desc": "作者｜Cynthia 编辑｜郑玄 2026 年的 AI 3D 赛道，正站在一个微妙的分水岭上。 一级市场的热度仍在攀升，新模型、新创业公司层出不穷，单图生 3D 的正面渲染效果几乎已经做到了以假乱真。 但剥开炫目的 Demo 外壳：绝大多数生成结果依然停留在「转台展示」阶段：一个精致的角色或机械模型，在灯光下缓缓旋转，鳞片、衣褶和金属刻纹栩栩如生；可这些细节一旦进入游戏引擎装配、工业仿真以及 3D",
+   "atRaw": "Tue, 27 Oct 2026 15:59:20 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 15:59"
+  },
+  {
+   "title": "苹果回应 iPhone 折叠屏问题：可申请换机；传腾讯绿泡泡短剧月活过亿；；Anthropic或下月上市｜极客早知道",
+   "url": "http://www.geekpark.net/news/372952",
+   "desc": "Anthropic 公开递交纳斯达克 IPO 申请：目标 11 月 16 日当周上市 Anthropic 正式踏上上市之路。这家成立仅五年、身处生成式 AI 浪潮核心的企业，本次 IPO 有望创下历史纪录。 Anthropic 在提交给美国证券交易委员会（SEC）的文件中披露，计划登陆纳斯达克交易所，股票代码定为「ANT」，目标在 11 月 16 日当周进行 IPO。该公司将设立 T 类特殊股票，",
+   "atRaw": "Tue, 27 Oct 2026 08:26:51 +0800",
+   "source": "geekpark",
+   "at": "2026-10-27 08:26"
+  },
+  {
+   "title": "今年的 1024，可能是最后一个程序员节",
+   "url": "http://www.geekpark.net/news/372944",
+   "desc": "作者｜Wildcard 编辑｜靖宇 今天一整天， X 上都有人在讨论，「 1024 程序员节日快乐，今年会不会是最后一个程序员节了 」。 这一天恰好是周六。微博上的话题叫「今年程序员节自带休息日」，配文说 AI 工具分担了重复编码，程序员终于能过一个不被紧急需求打断的节。 影石连续第五年给优秀程序员发黄金键帽，今年新增了一颗「F5」键，寓意不断刷新迭代。颁奖现场，一位年轻同事说了句玩笑话，「今年的",
+   "atRaw": "Mon, 26 Oct 2026 18:16:50 +0800",
+   "source": "geekpark",
+   "at": "2026-10-26 18:16"
+  },
+  {
+   "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+   "url": "http://www.geekpark.net/news/372943",
+   "desc": "作者｜宇航猿 编辑｜靖宇 10 月 23 日上午，Kimi 官方在 X 和视频号上发了一段 24 秒的视频。 画面里是一台复古风格的老式电脑，屏幕上开着 Kimi Code，终端里一行行地写着 Three.js 代码，在生成一个复杂的 3D 场景。眼尖的网友很快在左上角的模型栏里找到了答案&mdash;&mdash;「Model: Kimi K3.1」。 Kimi 官方发布的 K3.1 预热视频｜",
+   "atRaw": "Mon, 26 Oct 2026 18:16:08 +0800",
+   "source": "geekpark",
+   "at": "2026-10-26 18:16"
+  },
+  {
+   "title": "苹果发 iPhone 折叠屏官方文档，排查铰链故障；触屏 MacBook 或周三发布；《流浪地球 3》将曝光，春节上映｜极客早知道",
+   "url": "http://www.geekpark.net/news/372863",
+   "desc": "张雪时隔 17 年圆梦「水上漂」，在家乡麻阳刷新吉尼斯纪录 10 月 25 日，「张雪机车」创始人张雪驾驶改装摩托车 MX450，在湖南省怀化市麻阳苗族自治县郭公坪镇小坡村，成功挑战「改装摩托车在开阔水域行驶最远距离」吉尼斯世界纪录。 这场挑战要追溯到 2009 年。当时 22 岁的张雪在央视节目中骑着一辆车轮上焊着铁皮的摩托车冲向水面，四次尝试全部落水，最远只滑出 20 米，离他自己定下的 26",
+   "atRaw": "Mon, 26 Oct 2026 08:34:07 +0800",
+   "source": "geekpark",
+   "at": "2026-10-26 08:34"
+  },
+  {
+   "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
+   "url": "http://www.geekpark.net/news/372860",
+   "desc": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中&mdash;&mdash;几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到",
+   "atRaw": "Sun, 25 Oct 2026 08:52:41 +0800",
+   "source": "geekpark",
+   "at": "2026-10-25 08:52"
+  },
+  {
+   "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+   "url": "http://www.geekpark.net/news/372858",
+   "desc": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhon",
+   "atRaw": "Sat, 24 Oct 2026 08:34:27 +0800",
+   "source": "geekpark",
+   "at": "2026-10-24 08:34"
+  },
+  {
+   "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
+   "url": "http://www.geekpark.net/news/372807",
+   "desc": "头图来源：Hirdwire 2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。 过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate",
+   "atRaw": "Fri, 23 Oct 2026 14:15:58 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 14:15"
+  },
+  {
+   "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
+   "url": "http://www.geekpark.net/news/372805",
+   "desc": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。 很多中国家庭的卧室里，床垫往往是最舍得花钱的",
+   "atRaw": "Fri, 23 Oct 2026 14:10:37 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 14:10"
+  },
+  {
+   "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
+   "url": "http://www.geekpark.net/news/372803",
+   "desc": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一， 先造一个入口，再把 AI 慢慢塞进去 。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔",
+   "atRaw": "Fri, 23 Oct 2026 14:03:13 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 14:03"
+  },
+  {
+   "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+   "url": "http://www.geekpark.net/news/372801",
+   "desc": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。 过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认",
+   "atRaw": "Fri, 23 Oct 2026 13:56:53 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 13:56"
+  },
+  {
+   "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
+   "url": "http://www.geekpark.net/news/372767",
+   "desc": "DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。 截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。 消息人士透露，",
+   "atRaw": "Fri, 23 Oct 2026 08:49:03 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 08:49"
+  },
+  {
+   "title": "欧洲 AI，等来了黄仁勋",
+   "url": "http://www.geekpark.net/news/372763",
+   "desc": "GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题： 算力中心怎么建得更快，越来越能干的智能",
+   "atRaw": "Fri, 23 Oct 2026 06:41:03 +0800",
+   "source": "geekpark",
+   "at": "2026-10-23 06:41"
+  },
+  {
+   "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+   "url": "http://www.geekpark.net/news/372762",
+   "desc": "过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得",
+   "atRaw": "Thu, 22 Oct 2026 21:20:53 +0800",
+   "source": "geekpark",
+   "at": "2026-10-22 21:20"
+  },
+  {
+   "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
+   "url": "http://www.geekpark.net/news/372759",
+   "desc": "10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。 这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。 2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。 他不仅劝所有人要「相信 AI」，而且还反思，",
+   "atRaw": "Thu, 22 Oct 2026 19:56:03 +0800",
+   "source": "geekpark",
+   "at": "2026-10-22 19:56"
+  },
+  {
+   "title": "AI 漫剧越做越快，赚钱却没那么容易了",
+   "url": "http://www.geekpark.net/news/372746",
+   "desc": "「一个创作者加上 IP 和 AI 工具，就能完成漫剧创作全流程。」 在上周举行的阅文创作大会上，阅文集团 CEO 侯晓楠这样描述正在兴起的「一人公司」。当日，阅文发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台，并推出「IP 委员会」模式，试图把故事从文字到影像，再到后续开发的过程连接起来。 看起来，AI 带来的机会似乎还在不断扩大。 但身处一线的漫剧从业",
+   "atRaw": "Thu, 22 Oct 2026 16:20:34 +0800",
+   "source": "geekpark",
+   "at": "2026-10-22 16:20"
+  }
+ ],
+ "stats": {
+  "elapsedMs": 10058,
+  "totalItems": 6,
+  "uniqueItems": 6,
+  "dupTitlesDropped": 0,
+  "cacheHits": 0,
+  "staleHits": 0,
+  "boardCounts": {
+   "国际 AI": 1
+  },
+  "byDay": {
+   "2026-11-01": 6
+  },
+  "bySource": {
+   "verge": 3,
+   "infoq": 2,
+   "techcrunch": 1
+  }
+ }
+}
