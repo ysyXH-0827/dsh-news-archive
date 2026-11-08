@@ -1,0 +1,27 @@
+{
+ "generatedAt": "2026-11-08T19:23:10.131Z",
+ "targetDate": "2026-11-09",
+ "title": "日报｜2026-11-09",
+ "topic": null,
+ "scale": "medium",
+ "uniqueItems": [],
+ "allItems": [],
+ "stats": {
+  "elapsedMs": 0,
+  "totalItems": 0,
+  "uniqueItems": 0,
+  "dupTitlesDropped": 0,
+  "cacheHits": 0,
+  "staleHits": 0,
+  "archive": {
+   "days": [],
+   "items": 0,
+   "skippedLive": false
+  },
+  "trippedFeeds": [],
+  "skippedExtraFeeds": [],
+  "boardCounts": {},
+  "byDay": {},
+  "bySource": {}
+ }
+}
